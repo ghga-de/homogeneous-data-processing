@@ -1,0 +1,96 @@
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# Import all R libraries
+library(patchwork)
+library(forcats)
+library(cowplot)
+library(knitr)
+library(kableExtra)
+library(ComplexHeatmap)
+library(dplyr)
+library(tidyr)
+library(maftools)
+library(gridExtra)
+library(ggpubr)
+library(GenomeInfoDb)
+library(GenomicRanges)
+library(karyoploteR)
+setwd("/Users/famke/01-ghga-project/homogeneous-data-processing/")
+results_folder <- "comparison/results/"
+dir.create(results_folder)
+getwd()
+```
+
+# Explorative Data Analysis
+```{r}
+all_mafs <- maftools::merge_mafs(maf=c(Sys.glob("/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/vcftomaf/results/*_mutect2.maf")))
+png(file = "comparison/results/oncoplot_sarek.png")
+oncoplot(all_mafs, top=12)
+dev.off()
+m1 <- all_mafs
+m1Name <- "sarek"
+```
+
+```{r}
+tcga_mafs <- maftools::merge_mafs(maf=c(Sys.glob("/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/tcga/maf/*.maf")))
+png(file = "comparison/results/oncoplot_tcga.png")
+oncoplot(tcga_mafs, top=12)
+dev.off()
+m2 <- tcga_mafs
+m2Name <- "tcga"
+````
+
+```{r}
+# single onco plot
+single_maf = maftools::read.maf("/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/tcga/maf/2d5b64ec-32cd-47ae-a08a-f0d18f4d96d7.wxs.MuTect2.aliquot.maf")
+png(file = "comparison/results/single_oncoplot_tcga.png")
+oncoplot(single_maf, top=12)
+dev.off()
+```
+
+```{r}
+# Define the minimum number of occurrences for a mutation to be included
+min_occurrences <- 10  # Adjust this value as needed
+
+# Filter out multi-hit mutations that do not occur frequently
+tcga_mafs_filtered <- maftools::subsetMaf(tcga_mafs, query = paste0("Variant_Classification %in% 'Missense_Mutation' & n_occurrences >= ", min_occurrences), isTCGA=TRUE)
+
+png(file = "comparison/results/oncoplot_tcga_filtered.png")
+oncoplot(tcga_mafs_filtered, top=12)
+dev.off()
+m2 <- tcga_mafs_filtered
+m2Name <- "tcga_filtered"
+```
+
+```{r}
+sarek_vs_tcga <- maftools::mafCompare(all_mafs,tcga_mafs,m1Name = 'sarek',m2Name = 'tcga', minMut = 5)
+png(file = "comparison/results/forestplot.png")
+forestPlot(
+  mafCompareRes = sarek_vs_tcga,
+  pVal = 0.05,
+  geneFontSize = 1.2,
+  titleSize = 1.2,
+  lineWidth = 2.2,
+  height = 10,
+)
+dev.off()
+write.table(sarek_vs_tcga, file = "comparison/results/sarek_vs_tcga.txt", sep = "\t", quote = FALSE)
+```
+
+```{r}
+png(file = "comparison/results/co-onco.png")
+coOncoplot(m1 = m2, m2 = m1, m1Name = m2Name, m2Name = m1Name, removeNonMutated = TRUE)
+dev.off()
+```
+```{r}
+png(file = "comparison/results/co-bar.png")
+coBarplot(m1, m2, m1Name, m2Name)
+dev.off()
+```
+
+```{r}
+png(file = "comparison/results/lolli.png")
+lollipopPlot2(m1 = m1, m2 = m2, gene = "MUC6", m1_name=m1Name, m2_name=m2Name)
+dev.off()
+```
