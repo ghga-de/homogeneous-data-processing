@@ -93,6 +93,9 @@ def main(sarek_sample_sheet, custom_path, output_file):
     # Get tumor and normal names for each caller and patient
     caller_rows[['vcf_normal_id', 'vcf_tumor_id']] = caller_rows.apply(lambda row: pd.Series({'vcf_normal_id': get_tumor_normal_names_vcf(row['patient'], row['caller'], sarek_sheet)['vcf_normal_id'], 'vcf_tumor_id': get_tumor_normal_names_vcf(row['patient'], row['caller'], sarek_sheet)['vcf_tumor_id']}), axis=1)
     
+    # Filter callers
+    caller_rows = caller_rows[caller_rows['caller'] != 'manta']
+
     # Generate sample names
     caller_rows['sample'] = caller_rows.apply(lambda row: f'{row["patient"]}_{row["caller"]}', axis=1)
     

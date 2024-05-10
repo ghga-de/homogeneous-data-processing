@@ -20,4 +20,6 @@ To use any of the scripts in this directory, you can simply run them using Pytho
 python gdc_to_sarek_sheet.py --gdc_sample_sheet <path/to/gdc-sheet> --clinical_sheet <path/to/gdc-clinical-sheet> --custom_path <path/to/bam-files> --output_file <output.csv>
 
 python sarek_to_maf_sheet.py --sarek_sample_sheet <path/to/sarek-sheet> --custom_path <path/to/results/annotation> --output_file <output.csv>
+
+python sarek_to_maf_sheet.py --sarek_sample_sheet /Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/sarek/sarek_samplesheet.csv --custom_path /sfs/9/ws/paifb01-tcga/sarek-results/annotation --output_file ../vcftomaf/vcftomaf_samplesheet.csv
 ```
