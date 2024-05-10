@@ -1,0 +1,8 @@
+{
+    "input": "\/sfs\/9\/ws\/paifb01-tcga\/samplesheet.csv",
+    "outdir": "\/sfs\/9\/ws\/paifb01-tcga\/sarek-results",
+    "intervals": "/sfs/9/ws/paifb01-tcga/reference/target/SeqCap_EZ_Exome_v3_hg38_capture_targets_sorted.bed",
+    "tools": "haplotypecaller,strelka,mutect2,manta,ascat,cnvkit,vep,snpeff",
+    "only_paired_variant_calling": true,
+    "email": "famke.baeuerle@qbic.uni-tuebingen.de"
+}
