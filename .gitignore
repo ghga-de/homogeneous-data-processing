@@ -1,3 +1,3 @@
-variantcalling/vcftomaf/results/*
-variantcalling/tcga/*
-variantcalling/sarek/input/*
+variantcalling/TCGA-CHOL/vcftomaf/results/*
+variantcalling/TCGA-CHOL/tcga-data/*
+variantcalling/TCGA-CHOL/sarek/input/*
