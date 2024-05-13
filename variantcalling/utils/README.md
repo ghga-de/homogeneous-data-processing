@@ -1,10 +1,4 @@
 # Utils
-
-This directory contains a collection of Python scripts that provide various utility functions and helper scripts for data processing and variant calling.
-
-## Scripts
-
-# Utils
 This directory contains a collection of Python scripts that provide various utility functions and helper scripts for data processing and variant calling.
 
 ## Scripts
