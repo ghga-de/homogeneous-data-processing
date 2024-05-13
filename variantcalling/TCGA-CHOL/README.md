@@ -20,9 +20,9 @@
     3. TCGA-5A-A8ZG
 6. Find target `bed` files for WXS experiments
     
-    [https://api.gdc.cancer.gov/files/](https://api.gdc.cancer.gov/files/)e52d13b0-1cb9-4f08-82e0-4dc024713a94?pretty=true&fields=analysis.metadata.read_groups.target_capture_kit_target_region
+    [https://api.gdc.cancer.gov/files/](https://api.gdc.cancer.gov/files/e52d13b0-1cb9-4f08-82e0-4dc024713a94?pretty=true&fields=analysis.metadata.read_groups.target_capture_kit_target_region)
     
-    [https://api.gdc.cancer.gov/files/](https://api.gdc.cancer.gov/files/)3a3f85d0-5d76-4c46-96b0-58443d2d1f81?pretty=true&fields=analysis.metadata.read_groups.target_capture_kit_target_region
+    [https://api.gdc.cancer.gov/files/](https://api.gdc.cancer.gov/files/3a3f85d0-5d76-4c46-96b0-58443d2d1f81?pretty=true&fields=analysis.metadata.read_groups.target_capture_kit_target_region)
     
     [http://www.genomedata.org/pmbio-workshop/results/all/inputs/SeqCapEZ_Exome_v3.0_Design_Annotation_files/](http://www.genomedata.org/pmbio-workshop/results/all/inputs/SeqCapEZ_Exome_v3.0_Design_Annotation_files/)
     
