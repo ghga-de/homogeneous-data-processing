@@ -1,0 +1,358 @@
+filepath,caller,case
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/8074ddab-0da0-420c-aa12-e0688c73f1f4.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-4G-AAZG
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/cf3ccfa9-649d-410d-95cd-6c4ede8277dc.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA30
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/f40f980d-4f4a-467e-8a27-c82a579e8830.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-YR-A95A
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/2f28b201-504d-4f91-9699-82756c13632f.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-ZH-A8Y3
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/9e55e5ad-87a5-429b-90d6-caaf6863fb1f.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-ZD-A8I3
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/cc9c8678-313f-466d-87bf-25cb53c88e08.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W7-A93P
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/e06634c0-e6ad-4457-872c-8cb44381f75a.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA2G
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/fafaa60c-ee12-46c6-862d-6771e13b00dc.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-3X-AAVA
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/f111d56f-7671-4c74-86b7-a4fc6cfbf2ed.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA2X
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/3b555b66-e8ac-4431-b254-fe84324a1f11.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA2W
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/767ad280-026f-4967-aae5-89c218296e26.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA33
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/cdc2835f-315a-46b9-828c-3b4c0e1d6194.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-5A-A8ZG
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/f9cb2fa8-8350-4801-befd-8f03d95b8847.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-3X-AAVB
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/988c4458-001d-4f0a-87c0-8c972d6bae3d.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-3X-AAVC
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/0621c27e-d4d3-4ce8-b273-60b6235a7928.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA2Q
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/9e1c340b-fbb0-489d-b880-0f9e115a6e81.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-4G-AAZT
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/08cf9773-f1e8-4dfd-9cc6-8a33c0d0bc18.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA2U
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/c49fd78c-35a3-4099-8640-da4783922517.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA34
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/57290cb6-4a8b-4a47-a8a2-1c3e4e1229f8.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA38
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/038fbb2f-32c8-409f-abfe-827a0a37301c.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA2M
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/9cf29cac-e0c2-494e-bfd1-d6bea9528b0f.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W7-A93N
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/1e1f749f-0677-4cb8-b2b2-493ed37a64be.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA2K
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/2c7d813c-6ccc-4181-b53a-f7c8b2f44c40.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-ZH-A8Y2
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/edd17348-0848-4011-bd84-ca3b045d4ba5.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA2R
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/d64cdc45-ac3d-42d0-bbb4-ea19d0cd6d57.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-3X-AAV9
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/d09028f7-4d79-4942-a775-3b83e0d33772.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-3X-AAVE
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/c4e63b64-be2d-4f78-8665-6322e9f76298.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-ZH-A8Y6
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/f3019b8e-c0db-485a-a511-a2a71739fffd.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA31
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/22f07636-5760-48a5-8975-2a1e2f61bb77.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-ZH-A8Y5
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/481006e7-c3a5-4985-8a82-68511d8e540c.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-ZH-A8Y8
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/5b449d81-3da7-4dae-9f36-caed394e402e.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-5A-A8ZF
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/28e353d8-979e-4d02-bab7-8b964070bc0c.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-ZH-A8Y4
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/f9f05e97-b357-4540-a559-c528438791bc.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W6-AA0S
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/4fd043d5-f99d-4600-94b8-06c705cd37d5.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W7-A93O
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/ce9916ba-4554-4c6d-8e30-dd2c30eb6624.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA39
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/9d137485-339d-43c1-bc34-4d90082f8322.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-WD-A7RX
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/3ee8d71a-9fcf-4bce-86dd-53cf829f6366.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-ZH-A8Y1
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/0026cc74-029d-437f-a2cb-155c074de9f9.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W6-AA0T
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/4e117e95-19ff-4a8b-99e0-3b1491549b5e.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-ZK-AAYZ
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/c1d02bd3-cfd0-43dc-9795-c8671163ddcb.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-4G-AAZO
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/4bca2119-b154-407a-ad0e-5a08efa40e8a.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA2J
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/46352f6b-dddc-46e9-a048-5ee4787fe5e8.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA36
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/14fe45d0-cd14-48d3-ab7b-4bd8f243fa04.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA2I
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/e3c367d1-5147-4039-9eb7-7ce09864f88d.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-4G-AAZF
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/52f04217-03bf-43ce-a6ca-e84537899480.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA2O
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/fc0e198a-18e7-4671-857f-dc42908b2d23.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA2T
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/e5941f9c-d5b5-40be-a9a6-61ede56d4332.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA2Z
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/7daaaf42-e27a-45c9-8013-e931975b3038.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-ZU-A8S4
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/ff0addb8-9df0-4aaa-8320-bfb3cb2eea42.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-4G-AAZR
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/05e2c709-5e95-46bf-93ae-6e7ca44e1603.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-ZH-A8Y7
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//muse-maf-pass/100a5eb8-f119-4544-b040-cb967a68e8ce.wxs.MuSE.aliquot.pass.maf,TCGA MuSE,TCGA-W5-AA2H
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/aa240c67-2ed0-4578-baad-a75d8c2e4889.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-4G-AAZG
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/daf4dee4-74e2-4da1-81b4-70a880edc933.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA30
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/aead64f9-39b6-4f48-a070-76887d2f13c8.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA30
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/8ebe1e75-a836-4de3-82d0-3983e6baf156.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA2W
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/7c3ea8bf-9ef7-45b4-a359-7c7571a1911c.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA2W
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/9e2bbed5-0a0e-4568-9895-212102658c90.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA2R
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/ede4bee2-b046-4baf-9a65-bbe0be386916.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-5A-A8ZF
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/79621dd3-978e-4919-a6c7-969d2bf82aa1.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-ZH-A8Y2
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/7095cb1e-1f67-479f-bf73-d8692ce36728.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-ZH-A8Y4
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/795d0437-597e-408b-9d20-a5bac72af3bb.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-5A-A8ZG
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/69d5c354-9552-401d-94ff-4f9a848cd23c.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA31
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/256018f3-e58e-47f2-9aab-a72c72f8692b.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W6-AA0S
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/4176d2ad-9203-47be-a1ee-9bfb34980f72.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-4G-AAZO
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/1b920033-2329-493a-9c78-9890e1a3173e.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-4G-AAZG
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/c82d1f0a-ba72-4337-bb0b-f47143cd46a6.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA2X
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/469c1a87-c307-4eb2-b0ff-3f9e2138c1f7.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA2X
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/0b608f18-43ed-43e4-a06a-e9f0f66fbd6f.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-3X-AAV9
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/7307b98c-c2ea-4daf-99be-72fe7f7e8863.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-ZH-A8Y3
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/d13540b2-51ed-4f40-9e2a-c85fc5eacb3b.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA33
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/fdbe6808-09b0-4baa-921e-b39e1c67aa23.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-ZH-A8Y3
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/a69e30f1-dfc4-4fcb-9e95-0ce36bf0902f.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-YR-A95A
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/c487a34d-84d7-44e4-b600-1978b82d09f3.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA33
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/c593fa3f-97e5-4322-ba75-8b2e68b49eae.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA2T
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/22c46353-628b-4dfd-b97e-029c74442c7f.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-3X-AAVE
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/becc7035-da17-4b09-a7cd-6659808b8284.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-3X-AAVE
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/e013ee39-e755-4048-9549-74ea004934eb.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-ZH-A8Y6
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/f9cd658c-35fd-4c19-aca8-217a021a0892.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA2G
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/b5f87d8e-203d-468b-ac46-41a201a766eb.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-5A-A8ZG
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/7e078043-a4b7-4655-9cda-ed0235afcbfb.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W6-AA0T
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/221640a5-d636-41f8-ad4f-53b9e231d19b.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA2Z
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/e5bf02ae-5d0f-4a65-a255-d263615798b6.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-ZK-AAYZ
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/96a7ba8b-9020-4041-852a-91e2759fac21.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA38
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/9c733e94-6840-4621-8aa2-84fcaebe9f0a.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA39
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/bc5be262-6959-49bc-94aa-3b48f364c430.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA34
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/f254520f-7ff1-44cc-bad1-337c718981bf.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-ZH-A8Y8
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/59cbb217-1e53-4d46-94de-8fae91955aac.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-YR-A95A
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/d74f746e-e47e-4884-82dd-fc66255e2943.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA2K
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/4e060d13-b195-48fb-b77e-a4e149e23a83.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W7-A93P
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/4a0ca53d-4b22-4983-b048-f6bb2c746c8c.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA2T
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/0d9aa109-b247-42fa-87cb-17b702f9f4dc.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W7-A93P
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/0692819f-0a4d-413f-a9ca-e53ec24b8c6a.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-ZH-A8Y6
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/3a835955-a85f-4ab4-ba8a-c98945b50ef3.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-3X-AAVA
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/092ef168-6c87-4616-8efb-df4faa325821.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W6-AA0T
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/bc48eb37-22b9-46c1-9393-81d347115bc0.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-ZH-A8Y5
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/aec48642-53a9-49d9-86d9-d290ab3e1a53.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-3X-AAVB
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/e18282d7-1fb7-496d-8b20-d03c516986cf.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA2Q
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/3e9b9b6e-d455-4b97-bd0c-f8a8341f497f.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-ZH-A8Y5
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/0f4b0a33-2f6d-42d1-8f6a-a639019710e7.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-4G-AAZF
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/b485b3ab-6c55-41fb-a375-1c869b8e6812.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-4G-AAZF
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/516f9bcb-0406-48df-a5bc-fdbdec7d0f33.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W7-A93O
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/575550a7-d436-4434-93e1-00f194e6e8be.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA34
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/b4e33de3-abf9-4e33-8058-eb06505f76ff.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W7-A93N
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/5ee90865-e387-47ac-9d30-7ab0353e50fe.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-WD-A7RX
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/65fbe2f8-99a1-4d07-8b42-64e29d6b9b97.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-WD-A7RX
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/8d80fa01-110b-43b4-94c9-5e881b9e0b67.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA2G
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/5bc1cfc1-64f6-40ef-9cb0-237b3cb88e6e.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA2Z
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/9a7b09b7-dff0-4bfa-8cbf-f8bec7fd7405.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-ZK-AAYZ
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/f59f4f48-69d5-4fba-829f-bc1fabb75527.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-3X-AAVC
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/7d6f2f7d-ec97-4c79-b617-3ffc6c129de6.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA2I
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/b1e2b911-b5f1-4fcb-b219-bcdfcd6a9891.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-4G-AAZT
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/f45c3689-944c-4d85-9967-e2f3b93b5b17.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W7-A93O
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/2c9715b9-bb25-49c4-a873-4adf9ce07fbe.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA2M
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/310cd3b3-302c-4cd3-8f68-a81f90c11fbc.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-ZH-A8Y8
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/f9a21c48-64d4-4852-8244-6f2dcdc3be19.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W7-A93N
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/7b3a34dc-851b-4435-9e41-fd3b2e220172.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA2K
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/0afb195a-725b-4f86-a1ea-c4db82ecd6e6.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W6-AA0S
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/61f36a06-a6e0-4beb-8d2c-74083fe43ac5.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA2J
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/04a88648-aaf2-41bb-b950-94fa9cce8c0e.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-4G-AAZO
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/557b36d1-9c22-4a21-8172-8c458ff94479.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA2Q
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/8903dc92-9a3c-44fd-bafb-8d1f97af8add.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-3X-AAVC
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/586cd409-d684-46d4-a51c-2092e4e76de8.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA36
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/fafb5211-28a7-43f6-b622-0ec28f6f3754.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA2U
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/3159d24e-c175-45b6-aaad-7b839bb83028.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA2U
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/ba8d6d67-308e-446d-a0ad-bea1112550da.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA2I
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/a2c4ebd6-65b1-404d-b631-a516f64bcab7.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA39
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/81304c75-d1bc-4364-a448-e06c2bc6daca.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA38
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/019475e4-60e1-4ba3-9c17-aa8b34a15884.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA2M
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/0a975f2f-89dd-4847-a3ff-a38645419473.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA2O
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/1baab270-88b0-4338-a44b-f93c2e7fd288.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-ZH-A8Y1
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/392fda82-5110-4985-9287-8e7ed2a1ed2a.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA2O
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/6dd9a468-56db-451f-be0f-cd44f7cdf6a8.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-ZD-A8I3
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/f7de60eb-77cf-433d-8181-e41ae5790a22.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA2R
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/acb7d578-a452-40ff-9f78-f37c2ded92ea.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-ZH-A8Y2
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/65f9a124-4698-4f14-baf8-2db329aac3cb.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-ZD-A8I3
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/10dee5d1-6f50-495d-a08a-cf49934c0b16.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-5A-A8ZF
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/6356a788-5e44-4363-b3db-c42d8e447251.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-3X-AAV9
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/53d90ef8-4d74-4578-9861-ff7222b3b036.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-ZH-A8Y4
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/6f2114f2-e9e8-4c3c-a6a9-1a87b2ffef96.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA31
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/676e09a4-9bc6-4716-a154-c64ce342210e.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-3X-AAVA
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/ed6200f2-a5a5-4825-9eea-fae430caeece.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA2J
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/38b35c44-7709-459c-a2bf-2d2291128b12.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-3X-AAVB
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/175e55a0-6c5a-4af2-80a1-7afa2104cb77.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-4G-AAZT
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/6d2c29f3-1d8f-48aa-9862-5f2ee9beec09.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA36
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/c9455a81-fa57-4f1b-beeb-36e6e3a37217.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-ZU-A8S4
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/6f7a1ce4-4b25-49f3-bf0f-436fd9b770ee.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-ZU-A8S4
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/088e004a-6519-4c4a-8525-4518ae385dc6.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-ZH-A8Y1
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/911fa5f3-90e2-4e02-b3bd-583210bba314.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-W5-AA2H
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/00fd1e30-650e-4c2e-a8af-a4ff66d22b14.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-W5-AA2H
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/44f47f59-7ad3-4575-838a-98a28e4231c5.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-4G-AAZR
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/1dd62ef4-ed64-4ff0-92f4-740d45789131.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-4G-AAZR
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/2b2394d4-a5ee-4d57-9ee0-b2201d7e5207.wxs.Pindel.aliquot.pass.maf,TCGA Pindel,TCGA-ZH-A8Y7
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//pindel-varscan-maf-pass/5313110f-0694-45d9-b8a6-a9ade1a51de3.wxs.VarScan2.aliquot.pass.maf,TCGA VarScan2,TCGA-ZH-A8Y7
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/d9e6b926-a73c-43b7-acab-22455d6f503f.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA2X
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/38203a92-e403-4da1-8cb2-dca6d729b22f.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA30
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/7cd2ac22-e4a4-4f47-9a02-47be34fc598e.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA2T
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/a1abf08d-5e0e-4e7a-a72d-8758540850b6.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-3X-AAVE
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/5021f6f5-e644-49ae-bc1c-78b6153cee2b.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-3X-AAVA
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/627e5866-b7df-42fa-a0fd-f3555c346ce2.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-4G-AAZG
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/af0e5a9d-2578-4389-9ff6-75df2dae1151.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-ZH-A8Y7
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/ea95d163-dfce-43fd-b882-9adac6008594.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA33
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/2d5b64ec-32cd-47ae-a08a-f0d18f4d96d7.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA2W
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/a3d3bd0f-a363-40e0-b6ff-f8eaaa1f0580.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-ZH-A8Y3
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/822303ba-f03a-4283-ba70-3946a32fb929.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-YR-A95A
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/6a0c2215-f348-41a1-91a3-84b04a488ebc.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA2H
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/69152c4c-b5b5-43ad-b0f3-319074fdae0a.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA2R
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/300db0ca-db8e-4321-b017-093f2c1db6f9.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W7-A93P
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/77652642-2b2c-46bb-8f85-39c50f397ea0.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W6-AA0S
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/d9dcec09-25b0-4452-a29b-5064eb7ddbea.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA2Z
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/d69a2bc5-b965-43de-91f6-e201c773626f.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA2J
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/49c0651f-15d9-4438-be65-143d0cd690ce.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-3X-AAVB
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/80c4e7f7-50e2-41f4-b425-cf99708e7002.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-4G-AAZO
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/adc4a272-d336-48d0-8f73-4131bddc6709.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA2U
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/77d19e8a-a687-472d-8a00-1378f770fc6e.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-ZH-A8Y1
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/ec23c6fa-7d27-424b-8cea-a0ea2202ab4e.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-5A-A8ZF
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/ad5aa00d-5e1e-49fb-b633-4b9b73ab00f7.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-ZD-A8I3
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/ac35dafa-093a-4d4f-af99-cc00ecc55f9d.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-ZH-A8Y2
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/444f94c8-dcd8-4472-be04-a29ff0da03a6.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-ZK-AAYZ
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/daed88fc-cd69-4e0d-9824-d5a1090ba916.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA2I
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/3e696ab8-d17a-480f-9444-45a285f25286.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-4G-AAZT
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/6aeba449-f73f-4fc1-ad0a-709ac4362369.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-4G-AAZF
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/9b41385a-d02c-415c-a8f3-cab09db83f14.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W7-A93O
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/9712b7ed-e73b-4d11-a36e-221c8edb9212.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA2M
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/43d09feb-4217-494d-bc09-f5a9b17ab223.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-WD-A7RX
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/36eb7d69-37c5-4c4d-bb99-a3cbd856bf96.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA2G
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/f98ad9d8-20b0-434a-9c36-9e51203ee983.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-5A-A8ZG
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/14cb6917-8a3d-4fbd-8796-360f312cb950.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-ZH-A8Y4
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/405acd05-1b0e-44d0-a004-34ef8249e4d0.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-ZH-A8Y5
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/ed776705-d65a-48a2-9fe1-4f5cc82b858f.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA2Q
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/c70c3ed0-3ced-45ab-8f16-831afdcc2ca8.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA34
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/f322035d-de17-484c-8f5c-b479305baab9.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-ZH-A8Y8
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/44e82733-3f0c-46ea-887d-2b64b517e52e.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-ZH-A8Y6
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/282b2254-41b3-44a8-aafa-86c9c53a4422.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-3X-AAV9
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/73bde231-3f14-4078-903c-91e78080d0c3.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W6-AA0T
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/97af92a1-a1dd-47a3-b743-868f6f2228c8.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA31
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/8a26ce0b-6638-4ce0-8c5a-ce78b76adbe6.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA39
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/f048a460-2972-4825-9ff8-baaeea4db6c7.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W7-A93N
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/4640240a-8ede-4d31-9aed-72b965c15979.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA2K
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/95e1b6bd-3c49-4f6a-8e66-0da45ee161dd.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-3X-AAVC
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/8ee253f4-b67d-4d36-ae06-0ac0849784d4.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA36
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/b77c8966-da60-4c08-abcc-1d0c15c9ac39.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-ZU-A8S4
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/03d6e682-0f36-4578-8d03-f572cdf73fa5.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA38
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/5e5adcc0-be9b-4b5f-874b-53eab217a734.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-4G-AAZR
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data//mutect-maf-pass/ea241409-d9be-4e92-b32a-afed1c995a8e.wxs.MuTect2.aliquot.pass.maf,TCGA MuTect,TCGA-W5-AA2O
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-4G-AAZG_mutect2.maf,Sarek Mutect,TCGA-4G-AAZG
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-4G-AAZG_strelka_snv.maf,Sarek Strelka SNV,TCGA-4G-AAZG
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-4G-AAZG_strelka_snv.maf,Sarek Strelka SNV,TCGA-4G-AAZG
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA30_mutect2.maf,Sarek Mutect,TCGA-W5-AA30
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA30_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA30
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA30_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA30
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-YR-A95A_mutect2.maf,Sarek Mutect,TCGA-YR-A95A
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-YR-A95A_strelka_snv.maf,Sarek Strelka SNV,TCGA-YR-A95A
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-YR-A95A_strelka_snv.maf,Sarek Strelka SNV,TCGA-YR-A95A
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y3_mutect2.maf,Sarek Mutect,TCGA-ZH-A8Y3
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y3_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZH-A8Y3
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y3_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZH-A8Y3
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZD-A8I3_mutect2.maf,Sarek Mutect,TCGA-ZD-A8I3
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZD-A8I3_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZD-A8I3
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZD-A8I3_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZD-A8I3
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W7-A93P_mutect2.maf,Sarek Mutect,TCGA-W7-A93P
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W7-A93P_strelka_snv.maf,Sarek Strelka SNV,TCGA-W7-A93P
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W7-A93P_strelka_snv.maf,Sarek Strelka SNV,TCGA-W7-A93P
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2G_mutect2.maf,Sarek Mutect,TCGA-W5-AA2G
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2G_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2G
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2G_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2G
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-3X-AAVA_mutect2.maf,Sarek Mutect,TCGA-3X-AAVA
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-3X-AAVA_strelka_snv.maf,Sarek Strelka SNV,TCGA-3X-AAVA
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-3X-AAVA_strelka_snv.maf,Sarek Strelka SNV,TCGA-3X-AAVA
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2X_mutect2.maf,Sarek Mutect,TCGA-W5-AA2X
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2X_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2X
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2X_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2X
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2W_mutect2.maf,Sarek Mutect,TCGA-W5-AA2W
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2W_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2W
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2W_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2W
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA33_mutect2.maf,Sarek Mutect,TCGA-W5-AA33
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA33_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA33
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA33_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA33
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-5A-A8ZG_mutect2.maf,Sarek Mutect,TCGA-5A-A8ZG
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-5A-A8ZG_strelka_snv.maf,Sarek Strelka SNV,TCGA-5A-A8ZG
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-5A-A8ZG_strelka_snv.maf,Sarek Strelka SNV,TCGA-5A-A8ZG
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-3X-AAVB_mutect2.maf,Sarek Mutect,TCGA-3X-AAVB
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-3X-AAVB_strelka_snv.maf,Sarek Strelka SNV,TCGA-3X-AAVB
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-3X-AAVB_strelka_snv.maf,Sarek Strelka SNV,TCGA-3X-AAVB
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-3X-AAVC_mutect2.maf,Sarek Mutect,TCGA-3X-AAVC
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-3X-AAVC_strelka_snv.maf,Sarek Strelka SNV,TCGA-3X-AAVC
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-3X-AAVC_strelka_snv.maf,Sarek Strelka SNV,TCGA-3X-AAVC
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2Q_mutect2.maf,Sarek Mutect,TCGA-W5-AA2Q
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2Q_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2Q
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2Q_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2Q
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-4G-AAZT_mutect2.maf,Sarek Mutect,TCGA-4G-AAZT
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-4G-AAZT_strelka_snv.maf,Sarek Strelka SNV,TCGA-4G-AAZT
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-4G-AAZT_strelka_snv.maf,Sarek Strelka SNV,TCGA-4G-AAZT
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2U_mutect2.maf,Sarek Mutect,TCGA-W5-AA2U
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2U_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2U
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2U_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2U
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA34_mutect2.maf,Sarek Mutect,TCGA-W5-AA34
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA34_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA34
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA34_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA34
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA38_mutect2.maf,Sarek Mutect,TCGA-W5-AA38
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA38_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA38
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA38_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA38
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2M_mutect2.maf,Sarek Mutect,TCGA-W5-AA2M
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2M_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2M
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2M_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2M
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W7-A93N_mutect2.maf,Sarek Mutect,TCGA-W7-A93N
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W7-A93N_strelka_snv.maf,Sarek Strelka SNV,TCGA-W7-A93N
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W7-A93N_strelka_snv.maf,Sarek Strelka SNV,TCGA-W7-A93N
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2K_mutect2.maf,Sarek Mutect,TCGA-W5-AA2K
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2K_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2K
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2K_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2K
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y2_mutect2.maf,Sarek Mutect,TCGA-ZH-A8Y2
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y2_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZH-A8Y2
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y2_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZH-A8Y2
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2R_mutect2.maf,Sarek Mutect,TCGA-W5-AA2R
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2R_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2R
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2R_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2R
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-3X-AAV9_mutect2.maf,Sarek Mutect,TCGA-3X-AAV9
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-3X-AAV9_strelka_snv.maf,Sarek Strelka SNV,TCGA-3X-AAV9
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-3X-AAV9_strelka_snv.maf,Sarek Strelka SNV,TCGA-3X-AAV9
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-3X-AAVE_mutect2.maf,Sarek Mutect,TCGA-3X-AAVE
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-3X-AAVE_strelka_snv.maf,Sarek Strelka SNV,TCGA-3X-AAVE
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-3X-AAVE_strelka_snv.maf,Sarek Strelka SNV,TCGA-3X-AAVE
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y6_mutect2.maf,Sarek Mutect,TCGA-ZH-A8Y6
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y6_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZH-A8Y6
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y6_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZH-A8Y6
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA31_mutect2.maf,Sarek Mutect,TCGA-W5-AA31
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA31_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA31
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA31_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA31
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y5_mutect2.maf,Sarek Mutect,TCGA-ZH-A8Y5
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y5_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZH-A8Y5
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y5_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZH-A8Y5
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y8_mutect2.maf,Sarek Mutect,TCGA-ZH-A8Y8
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y8_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZH-A8Y8
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y8_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZH-A8Y8
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-5A-A8ZF_mutect2.maf,Sarek Mutect,TCGA-5A-A8ZF
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-5A-A8ZF_strelka_snv.maf,Sarek Strelka SNV,TCGA-5A-A8ZF
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-5A-A8ZF_strelka_snv.maf,Sarek Strelka SNV,TCGA-5A-A8ZF
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y4_mutect2.maf,Sarek Mutect,TCGA-ZH-A8Y4
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y4_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZH-A8Y4
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y4_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZH-A8Y4
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W6-AA0S_mutect2.maf,Sarek Mutect,TCGA-W6-AA0S
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W6-AA0S_strelka_snv.maf,Sarek Strelka SNV,TCGA-W6-AA0S
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W6-AA0S_strelka_snv.maf,Sarek Strelka SNV,TCGA-W6-AA0S
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W7-A93O_mutect2.maf,Sarek Mutect,TCGA-W7-A93O
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W7-A93O_strelka_snv.maf,Sarek Strelka SNV,TCGA-W7-A93O
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W7-A93O_strelka_snv.maf,Sarek Strelka SNV,TCGA-W7-A93O
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA39_mutect2.maf,Sarek Mutect,TCGA-W5-AA39
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA39_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA39
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA39_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA39
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-WD-A7RX_mutect2.maf,Sarek Mutect,TCGA-WD-A7RX
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-WD-A7RX_strelka_snv.maf,Sarek Strelka SNV,TCGA-WD-A7RX
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-WD-A7RX_strelka_snv.maf,Sarek Strelka SNV,TCGA-WD-A7RX
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y1_mutect2.maf,Sarek Mutect,TCGA-ZH-A8Y1
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y1_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZH-A8Y1
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y1_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZH-A8Y1
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W6-AA0T_mutect2.maf,Sarek Mutect,TCGA-W6-AA0T
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W6-AA0T_strelka_snv.maf,Sarek Strelka SNV,TCGA-W6-AA0T
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W6-AA0T_strelka_snv.maf,Sarek Strelka SNV,TCGA-W6-AA0T
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZK-AAYZ_mutect2.maf,Sarek Mutect,TCGA-ZK-AAYZ
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZK-AAYZ_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZK-AAYZ
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZK-AAYZ_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZK-AAYZ
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-4G-AAZO_mutect2.maf,Sarek Mutect,TCGA-4G-AAZO
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-4G-AAZO_strelka_snv.maf,Sarek Strelka SNV,TCGA-4G-AAZO
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-4G-AAZO_strelka_snv.maf,Sarek Strelka SNV,TCGA-4G-AAZO
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2J_mutect2.maf,Sarek Mutect,TCGA-W5-AA2J
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2J_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2J
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2J_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2J
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA36_mutect2.maf,Sarek Mutect,TCGA-W5-AA36
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA36_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA36
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA36_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA36
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2I_mutect2.maf,Sarek Mutect,TCGA-W5-AA2I
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2I_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2I
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2I_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2I
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-4G-AAZF_mutect2.maf,Sarek Mutect,TCGA-4G-AAZF
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-4G-AAZF_strelka_snv.maf,Sarek Strelka SNV,TCGA-4G-AAZF
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-4G-AAZF_strelka_snv.maf,Sarek Strelka SNV,TCGA-4G-AAZF
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2O_mutect2.maf,Sarek Mutect,TCGA-W5-AA2O
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2O_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2O
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2O_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2O
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2T_mutect2.maf,Sarek Mutect,TCGA-W5-AA2T
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2T_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2T
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2T_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2T
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2Z_mutect2.maf,Sarek Mutect,TCGA-W5-AA2Z
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2Z_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2Z
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2Z_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2Z
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZU-A8S4_mutect2.maf,Sarek Mutect,TCGA-ZU-A8S4
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZU-A8S4_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZU-A8S4
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZU-A8S4_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZU-A8S4
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-4G-AAZR_mutect2.maf,Sarek Mutect,TCGA-4G-AAZR
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-4G-AAZR_strelka_snv.maf,Sarek Strelka SNV,TCGA-4G-AAZR
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-4G-AAZR_strelka_snv.maf,Sarek Strelka SNV,TCGA-4G-AAZR
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y7_mutect2.maf,Sarek Mutect,TCGA-ZH-A8Y7
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y7_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZH-A8Y7
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-ZH-A8Y7_strelka_snv.maf,Sarek Strelka SNV,TCGA-ZH-A8Y7
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2H_mutect2.maf,Sarek Mutect,TCGA-W5-AA2H
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2H_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2H
+/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA2H_strelka_snv.maf,Sarek Strelka SNV,TCGA-W5-AA2H
