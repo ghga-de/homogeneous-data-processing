@@ -1,0 +1,13 @@
+INFO [2024-08-08 11:44:06] $x
+INFO [2024-08-08 11:44:06] variant_list
+INFO [2024-08-08 11:44:06] 
+INFO [2024-08-08 11:44:06] $category.names
+INFO [2024-08-08 11:44:06] names(variant_list)
+INFO [2024-08-08 11:44:06] 
+INFO [2024-08-08 11:44:06] $filename
+INFO [2024-08-08 11:44:06] [1] "comparison/results/venn_diagram.png"
+INFO [2024-08-08 11:44:06] 
+INFO [2024-08-08 11:44:06] $output
+INFO [2024-08-08 11:44:06] [1] TRUE
+INFO [2024-08-08 11:44:06] 
+ERROR [2024-08-08 11:44:06] Incorrect number of elements.

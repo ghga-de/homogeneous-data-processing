@@ -1,0 +1,89 @@
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# Import all R libraries
+# library(maftools)
+library(patchwork)
+library(forcats)
+library(cowplot)
+library(knitr)
+library(kableExtra)
+library(ComplexHeatmap)
+library(dplyr)
+library(tidyr)
+library(maftools)
+library(gridExtra)
+library(ggpubr)
+library(GenomeInfoDb)
+library(GenomicRanges)
+library(karyoploteR)
+library(ggplot2)
+library(ggvenn)
+library(UpSetR)
+library(grid)
+setwd("/Users/famke/01-ghga-project/homogeneous-data-processing/")
+results_folder <- "comparison/results/AA39"
+dir.create(results_folder)
+getwd()
+```
+```{r}
+my_list <- list(
+    '/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data/mutect-maf-pass/8a26ce0b-6638-4ce0-8c5a-ce78b76adbe6.wxs.MuTect2.aliquot.pass.maf',
+    '/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data/pindel-varscan-maf-pass/9c733e94-6840-4621-8aa2-84fcaebe9f0a.wxs.Pindel.aliquot.pass.maf',
+    '/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data/pindel-varscan-maf-pass/a2c4ebd6-65b1-404d-b631-a516f64bcab7.wxs.VarScan2.aliquot.pass.maf',
+    '/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data/muse-maf-pass/ce9916ba-4554-4c6d-8e30-dd2c30eb6624.wxs.MuSE.aliquot.pass.maf',
+    '/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA39_mutect2.maf',
+    '/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA39_strelka_indel.maf',
+    '/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/TCGA-W5-AA39_strelka_snv.maf'
+)
+# Read all mafs from my_list
+all_mafs <- lapply(my_list, maftools::read.maf)
+
+# Combine the Strelka Indel and Strelka SNV MAF files
+strelka_combined <- maftools::merge_mafs(maf = list(all_mafs[[6]], all_mafs[[7]]))
+
+# Update the list of MAF objects
+all_mafs <- list(
+  all_mafs[[1]],  # TCGA MuTect2
+  # all_mafs[[2]],  # TCGA Pindel
+  all_mafs[[3]],  # TCGA VarScan
+  all_mafs[[4]],  # TCGA MuSE
+  all_mafs[[5]],  # Sarek Mutect
+  strelka_combined  # Combined Strelka Indel and SNV
+)
+print(all_mafs)
+```
+```{r}
+# Extract the variants for each sample and store them in a named list
+variant_list <- lapply(all_mafs, function(maf) maf@data$Hugo_Symbol)
+names(variant_list) <- c("TCGA MuTect2", 
+                        #"TCGA Pindel", 
+                        "TCGA VarScan", 
+                        "TCGA MuSE", 
+                        "Sarek Mutect", 
+                        "Sarek Strelka")
+variant_list
+```
+```{r}
+# Define the order of the sets
+set_order <- c("TCGA MuTect2", 
+               #"TCGA Pindel", 
+               "TCGA VarScan", 
+               "TCGA MuSE", 
+               "Sarek Mutect", 
+               "Sarek Strelka")
+
+png(file = "comparison/results/AA39/upset-AA39.png", width=600, height=700)
+# Create an UpSet plot
+upset_plot <- UpSetR::upset(fromList(variant_list), 
+                            sets = set_order,
+                            #order.by = "freq",
+                            main.bar.color = "skyblue",
+                            matrix.color = "skyblue",
+                            text.scale = 1.5,
+                            point.size = 3,
+                            )
+
+# Display the UpSet plot
+print(upset_plot)
+dev.off()
+```

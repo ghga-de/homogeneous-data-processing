@@ -1,0 +1,54 @@
+```{r}
+# Load necessary libraries
+library(maftools)
+library(readr)
+library(dplyr)
+library(UpSetR)
+
+# Step 1: Read the CSV files
+paths = list(
+    '/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/sarek_strelka_samples.csv',
+    '/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/sarek_mutect_samples.csv',
+    '/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga_mutect_samples.csv',
+    '/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga_pindel_samples.csv',
+    '/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga_varscan_samples.csv',
+    '/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga_muse_samples.csv'
+    )
+```
+```{r}
+# Step 2: Define a function to read MAF files from CSV column filepath
+read_mafs <- function(csv_file) {
+    maf_files <- read_csv(csv_file)$filepath
+    mafs <- lapply(as.list(maf_files), maftools::read.maf)
+    merged_mafs <-  maftools::merge_mafs(mafs)
+    return(merged_mafs)
+}
+```
+```{r}
+all_mafs <- llply(paths, read_mafs)
+print(all_mafs)
+```
+```{r}
+variant_list <- llply(all_mafs, function(maf) maf@data$Hugo_Symbol)
+
+# Name the columns of the matrix
+names(variant_list) <- c(
+    "Sarek Strelka",
+    "Sarek Mutect",
+    "TCGA MuTect2", 
+    "TCGA Pindel", 
+    "TCGA VarScan", 
+    "TCGA MuSE" 
+    )
+
+png(file = "comparison/results/upset-all.png", width=600, height=700)
+upset_plot <- UpSetR::upset(fromList(variant_list), 
+                            order.by = "freq",
+                            main.bar.color = "skyblue",
+                            matrix.color = "skyblue",
+                            text.scale = 1.5,
+                            point.size = 3,
+                            )
+print(upset_plot)
+dev.off()
+```

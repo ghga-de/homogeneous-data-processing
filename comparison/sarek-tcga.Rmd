@@ -17,6 +17,10 @@ library(ggpubr)
 library(GenomeInfoDb)
 library(GenomicRanges)
 library(karyoploteR)
+library(ggplot2)
+library(ggvenn)
+library(UpSetR)
+library(grid)
 setwd("/Users/famke/01-ghga-project/homogeneous-data-processing/")
 results_folder <- "comparison/results/"
 dir.create(results_folder)
@@ -65,5 +69,84 @@ dev.off()
 ```{r}
 png(file = "comparison/results/co-onco-mutect-strelka.png")
 coOncoplot(m1 =  sarek_mutect_mafs, m2 = sarek_strelka_mafs, m1Name = 's-mutect', m2Name = 's-strelka', removeNonMutated = TRUE)
+dev.off()
+```
+```{r}
+# Load MAF files
+sarek_strelka_mafs <- maftools::merge_mafs(maf=c(Sys.glob("/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/*_strelka_*.maf")))
+sarek_mutect_mafs <- maftools::merge_mafs(maf=c(Sys.glob("/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/vcftomaf/results/*_mutect2.maf")))
+tcga_mutect_mafs <- maftools::merge_mafs(maf=c(Sys.glob("/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data/mutect-maf-pass/*.maf")))
+tcga_muse_mafs <- maftools::merge_mafs(maf=c(Sys.glob("/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data/muse-maf-pass/*.maf")))
+tcga_pindel_mafs <- maftools::merge_mafs(maf=c(Sys.glob("/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data/pindel-varscan-maf-pass/*Pindel*.maf")))
+tcga_varscan_mafs <- maftools::merge_mafs(maf=c(Sys.glob("/Users/famke/01-ghga-project/homogeneous-data-processing/variantcalling/TCGA-CHOL/tcga-data/pindel-varscan-maf-pass/*VarScan2*.maf")))
+```
+```{r}
+# Get sample summaries
+sarek_strelka_summary <- maftools::getSampleSummary(sarek_strelka_mafs)
+sarek_mutect_summary <- maftools::getSampleSummary(sarek_mutect_mafs)
+tcga_mutect_summary <- maftools::getSampleSummary(tcga_mutect_mafs)
+tcga_muse_summary <- maftools::getSampleSummary(tcga_muse_mafs)
+tcga_pindel_summary <- maftools::getSampleSummary(tcga_pindel_mafs)
+tcga_varscan_summary <- maftools::getSampleSummary(tcga_varscan_mafs)
+
+# Shorten the Sample names to the first 16 characters for TCGA data
+tcga_mutect_summary$Tumor_Sample_Barcode <- substr(tcga_mutect_summary$Tumor_Sample_Barcode, 1, 16)
+tcga_muse_summary$Tumor_Sample_Barcode <- substr(tcga_muse_summary$Tumor_Sample_Barcode, 1, 16)
+tcga_pindel_summary$Tumor_Sample_Barcode <- substr(tcga_pindel_summary$Tumor_Sample_Barcode, 1, 16)
+tcga_varscan_summary$Tumor_Sample_Barcode <- substr(tcga_varscan_summary$Tumor_Sample_Barcode, 1, 16)
+```
+```{r}
+png(file = "comparison/results/variants-per-sample-all.png", width=900, height=600)
+ggplot(variant_summary_all, aes(x = Sample, y = Variants, fill = Caller)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    legend.position = "top",
+    panel.grid.minor = element_blank(),
+    panel.grid.major.x = element_blank(),
+    axis.ticks = element_blank()
+  ) +
+  labs(title = "Number of Variants per Sample", x = "Sample", y = "Number of Variants") +
+  geom_vline(xintercept = seq(1.5, length(unique(variant_summary_all$Sample)) - 0.5, by = 1), color = "grey", size = 0.5)
+dev.off()
+```
+```{r}
+# Assuming variant_summary_all is already defined and contains the data
+
+# Split the data frame into two parts
+first_half_samples <- unique(variant_summary_all$Sample)[1:25]
+second_half_samples <- unique(variant_summary_all$Sample)[26:51]
+
+variant_summary_first_half <- subset(variant_summary_all, Sample %in% first_half_samples)
+variant_summary_second_half <- subset(variant_summary_all, Sample %in% second_half_samples)
+
+# Plot for the first half
+png(file = "comparison/results/variants-per-sample-first-half.png", width=900, height=600)
+ggplot(variant_summary_first_half, aes(x = Sample, y = Variants, fill = Caller)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    legend.position = "top",
+    panel.grid.minor = element_blank(),
+    panel.grid.major.x = element_blank(),
+    axis.ticks = element_blank()
+  ) +
+  labs(title = "Number of Variants per Sample (First Half)", x = "Sample", y = "Number of Variants") +
+  geom_vline(xintercept = seq(1.5, length(unique(variant_summary_first_half$Sample)) - 0.5, by = 1), color = "grey", size = 0.5)
+dev.off()
+
+# Plot for the second half
+png(file = "comparison/results/variants-per-sample-second-half.png", width=900, height=600)
+ggplot(variant_summary_second_half, aes(x = Sample, y = Variants, fill = Caller)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    legend.position = "top",
+    panel.grid.minor = element_blank(),
+    panel.grid.major.x = element_blank(),
+    axis.ticks = element_blank()
+  ) +
+  labs(title = "Number of Variants per Sample (Second Half)", x = "Sample", y = "Number of Variants") +
+  geom_vline(xintercept = seq(1.5, length(unique(variant_summary_second_half$Sample)) - 0.5, by = 1), color = "grey", size = 0.5)
 dev.off()
 ```
