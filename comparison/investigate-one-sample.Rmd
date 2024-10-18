@@ -87,3 +87,50 @@ upset_plot <- UpSetR::upset(fromList(variant_list),
 print(upset_plot)
 dev.off()
 ```
+```{r}
+# Create a list to store the top 10 mutated genes per set
+top_genes_per_set <- list()
+
+# Iterate over each set in variant_list
+for (set_name in set_order) {
+  # Get the variants for the current set
+  variants <- variant_list[[set_name]]
+  
+  # Count the frequency of each gene
+  gene_counts <- table(variants)
+  
+  # Sort the genes by frequency in descending order
+  sorted_genes <- sort(gene_counts, decreasing = TRUE)
+  
+  # Get the top 10 mutated genes
+  top_genes <- names(sorted_genes)[1:10]
+  
+  # Store the top genes in the list
+  top_genes_per_set[[set_name]] <- top_genes
+}
+
+# Create a data frame to store the top mutated genes
+top_genes_df <- data.frame(matrix(ncol = length(set_order), nrow = 10))
+colnames(top_genes_df) <- set_order
+
+# Add frequency to the gene names in the data frame
+for (i in 1:length(set_order)) {
+  # Get the set name
+  set_name <- set_order[i]
+  
+  # Get the top mutated genes for the current set
+  top_genes <- top_genes_per_set[[set_name]]
+  
+  # Get the gene counts for the current set
+  gene_counts <- table(variant_list[[set_name]])
+  
+  # Add frequency to the gene names
+  top_genes_with_frequency <- paste(top_genes, " [", gene_counts[top_genes], "]", sep = "")
+  
+  # Assign the top genes with frequency to the corresponding column in the data frame
+  top_genes_df[, i] <- top_genes_with_frequency
+}
+
+# Export the data frame as a CSV file
+write.csv(top_genes_df, file = "comparison/results/AA39/top_mutated_genes.csv", row.names = FALSE)
+```
