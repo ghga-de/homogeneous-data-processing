@@ -1,0 +1,1311 @@
+﻿alias,accession,diagnosis_terms,sex,diagnosis_ids
+ReMaster_PID_0,GHGAI45326725029163,Malignant neoplasm of parotid gland,MALE,ICD-10:C07
+ReMaster_PID_1,GHGAI23076863708961,Malignant neoplasm of parotid gland,FEMALE,ICD-10:C07
+ReMaster_PID_2,GHGAI26042916305476,Malignant neoplasm of nasopharynx,FEMALE,ICD-10:C11
+ReMaster_PID_3,GHGAI37794480928736,Malignant neoplasm of accessory sinuses,MALE,ICD-10:C31
+ReMaster_PID_4,GHGAI10579257044446,Malignant neoplasm of base of tongue,MALE,ICD-10:C01
+ReMaster_PID_5,GHGAI51866603929903,Malignant neoplasm of parotid gland,FEMALE,ICD-10:C07
+ReMaster_PID_6,GHGAI48246928598420,Malignant neoplasm of nasopharynx,MALE,ICD-10:C11
+ReMaster_PID_7,GHGAI11989193167111,Malignant neoplasm of nasopharynx,FEMALE,ICD-10:C11
+ReMaster_PID_8,GHGAI55535926430250,Malignant neoplasm of nasal cavity and middle ear,MALE,ICD-10:C30
+ReMaster_PID_9,GHGAI37632464352678,Malignant neoplasm of thymus,FEMALE,ICD-10:C37
+ReMaster_PID_10,GHGAI62209684833098,Malignant neoplasm of parotid gland,MALE,ICD-10:C07
+ReMaster_PID_11,GHGAI28968562490271,Malignant neoplasm of parotid gland,FEMALE,ICD-10:C07
+ReMaster_PID_12,GHGAI69791207394859,Malignant neoplasm of other and unspecified major salivary glands,MALE,ICD-10:C08
+ReMaster_PID_13,GHGAI86785659447482,Malignant neoplasm of nasopharynx,MALE,ICD-10:C11
+ReMaster_PID_14,GHGAI31153249312078,Malignant neoplasm of parotid gland,MALE,ICD-10:C07
+ReMaster_PID_15,GHGAI85066406733013,Malignant neoplasm of parotid gland,MALE,ICD-10:C07
+ReMaster_PID_16,GHGAI79887269630387,Malignant neoplasm of parotid gland,FEMALE,ICD-10:C07
+ReMaster_PID_17,GHGAI51068101479015,Malignant neoplasm of accessory sinuses,FEMALE,ICD-10:C31
+ReMaster_PID_18,GHGAI11928784627009,Malignant neoplasm of nasopharynx,MALE,ICD-10:C11
+ReMaster_PID_19,GHGAI24307683661131,Other malignant neoplasms of skin,MALE,ICD-10:C44
+ReMaster_PID_20,GHGAI40969889915813,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_21,GHGAI58651165190794,Malignant neoplasm of base of tongue,MALE,ICD-10:C01
+ReMaster_PID_22,GHGAI39867925122455,Malignant neoplasm of other and unspecified major salivary glands,MALE,ICD-10:C08
+ReMaster_PID_23,GHGAI12144655535431,Malignant neoplasm of trachea,MALE,ICD-10:C33
+ReMaster_PID_24,GHGAI70621217168445,Malignant neoplasm of palate,FEMALE,ICD-10:C05
+ReMaster_PID_25,GHGAI19554368785630,Malignant neoplasm of other and unspecified parts of tongue,MALE,ICD-10:C02
+ReMaster_PID_26,GHGAI72881396091161,Malignant neoplasm of other and unspecified parts of tongue,MALE,ICD-10:C02
+ReMaster_PID_27,GHGAI10973997619342,Malignant neoplasm of nasopharynx,MALE,ICD-10:C11
+ReMaster_PID_28,GHGAI51533469484457,Malignant neoplasm of palate,FEMALE,ICD-10:C05
+ReMaster_PID_29,GHGAI70315128964463,Malignant neoplasm of parotid gland,FEMALE,ICD-10:C07
+ReMaster_PID_30,GHGAI03749044210622,Malignant neoplasm of floor of mouth,MALE,ICD-10:C04
+ReMaster_PID_31,GHGAI48397804757905,Malignant neoplasm of other and ill-defined sites in the lip - oral cavity and pharynx,FEMALE,ICD-10:C14
+ReMaster_PID_32,GHGAI88879733859903,Malignant neoplasm of parotid gland,FEMALE,ICD-10:C07
+ReMaster_PID_33,GHGAI60131190186810,Malignant neoplasm of other and unspecified parts of mouth,MALE,ICD-10:C06
+ReMaster_PID_34,GHGAI45505177368302,Malignant neoplasm of accessory sinuses,FEMALE,ICD-10:C31
+ReMaster_PID_35,GHGAI27424772719494,Malignant neoplasm of parotid gland,MALE,ICD-10:C07
+ReMaster_PID_36,GHGAI45558742545599,Malignant neoplasm of eye and adnexa,FEMALE,ICD-10:C69
+ReMaster_PID_37,GHGAI00417712556007,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,FEMALE,ICD-10:C41
+ReMaster_PID_38,GHGAI48580213643231,Malignant neoplasm of parotid gland,MALE,ICD-10:C07
+ReMaster_PID_39,GHGAI95467951751229,Malignant neoplasm of parotid gland,FEMALE,ICD-10:C07
+ReMaster_PID_40,GHGAI06069252485826,Malignant neoplasm of accessory sinuses,MALE,ICD-10:C31
+ReMaster_PID_41,GHGAI72964436456188,Malignant neoplasm of parotid gland,MALE,ICD-10:C07
+ReMaster_PID_42,GHGAI28043313503210,Malignant neoplasm of other and unspecified parts of tongue,FEMALE,ICD-10:C02
+ReMaster_PID_43,GHGAI55886006771418,Malignant neoplasm of nasopharynx,FEMALE,ICD-10:C11
+ReMaster_PID_44,GHGAI09355738439826,Malignant neoplasm of parotid gland,MALE,ICD-10:C07
+ReMaster_PID_45,GHGAI13928596119663,Malignant neoplasm of other and unspecified parts of tongue,FEMALE,ICD-10:C02
+ReMaster_PID_46,GHGAI84851255451876,Malignant neoplasm of other and unspecified major salivary glands,FEMALE,ICD-10:C08
+ReMaster_PID_47,GHGAI39598900047298,Malignant neoplasm of parotid gland,MALE,ICD-10:C07
+ReMaster_PID_48,GHGAI72931495668404,Malignant neoplasm of accessory sinuses,FEMALE,ICD-10:C31
+ReMaster_PID_49,GHGAI76487672226110,Malignant neoplasm of thymus,MALE,ICD-10:C37
+ReMaster_PID_50,GHGAI27531525390824,Malignant neoplasm of trachea,MALE,ICD-10:C33
+ReMaster_PID_51,GHGAI62776053774848,Malignant neoplasm of nasal cavity and middle ear,MALE,ICD-10:C30
+ReMaster_PID_52,GHGAI19985216032848,Malignant neoplasm of other and unspecified major salivary glands,MALE,ICD-10:C08
+ReMaster_PID_53,GHGAI81580744223952,Malignant neoplasm of other and unspecified major salivary glands,MALE,ICD-10:C08
+ReMaster_PID_54,GHGAI03112037265568,Malignant neoplasm of parotid gland,MALE,ICD-10:C07
+ReMaster_PID_55,GHGAI03515663779879,Malignant neoplasm of parotid gland,MALE,ICD-10:C07
+ReMaster_PID_56,GHGAI58422329060094,Malignant neoplasm of nasal cavity and middle ear,MALE,ICD-10:C30
+ReMaster_PID_57,GHGAI86085498325431,Malignant neoplasm of parotid gland,MALE,ICD-10:C07
+ReMaster_PID_58,GHGAI90327465744254,Malignant neoplasm of accessory sinuses,MALE,ICD-10:C31
+ReMaster_PID_59,GHGAI67254621587718,Malignant neoplasm of accessory sinuses,MALE,ICD-10:C31
+ReMaster_PID_60,GHGAI66116339235534,Malignant neoplasm of other and unspecified major salivary glands,FEMALE,ICD-10:C08
+ReMaster_PID_61,GHGAI33844280288795,Malignant neoplasm of liver and intrahepatic bile ducts,MALE,ICD-10:C22
+ReMaster_PID_62,GHGAI35599273349472,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_63,GHGAI45153109491437,Malignant neoplasm of gallbladder,MALE,ICD-10:C23
+ReMaster_PID_64,GHGAI81242584532875,Malignant neoplasm of liver and intrahepatic bile ducts,MALE,ICD-10:C22
+ReMaster_PID_65,GHGAI87922736037489,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_66,GHGAI03441777579016,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_67,GHGAI80515252061737,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_68,GHGAI34115258855776,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_69,GHGAI34976011350393,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_70,GHGAI90294388445966,Malignant neoplasm of liver and intrahepatic bile ducts,MALE,ICD-10:C22
+ReMaster_PID_71,GHGAI82446413909143,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_72,GHGAI42430988926567,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_73,GHGAI33940110827547,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_74,GHGAI06609232908198,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_75,GHGAI67128787371193,Malignant neoplasm of liver and intrahepatic bile ducts,MALE,ICD-10:C22
+ReMaster_PID_76,GHGAI30717727839627,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_77,GHGAI57275043711723,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_78,GHGAI35140152914831,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_79,GHGAI57219529635173,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_80,GHGAI74857248337301,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_81,GHGAI79631362492489,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_82,GHGAI91815308456068,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_83,GHGAI44836938590156,Secondary malignant neoplasm of respiratory and digestive organs,FEMALE,ICD-10:C78
+ReMaster_PID_84,GHGAI13259605793552,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_85,GHGAI54179795491719,Malignant neoplasm of gallbladder,MALE,ICD-10:C23
+ReMaster_PID_86,GHGAI83364119161761,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_87,GHGAI78844059094052,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_88,GHGAI18414404164733,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_89,GHGAI65398629727971,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_90,GHGAI39681513104791,Malignant neoplasm of liver and intrahepatic bile ducts,MALE,ICD-10:C22
+ReMaster_PID_91,GHGAI83482399864364,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_92,GHGAI54354298929401,Malignant neoplasm of other and unspecified parts of biliary tract,FEMALE,ICD-10:C24
+ReMaster_PID_93,GHGAI91644381356357,Malignant neoplasm of gallbladder,MALE,ICD-10:C23
+ReMaster_PID_94,GHGAI59777156591131,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_95,GHGAI68731289755136,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_96,GHGAI04863011722848,Malignant neoplasm of liver and intrahepatic bile ducts,MALE,ICD-10:C22
+ReMaster_PID_97,GHGAI17050776291664,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_98,GHGAI89498433263529,Malignant neoplasm of liver and intrahepatic bile ducts,MALE,ICD-10:C22
+ReMaster_PID_99,GHGAI40516494462157,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_100,GHGAI24987501820763,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_101,GHGAI23542389150568,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_102,GHGAI78486641216218,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_103,GHGAI10822292729487,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_104,GHGAI72520896652557,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_105,GHGAI85986831597875,Malignant neoplasm of other and unspecified parts of biliary tract,MALE,ICD-10:C24
+ReMaster_PID_106,GHGAI85255266391664,Malignant neoplasm of gallbladder,FEMALE,ICD-10:C23
+ReMaster_PID_107,GHGAI22835066984278,Malignant neoplasm of liver and intrahepatic bile ducts,MALE,ICD-10:C22
+ReMaster_PID_108,GHGAI78550753927137,Malignant neoplasm of liver and intrahepatic bile ducts,MALE,ICD-10:C22
+ReMaster_PID_109,GHGAI11114726499795,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_110,GHGAI46730509802117,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_111,GHGAI64931320029401,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_112,GHGAI60333695003324,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_113,GHGAI40119572622223,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_114,GHGAI13867335650772,Malignant neoplasm of other and unspecified parts of biliary tract,FEMALE,ICD-10:C24
+ReMaster_PID_115,GHGAI80058802340947,Malignant neoplasm of liver and intrahepatic bile ducts,MALE,ICD-10:C22
+ReMaster_PID_116,GHGAI97883999842698,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_117,GHGAI84526024599942,Malignant neoplasm of other and unspecified parts of biliary tract,MALE,ICD-10:C24
+ReMaster_PID_118,GHGAI02640755325206,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_119,GHGAI16654775689656,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_120,GHGAI31493992006385,Malignant neoplasm of liver and intrahepatic bile ducts,MALE,ICD-10:C22
+ReMaster_PID_121,GHGAI07298584699842,Malignant neoplasm of other and unspecified parts of biliary tract,MALE,ICD-10:C24
+ReMaster_PID_122,GHGAI55219226880683,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_123,GHGAI84649951575668,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_124,GHGAI17218684680662,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_125,GHGAI69361968646574,Malignant neoplasm of other and unspecified parts of biliary tract,MALE,ICD-10:C24
+ReMaster_PID_126,GHGAI82877511073973,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_127,GHGAI55981869474096,Malignant neoplasm of gallbladder,MALE,ICD-10:C23
+ReMaster_PID_128,GHGAI55305520722898,Malignant neoplasm of liver and intrahepatic bile ducts,MALE,ICD-10:C22
+ReMaster_PID_129,GHGAI46836329660698,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_130,GHGAI12498430283279,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_131,GHGAI25749308463376,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_132,GHGAI68126917099944,Malignant neoplasm of liver and intrahepatic bile ducts,MALE,ICD-10:C22
+ReMaster_PID_133,GHGAI80109211727027,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_134,GHGAI06298830967468,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_135,GHGAI54948002143055,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_136,GHGAI75994067358716,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_137,GHGAI37923000770225,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_138,GHGAI51247186421759,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_139,GHGAI53747326195981,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_140,GHGAI33505950399454,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_141,GHGAI38566515612961,Malignant neoplasm of other and unspecified major salivary glands,MALE,ICD-10:C08
+ReMaster_PID_142,GHGAI99075377960531,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_143,GHGAI78040457634314,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_144,GHGAI89122856755568,Malignant neoplasm of gum,MALE,ICD-10:C03
+ReMaster_PID_145,GHGAI67517539082775,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_146,GHGAI37507703062063,Other malignant neoplasms of skin,FEMALE,ICD-10:C44
+ReMaster_PID_147,GHGAI72180986956508,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_148,GHGAI51363390334855,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_149,GHGAI11356888332718,Malignant neoplasm of kidney - except renal pelvis,MALE,ICD-10:C64
+ReMaster_PID_150,GHGAI11015559847389,Malignant neoplasm of other and unspecified major salivary glands,FEMALE,ICD-10:C08
+ReMaster_PID_151,GHGAI98716790568233,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_152,GHGAI12717676693008,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_153,GHGAI42326803579362,Malignant neoplasm of peripheral nerves and autonomic nervous system,MALE,ICD-10:C47
+ReMaster_PID_154,GHGAI37150813374311,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_155,GHGAI42660286892779,Malignant neoplasm of other and ill-defined sites,MALE,ICD-10:C76
+ReMaster_PID_156,GHGAI56714975599541,Other and unspecified malignant neoplasms of lymphoid - haematopoietic and related tissue,MALE,ICD-10:C96
+ReMaster_PID_157,GHGAI39245588731493,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_158,GHGAI82697183667834,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_159,GHGAI83939052921835,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_160,GHGAI19956692747719,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_161,GHGAI03142306734603,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_162,GHGAI39444777268489,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_163,GHGAI80107617657669,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_164,GHGAI86808214626773,Malignant neoplasm of cervix uteri,FEMALE,ICD-10:C53
+ReMaster_PID_165,GHGAI12704962079893,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_166,GHGAI07990272360021,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_167,GHGAI16115554032607,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_168,GHGAI38628568058633,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_169,GHGAI87035609196283,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_170,GHGAI02440872973771,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_171,GHGAI59510352969204,Malignant neoplasm of uterus - part unspecified,FEMALE,ICD-10:C55
+ReMaster_PID_172,GHGAI81757191210857,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_173,GHGAI20938694329881,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_174,GHGAI03973548743885,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_175,GHGAI53106402682745,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_176,GHGAI74073574331724,Other and unspecified malignant neoplasms of lymphoid - haematopoietic and related tissue,MALE,ICD-10:C96
+ReMaster_PID_177,GHGAI90959416863429,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_178,GHGAI00684261489676,Malignant neoplasm of peripheral nerves and autonomic nervous system,MALE,ICD-10:C47
+ReMaster_PID_179,GHGAI35311375892699,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_180,GHGAI68173120672133,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_181,GHGAI43587996738789,Malignant neoplasm without specification of site,MALE,ICD-10:C80
+ReMaster_PID_182,GHGAI58278306585960,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_183,GHGAI45887250885663,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_184,GHGAI45096432957702,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_185,GHGAI92038570073699,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_186,GHGAI93361705192531,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_187,GHGAI28372754575099,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_188,GHGAI80750747511427,Malignant neoplasm of accessory sinuses,FEMALE,ICD-10:C31
+ReMaster_PID_189,GHGAI92664894986610,Malignant neoplasm of peripheral nerves and autonomic nervous system,FEMALE,ICD-10:C47
+ReMaster_PID_190,GHGAI94629689161992,Malignant neoplasm of peripheral nerves and autonomic nervous system,MALE,ICD-10:C47
+ReMaster_PID_191,GHGAI56532885467813,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_192,GHGAI06492320410156,Malignant neoplasm of small intestine,FEMALE,ICD-10:C17
+ReMaster_PID_193,GHGAI68065147378871,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_194,GHGAI66483416545666,Malignant neoplasm of peripheral nerves and autonomic nervous system,MALE,ICD-10:C47
+ReMaster_PID_195,GHGAI21389275239560,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_196,GHGAI66459567341887,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_197,GHGAI88435872101032,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_198,GHGAI57314829349702,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_199,GHGAI03428348339454,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_200,GHGAI70048887595686,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_201,GHGAI50063006531252,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_202,GHGAI79250568719940,Malignant neoplasm of corpus uteri,FEMALE,ICD-10:C54
+ReMaster_PID_203,GHGAI57365205712779,Malignant neoplasm of accessory sinuses,MALE,ICD-10:C31
+ReMaster_PID_204,GHGAI24993722357802,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_205,GHGAI04616016239493,Other malignant neoplasms of skin,MALE,ICD-10:C44
+ReMaster_PID_206,GHGAI78795365935746,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_207,GHGAI29520517774205,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_208,GHGAI44938487999499,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_209,GHGAI62142863918640,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_210,GHGAI04437475847893,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_211,GHGAI03034821692391,Malignant neoplasm of bone and articular cartilage of limbs,FEMALE,ICD-10:C40
+ReMaster_PID_212,GHGAI35845582071662,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_213,GHGAI20056680230335,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,FEMALE,ICD-10:C41
+ReMaster_PID_214,GHGAI76859055834960,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_215,GHGAI45628660299033,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_216,GHGAI94447755274075,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_217,GHGAI54329644398673,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_218,GHGAI24730902509168,Malignant neoplasm of peripheral nerves and autonomic nervous system,FEMALE,ICD-10:C47
+ReMaster_PID_219,GHGAI90822082727570,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_220,GHGAI44570674373887,Malignant neoplasm of accessory sinuses,MALE,ICD-10:C31
+ReMaster_PID_221,GHGAI65360777928341,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_222,GHGAI76983964691306,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_223,GHGAI55616084570535,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_224,GHGAI55912792448989,Malignant neoplasm of kidney - except renal pelvis,FEMALE,ICD-10:C64
+ReMaster_PID_225,GHGAI26481355311406,Malignant neoplasm of other and unspecified major salivary glands,MALE,ICD-10:C08
+ReMaster_PID_226,GHGAI81388156464454,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_227,GHGAI27872094642982,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_228,GHGAI93968131045950,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_229,GHGAI49647925186231,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_230,GHGAI11173593979285,Other and unspecified malignant neoplasms of lymphoid - haematopoietic and related tissue,MALE,ICD-10:C96
+ReMaster_PID_231,GHGAI66259087297883,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_232,GHGAI45586415538254,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_233,GHGAI97506548733804,Malignant neoplasm of accessory sinuses,MALE,ICD-10:C31
+ReMaster_PID_234,GHGAI71129680735023,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_235,GHGAI45171069995536,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_236,GHGAI23586513021219,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_237,GHGAI79427134783442,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_238,GHGAI70788148263002,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_239,GHGAI62844102213063,Malignant neoplasm of accessory sinuses,MALE,ICD-10:C31
+ReMaster_PID_240,GHGAI16059140215477,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_241,GHGAI16630641955799,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_242,GHGAI00803138113706,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_243,GHGAI91098483809446,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_244,GHGAI25620445217711,Malignant neoplasm of peripheral nerves and autonomic nervous system,MALE,ICD-10:C47
+ReMaster_PID_245,GHGAI12281569036732,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_246,GHGAI88672971006676,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_247,GHGAI13156128802085,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_248,GHGAI40777922762146,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_249,GHGAI79789093614596,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_250,GHGAI91734256224631,Malignant neoplasm of prostate,MALE,ICD-10:C61
+ReMaster_PID_251,GHGAI70659935228751,Malignant neoplasm of peripheral nerves and autonomic nervous system,FEMALE,ICD-10:C47
+ReMaster_PID_252,GHGAI67811627844617,Malignant neoplasm of peripheral nerves and autonomic nervous system,FEMALE,ICD-10:C47
+ReMaster_PID_253,GHGAI58491747923993,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_254,GHGAI51319247068930,Secondary malignant neoplasm of other and unspecified sites,MALE,ICD-10:C79
+ReMaster_PID_255,GHGAI73816776882402,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_256,GHGAI21395706761617,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_257,GHGAI90803185360460,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_258,GHGAI51797211169379,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_259,GHGAI50479541007007,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_260,GHGAI51378543245861,Malignant neoplasm of other and ill-defined digestive organs,FEMALE,ICD-10:C26
+ReMaster_PID_261,GHGAI36410832166249,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_262,GHGAI36709993986315,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_263,GHGAI38860957016522,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_264,GHGAI47882921792709,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_265,GHGAI79570290392645,Malignant neoplasm of testis,MALE,ICD-10:C62
+ReMaster_PID_266,GHGAI89620317969688,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_267,GHGAI44499033729090,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_268,GHGAI18335536212084,Malignant neoplasm of bronchus and lung,MALE,ICD-10:C34
+ReMaster_PID_269,GHGAI86696086321768,Secondary malignant neoplasm of other and unspecified sites,MALE,ICD-10:C79
+ReMaster_PID_270,GHGAI84618965171291,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_271,GHGAI42184419191405,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_272,GHGAI41948460869416,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_273,GHGAI39457011799812,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_274,GHGAI36750997348893,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_275,GHGAI95927473695978,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_276,GHGAI52817639925808,Malignant neoplasm of peripheral nerves and autonomic nervous system,MALE,ICD-10:C47
+ReMaster_PID_277,GHGAI65872245748727,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_278,GHGAI16204298467784,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_279,GHGAI56439509983817,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_280,GHGAI40285359007801,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_281,GHGAI16970587914891,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_282,GHGAI89950377953339,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_283,GHGAI82087935961563,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_284,GHGAI37431680031969,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_285,GHGAI93281484210855,Malignant neoplasm of peripheral nerves and autonomic nervous system,FEMALE,ICD-10:C47
+ReMaster_PID_286,GHGAI27437323775505,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_287,GHGAI33962220786864,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_288,GHGAI35355778350985,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_289,GHGAI99904265025812,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_290,GHGAI70921884598467,Malignant neoplasm of other and unspecified male genital organs,MALE,ICD-10:C63
+ReMaster_PID_291,GHGAI03029883605848,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_292,GHGAI81797880370279,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_293,GHGAI86733221238390,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_294,GHGAI09421504944586,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_295,GHGAI48882300420883,Malignant neoplasm of heart - mediastinum and pleura,MALE,ICD-10:C38
+ReMaster_PID_296,GHGAI78456224833817,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_297,GHGAI66189702727159,Malignant neoplasm of peripheral nerves and autonomic nervous system,MALE,ICD-10:C47
+ReMaster_PID_298,GHGAI58154673329048,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_299,GHGAI17690473228280,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_300,GHGAI50137503337431,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_301,GHGAI65408340383360,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_302,GHGAI12200791457138,Malignant neoplasm of nasopharynx,FEMALE,ICD-10:C11
+ReMaster_PID_303,GHGAI85983666220125,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_304,GHGAI59617593532856,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_305,GHGAI83451031502463,Malignant neoplasm of larynx,MALE,ICD-10:C32
+ReMaster_PID_306,GHGAI95841759193068,Malignant neoplasm of bronchus and lung,MALE,ICD-10:C34
+ReMaster_PID_307,GHGAI60421803534306,Malignant neoplasm of adrenal gland,FEMALE,ICD-10:C74
+ReMaster_PID_308,GHGAI53096025315437,Malignant neoplasm of adrenal gland,FEMALE,ICD-10:C74
+ReMaster_PID_309,GHGAI97321044500271,Malignant neoplasm of heart - mediastinum and pleura,MALE,ICD-10:C38
+ReMaster_PID_310,GHGAI03367732890978,Malignant neoplasm without specification of site,FEMALE,ICD-10:C80
+ReMaster_PID_311,GHGAI64968789015813,Malignant neoplasm of bronchus and lung,MALE,ICD-10:C34
+ReMaster_PID_312,GHGAI18285598502739,Malignant neoplasm of thymus,FEMALE,ICD-10:C37
+ReMaster_PID_313,GHGAI56875986595185,Malignant neoplasm without specification of site,FEMALE,ICD-10:C80
+ReMaster_PID_314,GHGAI32712324712903,Malignant neoplasm without specification of site,FEMALE,ICD-10:C80
+ReMaster_PID_315,GHGAI02932255965449,Malignant neoplasm without specification of site,MALE,ICD-10:C80
+ReMaster_PID_316,GHGAI72237952938896,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_317,GHGAI47885934584493,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_318,GHGAI17023457580948,Malignant neoplasm of rectosigmoid junction,FEMALE,ICD-10:C19
+ReMaster_PID_319,GHGAI54082087277254,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_320,GHGAI28828856863428,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_321,GHGAI94212096437501,Malignant neoplasm without specification of site,MALE,ICD-10:C80
+ReMaster_PID_322,GHGAI19473319000129,Malignant neoplasm of adrenal gland,MALE,ICD-10:C74
+ReMaster_PID_323,GHGAI76738085217547,Malignant neoplasm of cervix uteri,FEMALE,ICD-10:C53
+ReMaster_PID_324,GHGAI00004272517907,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_325,GHGAI89242815224791,Malignant neoplasm of adrenal gland,MALE,ICD-10:C74
+ReMaster_PID_326,GHGAI69468509535091,Malignant neoplasm of adrenal gland,MALE,ICD-10:C74
+ReMaster_PID_327,GHGAI18318839770018,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_328,GHGAI19339860162968,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_329,GHGAI52445449544523,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_330,GHGAI78456532915726,Malignant neoplasm of small intestine,FEMALE,ICD-10:C17
+ReMaster_PID_331,GHGAI95119815828548,Malignant neoplasm of adrenal gland,FEMALE,ICD-10:C74
+ReMaster_PID_332,GHGAI18520713299254,Malignant neoplasm of cervix uteri,FEMALE,ICD-10:C53
+ReMaster_PID_333,GHGAI67419162029972,Malignant neoplasm of rectum,FEMALE,ICD-10:C20
+ReMaster_PID_334,GHGAI19307883823032,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_335,GHGAI96706385789900,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_336,GHGAI62418519283972,Malignant neoplasm of heart - mediastinum and pleura,FEMALE,ICD-10:C38
+ReMaster_PID_337,GHGAI11581263582796,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_338,GHGAI50205948431003,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_339,GHGAI69845951082695,Malignant neoplasm of accessory sinuses,FEMALE,ICD-10:C31
+ReMaster_PID_340,GHGAI74601290929684,Malignant neoplasm of vagina,FEMALE,ICD-10:C52
+ReMaster_PID_341,GHGAI98933928154971,Malignant neoplasm of other endocrine glands and related structures,MALE,ICD-10:C75
+ReMaster_PID_342,GHGAI08923906883608,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_343,GHGAI67877792270384,Malignant neoplasm of adrenal gland,FEMALE,ICD-10:C74
+ReMaster_PID_344,GHGAI42378926958806,Malignant neoplasm of adrenal gland,FEMALE,ICD-10:C74
+ReMaster_PID_345,GHGAI62374755157127,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_346,GHGAI29952077922818,Malignant neoplasm of bronchus and lung,MALE,ICD-10:C34
+ReMaster_PID_347,GHGAI47964831360887,Malignant neoplasm without specification of site,MALE,ICD-10:C80
+ReMaster_PID_348,GHGAI11019102806218,Malignant neoplasm of anus and anal canal,FEMALE,ICD-10:C21
+ReMaster_PID_349,GHGAI18863200480854,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_350,GHGAI30799741762396,Malignant neoplasm of thymus,MALE,ICD-10:C37
+ReMaster_PID_351,GHGAI37407604817228,Malignant neoplasm of thymus,MALE,ICD-10:C37
+ReMaster_PID_352,GHGAI51897681139797,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_353,GHGAI93009457431779,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_354,GHGAI07933693221730,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_355,GHGAI58730252902407,Malignant neoplasm of small intestine,FEMALE,ICD-10:C17
+ReMaster_PID_356,GHGAI55425526590397,Malignant neoplasm of adrenal gland,FEMALE,ICD-10:C74
+ReMaster_PID_357,GHGAI69936608035738,Malignant neoplasm of prostate,MALE,ICD-10:C61
+ReMaster_PID_358,GHGAI22558076311146,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_359,GHGAI96812519485460,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_360,GHGAI32978899357240,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_361,GHGAI96782848624086,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_362,GHGAI78298517102566,Malignant neoplasm of adrenal gland,FEMALE,ICD-10:C74
+ReMaster_PID_363,GHGAI92490722111503,Malignant neoplasm of adrenal gland,FEMALE,ICD-10:C74
+ReMaster_PID_364,GHGAI17536059424976,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_365,GHGAI99794553826402,Malignant neoplasm of bronchus and lung,MALE,ICD-10:C34
+ReMaster_PID_366,GHGAI01342227914397,Malignant neoplasm of adrenal gland,FEMALE,ICD-10:C74
+ReMaster_PID_367,GHGAI07886241279622,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_368,GHGAI82565783161051,Malignant neoplasm of rectosigmoid junction,FEMALE,ICD-10:C19
+ReMaster_PID_369,GHGAI77837268531837,Malignant neoplasm of other and ill-defined digestive organs,FEMALE,ICD-10:C26
+ReMaster_PID_370,GHGAI31298969254095,Malignant neoplasm without specification of site,FEMALE,ICD-10:C80
+ReMaster_PID_371,GHGAI40405982977005,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_372,GHGAI28341986068846,Malignant neoplasm of other and ill-defined digestive organs,FEMALE,ICD-10:C26
+ReMaster_PID_373,GHGAI50895022953025,Malignant neoplasm of prostate,MALE,ICD-10:C61
+ReMaster_PID_374,GHGAI95735163054769,Malignant neoplasm of bladder,MALE,ICD-10:C67
+ReMaster_PID_375,GHGAI63342909399955,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_376,GHGAI98349007819675,Malignant neoplasm of heart - mediastinum and pleura,FEMALE,ICD-10:C38
+ReMaster_PID_377,GHGAI41663036790277,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_378,GHGAI32490283730710,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_379,GHGAI71561640164842,Malignant neoplasm of adrenal gland,FEMALE,ICD-10:C74
+ReMaster_PID_380,GHGAI75464686273955,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_381,GHGAI42665776012460,Malignant neoplasm without specification of site,MALE,ICD-10:C80
+ReMaster_PID_382,GHGAI09941753073977,Malignant neoplasm of thymus,MALE,ICD-10:C37
+ReMaster_PID_383,GHGAI28845466994531,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_384,GHGAI59852378898523,Malignant neoplasm of bronchus and lung,MALE,ICD-10:C34
+ReMaster_PID_385,GHGAI83660806697404,Malignant neoplasm of adrenal gland,FEMALE,ICD-10:C74
+ReMaster_PID_386,GHGAI28036264635599,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_387,GHGAI84782830090989,Malignant neoplasm of adrenal gland,MALE,ICD-10:C74
+ReMaster_PID_388,GHGAI04163941924455,Malignant neoplasm of adrenal gland,FEMALE,ICD-10:C74
+ReMaster_PID_389,GHGAI26604323546125,Malignant neoplasm of adrenal gland,FEMALE,ICD-10:C74
+ReMaster_PID_390,GHGAI11607318568893,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_391,GHGAI34406642647520,Malignant neoplasm of adrenal gland,MALE,ICD-10:C74
+ReMaster_PID_392,GHGAI03774919148703,Malignant neoplasm of thymus,FEMALE,ICD-10:C37
+ReMaster_PID_393,GHGAI61136733668381,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_394,GHGAI73605120831096,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_395,GHGAI19647542846466,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_396,GHGAI41317582431509,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_397,GHGAI05224816619509,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_398,GHGAI44753490373705,Malignant neoplasm of adrenal gland,MALE,ICD-10:C74
+ReMaster_PID_399,GHGAI41185391139183,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_400,GHGAI52241294762248,Malignant neoplasm of adrenal gland,FEMALE,ICD-10:C74
+ReMaster_PID_401,GHGAI05512805626857,Malignant neoplasm without specification of site,MALE,ICD-10:C80
+ReMaster_PID_402,GHGAI93842868623190,Malignant neoplasm without specification of site,MALE,ICD-10:C80
+ReMaster_PID_403,GHGAI13940437115232,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_404,GHGAI90636573790318,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_405,GHGAI39843095292627,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_406,GHGAI95876344836033,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_407,GHGAI57194426365305,Malignant neoplasm of rectum,FEMALE,ICD-10:C20
+ReMaster_PID_408,GHGAI23028777126706,Malignant neoplasm without specification of site,MALE,ICD-10:C80
+ReMaster_PID_409,GHGAI97503203854153,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_410,GHGAI50023157448497,Malignant neoplasm of larynx,MALE,ICD-10:C32
+ReMaster_PID_411,GHGAI59810035670833,Malignant melanoma of skin,FEMALE,ICD-10:C43
+ReMaster_PID_412,GHGAI85323276996489,Malignant melanoma of skin,FEMALE,ICD-10:C43
+ReMaster_PID_413,GHGAI01539091254896,Malignant melanoma of skin,MALE,ICD-10:C43
+ReMaster_PID_414,GHGAI92653833201587,Malignant neoplasm of parotid gland,MALE,ICD-10:C07
+ReMaster_PID_415,GHGAI36870581756414,Malignant neoplasm of vagina,FEMALE,ICD-10:C52
+ReMaster_PID_416,GHGAI68834567955514,Malignant neoplasm of eye and adnexa,MALE,ICD-10:C69
+ReMaster_PID_417,GHGAI13763427755108,Malignant neoplasm of eye and adnexa,FEMALE,ICD-10:C69
+ReMaster_PID_418,GHGAI77149256372383,Other malignant neoplasms of skin,MALE,ICD-10:C44
+ReMaster_PID_419,GHGAI27977751066026,Malignant melanoma of skin,FEMALE,ICD-10:C43
+ReMaster_PID_420,GHGAI25774344222166,Malignant melanoma of skin,MALE,ICD-10:C43
+ReMaster_PID_421,GHGAI29165442780930,Other malignant neoplasms of skin,FEMALE,ICD-10:C44
+ReMaster_PID_422,GHGAI01185062448491,Other malignant neoplasms of skin,MALE,ICD-10:C44
+ReMaster_PID_423,GHGAI47615651999458,Malignant melanoma of skin,FEMALE,ICD-10:C43
+ReMaster_PID_424,GHGAI39607164497029,Malignant neoplasm of eye and adnexa,FEMALE,ICD-10:C69
+ReMaster_PID_425,GHGAI18736748154911,Malignant melanoma of skin,FEMALE,ICD-10:C43
+ReMaster_PID_426,GHGAI38517979317178,Malignant neoplasm of cervix uteri,FEMALE,ICD-10:C53
+ReMaster_PID_427,GHGAI85386034305526,Malignant neoplasm of eye and adnexa,FEMALE,ICD-10:C69
+ReMaster_PID_428,GHGAI55533580741529,Malignant melanoma of skin,FEMALE,ICD-10:C43
+ReMaster_PID_429,GHGAI40520460420959,Malignant neoplasm of eye and adnexa,FEMALE,ICD-10:C69
+ReMaster_PID_430,GHGAI54819527214059,Malignant neoplasm of eye and adnexa,MALE,ICD-10:C69
+ReMaster_PID_431,GHGAI09844998939117,Malignant melanoma of skin,MALE,ICD-10:C43
+ReMaster_PID_432,GHGAI89905523195711,Malignant melanoma of skin,MALE,ICD-10:C43
+ReMaster_PID_433,GHGAI36293819221726,Malignant melanoma of skin,MALE,ICD-10:C43
+ReMaster_PID_434,GHGAI08724573096842,Malignant melanoma of skin,FEMALE,ICD-10:C43
+ReMaster_PID_435,GHGAI60879064519363,Malignant melanoma of skin,MALE,ICD-10:C43
+ReMaster_PID_436,GHGAI46491617712516,Malignant melanoma of skin,MALE,ICD-10:C43
+ReMaster_PID_437,GHGAI33840021296735,Malignant melanoma of skin,FEMALE,ICD-10:C43
+ReMaster_PID_438,GHGAI16351205984793,Malignant neoplasm of eye and adnexa,MALE,ICD-10:C69
+ReMaster_PID_439,GHGAI02585226401478,Secondary malignant neoplasm of other and unspecified sites,MALE,ICD-10:C79
+ReMaster_PID_440,GHGAI26447132005709,Malignant melanoma of skin,FEMALE,ICD-10:C43
+ReMaster_PID_441,GHGAI37319793734278,Secondary and unspecified malignant neoplasm of lymph nodes,MALE,ICD-10:C77
+ReMaster_PID_442,GHGAI24928994721138,Other malignant neoplasms of skin,MALE,ICD-10:C44
+ReMaster_PID_443,GHGAI72897447750501,Malignant neoplasm of eye and adnexa,FEMALE,ICD-10:C69
+ReMaster_PID_444,GHGAI69954198925175,Malignant melanoma of skin,MALE,ICD-10:C43
+ReMaster_PID_445,GHGAI76930037366487,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_446,GHGAI57622355172626,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_447,GHGAI43163216277898,Malignant neoplasm of cervix uteri,FEMALE,ICD-10:C53
+ReMaster_PID_448,GHGAI85510399287595,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_449,GHGAI91586048989999,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_450,GHGAI56016299993975,Malignant neoplasm of cervix uteri,FEMALE,ICD-10:C53
+ReMaster_PID_451,GHGAI73854882750173,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_452,GHGAI23817882294109,Malignant neoplasm of cervix uteri,FEMALE,ICD-10:C53
+ReMaster_PID_453,GHGAI27526131429029,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_454,GHGAI25835686681313,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_455,GHGAI26112491368738,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_456,GHGAI98149320977550,Malignant neoplasm of vulva,FEMALE,ICD-10:C51
+ReMaster_PID_457,GHGAI99963598988266,Malignant neoplasm of cervix uteri,FEMALE,ICD-10:C53
+ReMaster_PID_458,GHGAI94536222395678,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_459,GHGAI72765946877401,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_460,GHGAI17885247101534,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_461,GHGAI11608331600095,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_462,GHGAI35051766819521,Malignant neoplasm of vagina,FEMALE,ICD-10:C52
+ReMaster_PID_463,GHGAI86302367246559,Malignant neoplasm of cervix uteri,FEMALE,ICD-10:C53
+ReMaster_PID_464,GHGAI51723727945536,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_465,GHGAI37392289852436,Malignant neoplasm of other and unspecified female genital organs,FEMALE,ICD-10:C57
+ReMaster_PID_466,GHGAI36609525633511,Malignant neoplasm of cervix uteri,FEMALE,ICD-10:C53
+ReMaster_PID_467,GHGAI08788250097785,Malignant neoplasm of vulva,FEMALE,ICD-10:C51
+ReMaster_PID_468,GHGAI44851115762905,Malignant neoplasm of vulva,FEMALE,ICD-10:C51
+ReMaster_PID_469,GHGAI28876970943957,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_470,GHGAI86123933084793,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_471,GHGAI98826616559635,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_472,GHGAI93707307398987,Malignant neoplasm of cervix uteri,FEMALE,ICD-10:C53
+ReMaster_PID_473,GHGAI16229332730202,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_474,GHGAI17153007768449,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_475,GHGAI82436403014339,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_476,GHGAI21008969469153,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_477,GHGAI16886767335718,Secondary malignant neoplasm of other and unspecified sites,MALE,ICD-10:C79
+ReMaster_PID_478,GHGAI54661192208299,Malignant neoplasm of meninges,MALE,ICD-10:C70
+ReMaster_PID_479,GHGAI44330672948735,Mesothelioma,MALE,ICD-10:C45
+ReMaster_PID_480,GHGAI81963650287774,Malignant neoplasm of brain,MALE,ICD-10:C71
+ReMaster_PID_481,GHGAI66572529146816,Malignant neoplasm of thymus,FEMALE,ICD-10:C37
+ReMaster_PID_482,GHGAI33224415967532,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_483,GHGAI80654924762643,Malignant neoplasm of brain,MALE,ICD-10:C71
+ReMaster_PID_484,GHGAI65099898960389,Secondary and unspecified malignant neoplasm of lymph nodes,FEMALE,ICD-10:C77
+ReMaster_PID_485,GHGAI09446828474095,Other malignant neoplasms of skin,FEMALE,ICD-10:C44
+ReMaster_PID_486,GHGAI33662346837155,Malignant neoplasm of brain,MALE,ICD-10:C71
+ReMaster_PID_487,GHGAI11039937518383,Malignant neoplasm of thymus,FEMALE,ICD-10:C37
+ReMaster_PID_488,GHGAI38741298883396,Malignant neoplasm of kidney - except renal pelvis,MALE,ICD-10:C64
+ReMaster_PID_489,GHGAI68170771512819,Malignant neoplasm of meninges,MALE,ICD-10:C70
+ReMaster_PID_490,GHGAI35168794190093,Other specified diseases with participation of lymphoreticular and reticulohistiocytic tissue,FEMALE,ICD-10:D76
+ReMaster_PID_491,GHGAI64041555829429,Malignant neoplasm of thymus,FEMALE,ICD-10:C37
+ReMaster_PID_492,GHGAI05653403403660,Mesothelioma,FEMALE,ICD-10:C45
+ReMaster_PID_493,GHGAI80513031965386,Malignant neoplasm of other and unspecified major salivary glands,MALE,ICD-10:C08
+ReMaster_PID_494,GHGAI01010746066797,Malignant neoplasm of thyroid gland,MALE,ICD-10:C73
+ReMaster_PID_495,GHGAI65964784663664,Malignant neoplasm of spinal cord - cranial nerves and other parts of central nervous system,MALE,ICD-10:C72
+ReMaster_PID_496,GHGAI50306545708471,Malignant neoplasm of thyroid gland,MALE,ICD-10:C73
+ReMaster_PID_497,GHGAI96966285423938,Malignant neoplasm of thymus,MALE,ICD-10:C37
+ReMaster_PID_498,GHGAI09882153183791,Malignant neoplasm of thymus,FEMALE,ICD-10:C37
+ReMaster_PID_499,GHGAI40510622632731,Malignant neoplasm of thymus,MALE,ICD-10:C37
+ReMaster_PID_500,GHGAI49832540654054,Malignant neoplasm of brain,FEMALE,ICD-10:C71
+ReMaster_PID_501,GHGAI82644546909611,Malignant neoplasm of thymus,MALE,ICD-10:C37
+ReMaster_PID_502,GHGAI00895723296665,Mesothelioma,MALE,ICD-10:C45
+ReMaster_PID_503,GHGAI37732590538350,Malignant neoplasm of thymus,MALE,ICD-10:C37
+ReMaster_PID_504,GHGAI19069523305752,Malignant neoplasm of thymus,MALE,ICD-10:C37
+ReMaster_PID_505,GHGAI87742955222727,Malignant neoplasm of brain,MALE,ICD-10:C71
+ReMaster_PID_506,GHGAI07581593987554,Malignant neoplasm of thymus,MALE,ICD-10:C37
+ReMaster_PID_507,GHGAI56796651363178,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_508,GHGAI06028407620501,Malignant neoplasm of thyroid gland,FEMALE,ICD-10:C73
+ReMaster_PID_509,GHGAI23442818749249,Malignant neoplasm of brain,MALE,ICD-10:C71
+ReMaster_PID_510,GHGAI78770839451989,Malignant neoplasm without specification of site,MALE,ICD-10:C80
+ReMaster_PID_511,GHGAI62307116037381,Other malignant neoplasms of skin,MALE,ICD-10:C44
+ReMaster_PID_512,GHGAI74157170490896,Malignant neoplasm of meninges,FEMALE,ICD-10:C70
+ReMaster_PID_513,GHGAI24982539008367,Malignant neoplasm of thyroid gland,FEMALE,ICD-10:C73
+ReMaster_PID_514,GHGAI51833879052055,Malignant neoplasm of thymus,FEMALE,ICD-10:C37
+ReMaster_PID_515,GHGAI55051404285645,Other malignant neoplasms of skin,FEMALE,ICD-10:C44
+ReMaster_PID_516,GHGAI52214959917073,Malignant neoplasm of anus and anal canal,MALE,ICD-10:C21
+ReMaster_PID_517,GHGAI76220359069527,Malignant neoplasm of brain,FEMALE,ICD-10:C71
+ReMaster_PID_518,GHGAI02393598988531,Other malignant neoplasms of skin,MALE,ICD-10:C44
+ReMaster_PID_519,GHGAI24625250035002,Phakomatoses - not elsewhere classified,FEMALE,ICD-10:Q85
+ReMaster_PID_520,GHGAI32801935707486,Other malignant neoplasms of skin,MALE,ICD-10:C44
+ReMaster_PID_521,GHGAI31035291116374,Other malignant neoplasms of skin,MALE,ICD-10:C44
+ReMaster_PID_522,GHGAI57578889514180,Malignant neoplasm of thymus,FEMALE,ICD-10:C37
+ReMaster_PID_523,GHGAI17084347549492,Malignant neoplasm of thyroid gland,MALE,ICD-10:C73
+ReMaster_PID_524,GHGAI23408537538112,Malignant neoplasm of spinal cord - cranial nerves and other parts of central nervous system,FEMALE,ICD-10:C72
+ReMaster_PID_525,GHGAI33271204748224,Malignant neoplasm of other and unspecified major salivary glands,FEMALE,ICD-10:C08
+ReMaster_PID_526,GHGAI61252790086224,Malignant neoplasm of thymus,FEMALE,ICD-10:C37
+ReMaster_PID_527,GHGAI89531217726310,Malignant neoplasm of brain,MALE,ICD-10:C71
+ReMaster_PID_528,GHGAI02711972672971,Malignant neoplasm without specification of site,MALE,ICD-10:C80
+ReMaster_PID_529,GHGAI99705049421956,Malignant neoplasm of meninges,MALE,ICD-10:C70
+ReMaster_PID_530,GHGAI69951014548597,Benign lipomatous neoplasm,MALE,ICD-10:D17
+ReMaster_PID_531,GHGAI34389174583917,Mesothelioma,FEMALE,ICD-10:C45
+ReMaster_PID_532,GHGAI76517577755190,Malignant neoplasm of spinal cord - cranial nerves and other parts of central nervous system,MALE,ICD-10:C72
+ReMaster_PID_533,GHGAI97318992187253,Other malignant neoplasms of skin,MALE,ICD-10:C44
+ReMaster_PID_534,GHGAI72613115055449,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_535,GHGAI67787304026579,Mesothelioma,FEMALE,ICD-10:C45
+ReMaster_PID_536,GHGAI43580317467908,Other malignant neoplasms of skin,MALE,ICD-10:C44
+ReMaster_PID_537,GHGAI40181318613015,Malignant neoplasm of thymus,MALE,ICD-10:C37
+ReMaster_PID_538,GHGAI20282059320011,Secondary and unspecified malignant neoplasm of lymph nodes,MALE,ICD-10:C77
+ReMaster_PID_539,GHGAI91078760841991,Non-follicular lymphoma,MALE,ICD-10:C83
+ReMaster_PID_540,GHGAI95810230811649,Lymphoid leukaemia,FEMALE,ICD-10:C91
+ReMaster_PID_541,GHGAI06991180071913,Non-follicular lymphoma,MALE,ICD-10:C83
+ReMaster_PID_542,GHGAI11553468975894,Follicular lymphoma,MALE,ICD-10:C82
+ReMaster_PID_543,GHGAI88889594691038,Non-follicular lymphoma,MALE,ICD-10:C83
+ReMaster_PID_544,GHGAI46107016582795,Other and unspecified types of non-Hodgkin lymphoma,FEMALE,ICD-10:C85
+ReMaster_PID_545,GHGAI91049329128398,Multiple myeloma and malignant plasma cell neoplasms,MALE,ICD-10:C90
+ReMaster_PID_546,GHGAI14450093581830,Non-follicular lymphoma,FEMALE,ICD-10:C83
+ReMaster_PID_547,GHGAI05523166581370,Malignant neoplasm of thymus,FEMALE,ICD-10:C37
+ReMaster_PID_548,GHGAI49441573362217,Malignant neoplasm of heart - mediastinum and pleura,FEMALE,ICD-10:C38
+ReMaster_PID_549,GHGAI21007843818126,Mature T/NK-cell lymphomas,MALE,ICD-10:C84
+ReMaster_PID_550,GHGAI84511905160607,Mature T/NK-cell lymphomas,MALE,ICD-10:C84
+ReMaster_PID_551,GHGAI53271861760080,Multiple myeloma and malignant plasma cell neoplasms,MALE,ICD-10:C90
+ReMaster_PID_552,GHGAI26830138837414,Non-follicular lymphoma,MALE,ICD-10:C83
+ReMaster_PID_553,GHGAI14434785876611,Mature T/NK-cell lymphomas,MALE,ICD-10:C84
+ReMaster_PID_554,GHGAI63366535603769,Non-follicular lymphoma,MALE,ICD-10:C83
+ReMaster_PID_555,GHGAI74514791205961,Non-follicular lymphoma,MALE,ICD-10:C83
+ReMaster_PID_556,GHGAI73456105470254,Multiple myeloma and malignant plasma cell neoplasms,MALE,ICD-10:C90
+ReMaster_PID_557,GHGAI60735873982595,Multiple myeloma and malignant plasma cell neoplasms,FEMALE,ICD-10:C90
+ReMaster_PID_558,GHGAI94614763476939,Lymphoid leukaemia,MALE,ICD-10:C91
+ReMaster_PID_559,GHGAI26952298114436,Lymphoid leukaemia,MALE,ICD-10:C91
+ReMaster_PID_560,GHGAI44772108434165,Lymphoid leukaemia,FEMALE,ICD-10:C91
+ReMaster_PID_561,GHGAI96887969094693,Hodgkin lymphoma,FEMALE,ICD-10:C81
+ReMaster_PID_562,GHGAI37481866464263,Mature T/NK-cell lymphomas,MALE,ICD-10:C84
+ReMaster_PID_563,GHGAI76917690650338,Multiple myeloma and malignant plasma cell neoplasms,MALE,ICD-10:C90
+ReMaster_PID_564,GHGAI59702997302160,Monocytic leukaemia,MALE,ICD-10:C93
+ReMaster_PID_565,GHGAI61167051027405,Myeloid leukaemia,FEMALE,ICD-10:C92
+ReMaster_PID_566,GHGAI57789462019202,Other leukaemias of specified cell type,MALE,ICD-10:C94
+ReMaster_PID_567,GHGAI40830735441072,Non-follicular lymphoma,FEMALE,ICD-10:C83
+ReMaster_PID_568,GHGAI36274310815450,Multiple myeloma and malignant plasma cell neoplasms,MALE,ICD-10:C90
+ReMaster_PID_569,GHGAI08985245137379,Non-follicular lymphoma,FEMALE,ICD-10:C83
+ReMaster_PID_570,GHGAI85166125266653,Myeloid leukaemia,FEMALE,ICD-10:C92
+ReMaster_PID_571,GHGAI25002532550007,Multiple myeloma and malignant plasma cell neoplasms,MALE,ICD-10:C90
+ReMaster_PID_572,GHGAI85861124171294,Mature T/NK-cell lymphomas,MALE,ICD-10:C84
+ReMaster_PID_573,GHGAI40977604767254,Leukaemia of unspecified cell type,FEMALE,ICD-10:C95
+ReMaster_PID_574,GHGAI64725262274048,Hematopoietic malignancy,MALE,ICD-10:C42
+ReMaster_PID_575,GHGAI81002457055690,Myeloid leukaemia,FEMALE,ICD-10:C92
+ReMaster_PID_576,GHGAI24713524307132,Malignant neoplasm of rectosigmoid junction,MALE,ICD-10:C19
+ReMaster_PID_577,GHGAI91861239968035,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_578,GHGAI15649576392545,Malignant neoplasm of rectum,FEMALE,ICD-10:C20
+ReMaster_PID_579,GHGAI08558211244503,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_580,GHGAI92586186964681,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_581,GHGAI13370521266039,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_582,GHGAI66600789562673,Malignant neoplasm of rectum,FEMALE,ICD-10:C20
+ReMaster_PID_583,GHGAI77725316660118,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_584,GHGAI85797480883067,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_585,GHGAI56548929600685,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_586,GHGAI95861219674386,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_587,GHGAI33995573739285,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_588,GHGAI97384135552299,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_589,GHGAI73699321334368,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_590,GHGAI03915564669263,Malignant neoplasm of rectosigmoid junction,MALE,ICD-10:C19
+ReMaster_PID_591,GHGAI67315505348124,Malignant neoplasm of anus and anal canal,FEMALE,ICD-10:C21
+ReMaster_PID_592,GHGAI21249972100651,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_593,GHGAI84143490805185,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_594,GHGAI36779387763595,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_595,GHGAI50994219865314,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_596,GHGAI78864584748647,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_597,GHGAI66476136386496,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_598,GHGAI93871530918979,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_599,GHGAI41566731880496,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_600,GHGAI23312881316714,Malignant neoplasm of rectum,FEMALE,ICD-10:C20
+ReMaster_PID_601,GHGAI82919685698354,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_602,GHGAI97271196334900,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_603,GHGAI17092621959115,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_604,GHGAI55355688112588,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_605,GHGAI46541726670082,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_606,GHGAI54279800618730,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_607,GHGAI32189922388285,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_608,GHGAI39512452159411,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_609,GHGAI09192724678565,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_610,GHGAI04818021461366,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_611,GHGAI69740254915209,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_612,GHGAI04027671609040,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_613,GHGAI75034885281641,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_614,GHGAI33028252877978,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_615,GHGAI99761976859962,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_616,GHGAI46775103710099,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_617,GHGAI33052114100816,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_618,GHGAI62188210279513,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_619,GHGAI03266005085059,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_620,GHGAI16803282079337,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_621,GHGAI69640264127374,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_622,GHGAI34852202927563,Malignant neoplasm of rectosigmoid junction,MALE,ICD-10:C19
+ReMaster_PID_623,GHGAI07213127959981,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_624,GHGAI81000499309513,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_625,GHGAI23809506972686,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_626,GHGAI43617898337907,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_627,GHGAI12860967399024,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_628,GHGAI33495372513866,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_629,GHGAI00136799484890,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_630,GHGAI42518347897372,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_631,GHGAI74859001764118,Malignant neoplasm of rectum,FEMALE,ICD-10:C20
+ReMaster_PID_632,GHGAI18111356086623,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_633,GHGAI39148274124539,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_634,GHGAI12891156481098,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_635,GHGAI42478239468134,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_636,GHGAI11785516634407,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_637,GHGAI95693419685677,Malignant neoplasm of testis,MALE,ICD-10:C62
+ReMaster_PID_638,GHGAI57880306279529,Malignant neoplasm of kidney - except renal pelvis,MALE,ICD-10:C64
+ReMaster_PID_639,GHGAI14403917453630,Malignant neoplasm of prostate,MALE,ICD-10:C61
+ReMaster_PID_640,GHGAI78583732500091,Malignant neoplasm of testis,MALE,ICD-10:C62
+ReMaster_PID_641,GHGAI47694654013851,Malignant neoplasm of testis,MALE,ICD-10:C62
+ReMaster_PID_642,GHGAI80245990504196,Malignant neoplasm of bladder,FEMALE,ICD-10:C67
+ReMaster_PID_643,GHGAI30687548989541,Malignant neoplasm of testis,MALE,ICD-10:C62
+ReMaster_PID_644,GHGAI91968226147923,Malignant neoplasm of testis,MALE,ICD-10:C62
+ReMaster_PID_645,GHGAI57434533667385,Malignant neoplasm of kidney - except renal pelvis,FEMALE,ICD-10:C64
+ReMaster_PID_646,GHGAI02455936693847,Malignant neoplasm of heart - mediastinum and pleura,FEMALE,ICD-10:C38
+ReMaster_PID_647,GHGAI16013701664613,Malignant neoplasm of testis,MALE,ICD-10:C62
+ReMaster_PID_648,GHGAI95203091944161,Malignant neoplasm of prostate,MALE,ICD-10:C61
+ReMaster_PID_649,GHGAI43358515393704,Malignant neoplasm of kidney - except renal pelvis,FEMALE,ICD-10:C64
+ReMaster_PID_650,GHGAI66757479195342,Malignant neoplasm of prostate,MALE,ICD-10:C61
+ReMaster_PID_651,GHGAI10240921504965,Malignant neoplasm of kidney - except renal pelvis,FEMALE,ICD-10:C64
+ReMaster_PID_652,GHGAI29241487856198,Malignant neoplasm of kidney - except renal pelvis,FEMALE,ICD-10:C64
+ReMaster_PID_653,GHGAI14067728251884,Malignant neoplasm of kidney - except renal pelvis,FEMALE,ICD-10:C64
+ReMaster_PID_654,GHGAI32828844963002,Malignant neoplasm of kidney - except renal pelvis,FEMALE,ICD-10:C64
+ReMaster_PID_655,GHGAI96352443084939,Malignant neoplasm of testis,MALE,ICD-10:C62
+ReMaster_PID_656,GHGAI76214851536265,Malignant neoplasm of kidney - except renal pelvis,MALE,ICD-10:C64
+ReMaster_PID_657,GHGAI64162793096218,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_658,GHGAI66411579202990,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_659,GHGAI02563229001887,Malignant neoplasm of kidney - except renal pelvis,FEMALE,ICD-10:C64
+ReMaster_PID_660,GHGAI78815148829018,Malignant neoplasm of kidney - except renal pelvis,MALE,ICD-10:C64
+ReMaster_PID_661,GHGAI17981533876773,Malignant neoplasm of testis,MALE,ICD-10:C62
+ReMaster_PID_662,GHGAI55148427685191,Malignant neoplasm of spinal cord - cranial nerves and other parts of central nervous system,MALE,ICD-10:C72
+ReMaster_PID_663,GHGAI84719563382912,Malignant neoplasm of kidney - except renal pelvis,FEMALE,ICD-10:C64
+ReMaster_PID_664,GHGAI64992390237551,Malignant neoplasm of renal pelvis,FEMALE,ICD-10:C65
+ReMaster_PID_665,GHGAI92536551059460,Malignant neoplasm of other and unspecified urinary organs,MALE,ICD-10:C68
+ReMaster_PID_666,GHGAI90921732979687,Malignant neoplasm of prostate,MALE,ICD-10:C61
+ReMaster_PID_667,GHGAI16066856892918,Malignant neoplasm of heart - mediastinum and pleura,MALE,ICD-10:C38
+ReMaster_PID_668,GHGAI24053616605160,Malignant neoplasm of bladder,FEMALE,ICD-10:C67
+ReMaster_PID_669,GHGAI53127869736844,Malignant neoplasm of testis,MALE,ICD-10:C62
+ReMaster_PID_670,GHGAI45542906684623,Malignant neoplasm of kidney - except renal pelvis,FEMALE,ICD-10:C64
+ReMaster_PID_671,GHGAI10148364822198,Malignant neoplasm of kidney - except renal pelvis,FEMALE,ICD-10:C64
+ReMaster_PID_672,GHGAI21964128836905,Malignant neoplasm of testis,MALE,ICD-10:C62
+ReMaster_PID_673,GHGAI03339295877586,Malignant neoplasm of heart - mediastinum and pleura,MALE,ICD-10:C38
+ReMaster_PID_674,GHGAI79453858575853,Malignant neoplasm of testis,MALE,ICD-10:C62
+ReMaster_PID_675,GHGAI44853777447184,Malignant neoplasm of other and unspecified urinary organs,FEMALE,ICD-10:C68
+ReMaster_PID_676,GHGAI53589309657389,Malignant neoplasm of kidney - except renal pelvis,MALE,ICD-10:C64
+ReMaster_PID_677,GHGAI83362160799518,Malignant neoplasm of renal pelvis,MALE,ICD-10:C65
+ReMaster_PID_678,GHGAI80478962768846,Malignant neoplasm of prostate,MALE,ICD-10:C61
+ReMaster_PID_679,GHGAI03279838763716,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_680,GHGAI63730103900649,Malignant neoplasm of kidney - except renal pelvis,MALE,ICD-10:C64
+ReMaster_PID_681,GHGAI09278423119534,Malignant neoplasm of bladder,MALE,ICD-10:C67
+ReMaster_PID_682,GHGAI81971560002126,Malignant neoplasm of bladder,MALE,ICD-10:C67
+ReMaster_PID_683,GHGAI18005182229487,Malignant neoplasm of testis,MALE,ICD-10:C62
+ReMaster_PID_684,GHGAI75341996857400,Malignant neoplasm of heart - mediastinum and pleura,MALE,ICD-10:C38
+ReMaster_PID_685,GHGAI00929368508974,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_686,GHGAI84758059358152,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_687,GHGAI05281098595809,Malignant neoplasm without specification of site,MALE,ICD-10:C80
+ReMaster_PID_688,GHGAI13812032996102,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_689,GHGAI39756330462774,Secondary malignant neoplasm of other and unspecified sites,MALE,ICD-10:C79
+ReMaster_PID_690,GHGAI88764960640072,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_691,GHGAI93805447528488,Secondary malignant neoplasm of other and unspecified sites,MALE,ICD-10:C79
+ReMaster_PID_692,GHGAI44652134595744,Secondary and unspecified malignant neoplasm of lymph nodes,FEMALE,ICD-10:C77
+ReMaster_PID_693,GHGAI94126754616323,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_694,GHGAI90879149194061,Malignant neoplasm without specification of site,MALE,ICD-10:C80
+ReMaster_PID_695,GHGAI96203131884043,Secondary malignant neoplasm of other and unspecified sites,MALE,ICD-10:C79
+ReMaster_PID_696,GHGAI96141739569657,Malignant neoplasm without specification of site,MALE,ICD-10:C80
+ReMaster_PID_697,GHGAI31392985089875,Secondary and unspecified malignant neoplasm of lymph nodes,MALE,ICD-10:C77
+ReMaster_PID_698,GHGAI20319320400465,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_699,GHGAI65104893183966,Secondary and unspecified malignant neoplasm of lymph nodes,MALE,ICD-10:C77
+ReMaster_PID_700,GHGAI52708442750027,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_701,GHGAI39918740214452,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_702,GHGAI51203542609805,Secondary malignant neoplasm of respiratory and digestive organs,FEMALE,ICD-10:C78
+ReMaster_PID_703,GHGAI74556071206718,Malignant neoplasm without specification of site,FEMALE,ICD-10:C80
+ReMaster_PID_704,GHGAI23902270402223,Secondary malignant neoplasm of respiratory and digestive organs,MALE,ICD-10:C78
+ReMaster_PID_705,GHGAI51176204877174,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_706,GHGAI98918193001491,Secondary malignant neoplasm of other and unspecified sites,MALE,ICD-10:C79
+ReMaster_PID_707,GHGAI74643419668512,Secondary malignant neoplasm of respiratory and digestive organs,FEMALE,ICD-10:C78
+ReMaster_PID_708,GHGAI45462425449205,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_709,GHGAI61333166850106,Malignant neoplasm without specification of site,MALE,ICD-10:C80
+ReMaster_PID_710,GHGAI22107953124214,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_711,GHGAI10395353125365,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_712,GHGAI02822564126135,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_713,GHGAI19000128003588,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_714,GHGAI45683337537994,Secondary malignant neoplasm of other and unspecified sites,MALE,ICD-10:C79
+ReMaster_PID_715,GHGAI29236290978297,Secondary malignant neoplasm of other and unspecified sites,MALE,ICD-10:C79
+ReMaster_PID_716,GHGAI13873977191531,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_717,GHGAI38806435001695,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_718,GHGAI77202351199042,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_719,GHGAI75719377844377,Secondary malignant neoplasm of other and unspecified sites,MALE,ICD-10:C79
+ReMaster_PID_720,GHGAI19488263079071,Secondary and unspecified malignant neoplasm of lymph nodes,MALE,ICD-10:C77
+ReMaster_PID_721,GHGAI58269416625980,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_722,GHGAI27628662264495,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_723,GHGAI27929504900799,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_724,GHGAI86176296161084,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_725,GHGAI98491352463535,Malignant neoplasm without specification of site,FEMALE,ICD-10:C80
+ReMaster_PID_726,GHGAI35462265929056,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_727,GHGAI05692276704441,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_728,GHGAI35188316534805,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_729,GHGAI53162744663862,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_730,GHGAI41191994129528,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,FEMALE,ICD-10:C41
+ReMaster_PID_731,GHGAI35991601510291,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,FEMALE,ICD-10:C41
+ReMaster_PID_732,GHGAI41841017224482,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_733,GHGAI98698291393479,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_734,GHGAI31381997547682,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_735,GHGAI28525490232088,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_736,GHGAI78132237818776,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_737,GHGAI93651067951233,Malignant neoplasm without specification of site,MALE,ICD-10:C80
+ReMaster_PID_738,GHGAI77142092661567,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_739,GHGAI79766594989100,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,FEMALE,ICD-10:C41
+ReMaster_PID_740,GHGAI15479026655406,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_741,GHGAI53906727179040,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_742,GHGAI95488347954195,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_743,GHGAI19363355481544,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_744,GHGAI37031656154402,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_745,GHGAI05768782897622,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_746,GHGAI71142789964984,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_747,GHGAI92354679298417,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_748,GHGAI22915881986910,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_749,GHGAI29798438764888,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_750,GHGAI07124526803695,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_751,GHGAI95786960479062,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_752,GHGAI92755153050721,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_753,GHGAI94876922749670,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_754,GHGAI17453992345320,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_755,GHGAI79438444111186,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_756,GHGAI66701590463447,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_757,GHGAI81993873057254,Other malignant neoplasms of skin,FEMALE,ICD-10:C44
+ReMaster_PID_758,GHGAI21106267719880,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_759,GHGAI21402343670540,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_760,GHGAI37038278969659,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_761,GHGAI29240516704229,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_762,GHGAI09191552990597,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_763,GHGAI55972835194827,Malignant neoplasm of bone and articular cartilage of limbs,FEMALE,ICD-10:C40
+ReMaster_PID_764,GHGAI21468366459905,Malignant neoplasm of bone and articular cartilage of limbs,FEMALE,ICD-10:C40
+ReMaster_PID_765,GHGAI82955139314457,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_766,GHGAI78256714215306,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_767,GHGAI63542227576000,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,FEMALE,ICD-10:C41
+ReMaster_PID_768,GHGAI23138205801116,Malignant neoplasm of bone and articular cartilage of limbs,FEMALE,ICD-10:C40
+ReMaster_PID_769,GHGAI08424759600258,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,FEMALE,ICD-10:C41
+ReMaster_PID_770,GHGAI44108629259542,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_771,GHGAI93775324227239,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_772,GHGAI14258406666654,Malignant neoplasm of bone and articular cartilage of limbs,FEMALE,ICD-10:C40
+ReMaster_PID_773,GHGAI58217128654134,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,FEMALE,ICD-10:C41
+ReMaster_PID_774,GHGAI36904111595972,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,FEMALE,ICD-10:C41
+ReMaster_PID_775,GHGAI92944161814893,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_776,GHGAI21069916451020,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_777,GHGAI85950817499928,Malignant neoplasm of bone and articular cartilage of limbs,FEMALE,ICD-10:C40
+ReMaster_PID_778,GHGAI72047406095981,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,FEMALE,ICD-10:C41
+ReMaster_PID_779,GHGAI40378700400152,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_780,GHGAI62302696908538,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_781,GHGAI59687430170462,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_782,GHGAI81778906099847,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_783,GHGAI92231408220286,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,FEMALE,ICD-10:C41
+ReMaster_PID_784,GHGAI48623521956309,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_785,GHGAI75179168563274,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_786,GHGAI50501515206800,Malignant neoplasm of accessory sinuses,MALE,ICD-10:C31
+ReMaster_PID_787,GHGAI93242877668082,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_788,GHGAI18968102991837,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,FEMALE,ICD-10:C41
+ReMaster_PID_789,GHGAI46198507588171,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,FEMALE,ICD-10:C41
+ReMaster_PID_790,GHGAI66605471159593,Malignant neoplasm of bone and articular cartilage of limbs,FEMALE,ICD-10:C40
+ReMaster_PID_791,GHGAI53452914009416,Malignant neoplasm of bone and articular cartilage of limbs,FEMALE,ICD-10:C40
+ReMaster_PID_792,GHGAI65716995787506,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_793,GHGAI59818145559312,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_794,GHGAI86005708505739,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_795,GHGAI43148432388471,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_796,GHGAI18201915659786,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_797,GHGAI37955782839982,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_798,GHGAI93699112443369,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_799,GHGAI01161664782445,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_800,GHGAI45570911618265,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_801,GHGAI17527547305502,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_802,GHGAI33137484790571,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_803,GHGAI75845711792345,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_804,GHGAI58786350613095,Malignant neoplasm of bone and articular cartilage of limbs,FEMALE,ICD-10:C40
+ReMaster_PID_805,GHGAI91319284962687,Malignant neoplasm of bronchus and lung,MALE,ICD-10:C34
+ReMaster_PID_806,GHGAI04203696950605,Malignant neoplasm of bronchus and lung,MALE,ICD-10:C34
+ReMaster_PID_807,GHGAI60312114612273,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_808,GHGAI71611052237067,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_809,GHGAI06212910069810,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_810,GHGAI43707850146303,Secondary malignant neoplasm of other and unspecified sites,MALE,ICD-10:C79
+ReMaster_PID_811,GHGAI16780841944399,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_812,GHGAI82594216155550,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_813,GHGAI57286708128452,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_814,GHGAI18587574648054,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_815,GHGAI50923714536388,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_816,GHGAI26802169347420,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_817,GHGAI93498909175637,Secondary malignant neoplasm of respiratory and digestive organs,FEMALE,ICD-10:C78
+ReMaster_PID_818,GHGAI02417113781031,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_819,GHGAI36472295888325,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_820,GHGAI97480392181017,Secondary malignant neoplasm of other and unspecified sites,MALE,ICD-10:C79
+ReMaster_PID_821,GHGAI04314494935072,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_822,GHGAI26601987863042,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_823,GHGAI98922780675837,Malignant neoplasm of bronchus and lung,MALE,ICD-10:C34
+ReMaster_PID_824,GHGAI07232423129967,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_825,GHGAI50667403289248,Malignant neoplasm of other and ill-defined sites,MALE,ICD-10:C76
+ReMaster_PID_826,GHGAI64759323784778,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_827,GHGAI99423715087894,Malignant neoplasm of bronchus and lung,MALE,ICD-10:C34
+ReMaster_PID_828,GHGAI54930162480981,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_829,GHGAI65452260247088,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_830,GHGAI94283409902011,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_831,GHGAI60208237998214,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_832,GHGAI52469941901834,Malignant neoplasm of other and ill-defined digestive organs,FEMALE,ICD-10:C26
+ReMaster_PID_833,GHGAI37414209279855,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_834,GHGAI06246420109381,Malignant neoplasm of small intestine,FEMALE,ICD-10:C17
+ReMaster_PID_835,GHGAI28723308995313,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_836,GHGAI02138235347666,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_837,GHGAI42665274681982,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_838,GHGAI71270717558225,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_839,GHGAI69971610587120,Malignant neoplasm of small intestine,FEMALE,ICD-10:C17
+ReMaster_PID_840,GHGAI74344111177127,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_841,GHGAI83050273668823,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_842,GHGAI66902499389251,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_843,GHGAI54256393963752,Malignant neoplasm of other and ill-defined digestive organs,MALE,ICD-10:C26
+ReMaster_PID_844,GHGAI37847804698275,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_845,GHGAI36787320593270,Malignant neoplasm of small intestine,FEMALE,ICD-10:C17
+ReMaster_PID_846,GHGAI15156752814355,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_847,GHGAI66932979788356,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_848,GHGAI84852872091961,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_849,GHGAI95196766891916,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_850,GHGAI31813833891382,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_851,GHGAI36079929160022,Malignant neoplasm of small intestine,FEMALE,ICD-10:C17
+ReMaster_PID_852,GHGAI24260343068351,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_853,GHGAI62233831452605,Malignant neoplasm of other and ill-defined digestive organs,MALE,ICD-10:C26
+ReMaster_PID_854,GHGAI33167540752825,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_855,GHGAI78887531251565,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_856,GHGAI73080271224736,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_857,GHGAI53247576634344,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_858,GHGAI97678811609266,Malignant neoplasm of small intestine,FEMALE,ICD-10:C17
+ReMaster_PID_859,GHGAI59694584766419,Malignant neoplasm of small intestine,FEMALE,ICD-10:C17
+ReMaster_PID_860,GHGAI69719053114359,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_861,GHGAI47832168515076,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_862,GHGAI11279270021434,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_863,GHGAI15719034078428,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_864,GHGAI04251198979525,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_865,GHGAI00697020177153,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_866,GHGAI43834808618873,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_867,GHGAI90048777065728,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_868,GHGAI95495467819902,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_869,GHGAI93481834237173,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_870,GHGAI32528131570171,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_871,GHGAI08446310521480,Malignant neoplasm of oesophagus,MALE,ICD-10:C15
+ReMaster_PID_872,GHGAI72421194086668,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_873,GHGAI83245793632508,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_874,GHGAI03220314538319,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_875,GHGAI62445626656576,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_876,GHGAI85283805929630,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_877,GHGAI35755752846901,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_878,GHGAI42044159669102,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_879,GHGAI92125483473457,Malignant neoplasm of oesophagus,MALE,ICD-10:C15
+ReMaster_PID_880,GHGAI48566058973269,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_881,GHGAI54285859368049,Malignant neoplasm of small intestine,FEMALE,ICD-10:C17
+ReMaster_PID_882,GHGAI39270316366234,Malignant neoplasm of oesophagus,MALE,ICD-10:C15
+ReMaster_PID_883,GHGAI70286655081932,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_884,GHGAI19951921476975,Malignant neoplasm of oesophagus,MALE,ICD-10:C15
+ReMaster_PID_885,GHGAI99286806243662,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_886,GHGAI90846346978372,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_887,GHGAI01337542741652,Malignant neoplasm of small intestine,FEMALE,ICD-10:C17
+ReMaster_PID_888,GHGAI17963171759435,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_889,GHGAI90431687800247,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_890,GHGAI14847253065531,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_891,GHGAI16167723740282,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_892,GHGAI12036583572397,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_893,GHGAI69445919320150,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_894,GHGAI67240632670734,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_895,GHGAI33598202758880,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_896,GHGAI00298662681397,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_897,GHGAI07891699147643,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_898,GHGAI03293573530150,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_899,GHGAI28129507655839,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_900,GHGAI11910189158030,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_901,GHGAI86025594138534,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_902,GHGAI91455483869333,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_903,GHGAI13766630106535,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_904,GHGAI61527862265168,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_905,GHGAI44357505714330,Malignant neoplasm of small intestine,FEMALE,ICD-10:C17
+ReMaster_PID_906,GHGAI64286446666750,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_907,GHGAI15904202088811,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_908,GHGAI49330298878329,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_909,GHGAI30914076361061,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_910,GHGAI13916647845438,Malignant neoplasm of breast,MALE,ICD-10:C50
+ReMaster_PID_911,GHGAI89042819508261,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_912,GHGAI68134373406797,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_913,GHGAI24244340666946,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_914,GHGAI48528003196131,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_915,GHGAI28570165599909,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_916,GHGAI17857437586744,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_917,GHGAI24372378327765,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_918,GHGAI94542802224904,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_919,GHGAI03529811348454,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_920,GHGAI25774633300311,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_921,GHGAI49340555386955,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_922,GHGAI10581230907545,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_923,GHGAI93396385224680,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_924,GHGAI32391623286032,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_925,GHGAI20254737231025,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_926,GHGAI15564125426049,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_927,GHGAI51205142617763,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_928,GHGAI17711479590471,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_929,GHGAI14277309037475,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_930,GHGAI31523680818889,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_931,GHGAI56530332440397,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_932,GHGAI75872528859239,Malignant neoplasm of bladder,MALE,ICD-10:C67
+ReMaster_PID_933,GHGAI60480675195689,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_934,GHGAI19673529820737,Malignant neoplasm of corpus uteri,FEMALE,ICD-10:C54
+ReMaster_PID_935,GHGAI88458228490111,Malignant neoplasm of uterus - part unspecified,FEMALE,ICD-10:C55
+ReMaster_PID_936,GHGAI67788103248715,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_937,GHGAI36474008843672,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_938,GHGAI94361317586523,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_939,GHGAI27580686366800,Malignant neoplasm of uterus - part unspecified,FEMALE,ICD-10:C55
+ReMaster_PID_940,GHGAI06421021469317,Malignant neoplasm of cervix uteri,FEMALE,ICD-10:C53
+ReMaster_PID_941,GHGAI98138952875636,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_942,GHGAI95015955591589,Malignant neoplasm of adrenal gland,FEMALE,ICD-10:C74
+ReMaster_PID_943,GHGAI93048129412637,Malignant neoplasm of uterus - part unspecified,FEMALE,ICD-10:C55
+ReMaster_PID_944,GHGAI99778124109667,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_945,GHGAI29496828252413,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_946,GHGAI92747161558829,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_947,GHGAI77159849261789,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_948,GHGAI70644718394679,Malignant neoplasm of uterus - part unspecified,FEMALE,ICD-10:C55
+ReMaster_PID_949,GHGAI00062021183362,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_950,GHGAI17411429748356,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_951,GHGAI80430244903852,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_952,GHGAI65329661529911,Malignant neoplasm of corpus uteri,FEMALE,ICD-10:C54
+ReMaster_PID_953,GHGAI68813063042527,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_954,GHGAI99576938438100,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_955,GHGAI37151419209243,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_956,GHGAI54218129721476,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_957,GHGAI74454576574720,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_958,GHGAI39144929666895,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_959,GHGAI07530563758311,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_960,GHGAI04132819251966,Malignant neoplasm of uterus - part unspecified,FEMALE,ICD-10:C55
+ReMaster_PID_961,GHGAI50530605727634,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_962,GHGAI00119716484618,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_963,GHGAI53558079983766,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_964,GHGAI70406279029767,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_965,GHGAI10225671713285,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_966,GHGAI64051662222302,Malignant neoplasm of uterus - part unspecified,FEMALE,ICD-10:C55
+ReMaster_PID_967,GHGAI42681440858320,Malignant neoplasm of corpus uteri,FEMALE,ICD-10:C54
+ReMaster_PID_968,GHGAI63335700527395,Malignant neoplasm of uterus - part unspecified,FEMALE,ICD-10:C55
+ReMaster_PID_969,GHGAI73049322529320,Malignant neoplasm of kidney - except renal pelvis,FEMALE,ICD-10:C64
+ReMaster_PID_970,GHGAI93309899173466,Malignant neoplasm of uterus - part unspecified,FEMALE,ICD-10:C55
+ReMaster_PID_971,GHGAI24320443803857,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_972,GHGAI34552800545552,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_973,GHGAI71814501389180,Malignant neoplasm of uterus - part unspecified,FEMALE,ICD-10:C55
+ReMaster_PID_974,GHGAI88319344653118,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_975,GHGAI90718847657085,Malignant neoplasm of uterus - part unspecified,FEMALE,ICD-10:C55
+ReMaster_PID_976,GHGAI86042835101446,Malignant neoplasm of bladder,MALE,ICD-10:C67
+ReMaster_PID_977,GHGAI17399907602672,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_978,GHGAI85590509714188,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_979,GHGAI83416746276431,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_980,GHGAI13600927720814,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_981,GHGAI79990405494401,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_982,GHGAI23079202731199,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_983,GHGAI38224201671752,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_984,GHGAI63385665744658,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_985,GHGAI34660187203856,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_986,GHGAI79057106987199,Malignant neoplasm of corpus uteri,FEMALE,ICD-10:C54
+ReMaster_PID_987,GHGAI70839554253930,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_988,GHGAI11815868697612,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_989,GHGAI35895997219645,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_990,GHGAI23856062585766,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_991,GHGAI46234247139226,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_992,GHGAI81466764949090,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_993,GHGAI30207562163079,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_994,GHGAI92559859814062,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_995,GHGAI42168128980118,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_996,GHGAI18432614946861,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_997,GHGAI18243152753566,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_998,GHGAI37194943171559,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_999,GHGAI87442479628351,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1000,GHGAI04295238698553,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_1001,GHGAI24863128736138,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_1002,GHGAI20605226261153,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_1003,GHGAI37412958541469,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_1004,GHGAI87615969737996,Malignant neoplasm of other and unspecified male genital organs,MALE,ICD-10:C63
+ReMaster_PID_1005,GHGAI40635583720201,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_1006,GHGAI10405407119025,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1007,GHGAI04446932836638,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_1008,GHGAI83739059946883,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1009,GHGAI06204645810899,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1010,GHGAI00883495539078,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1011,GHGAI91086978789502,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1012,GHGAI67438301835064,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_1013,GHGAI05981851547070,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_1014,GHGAI30349767851149,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_1015,GHGAI80820224748814,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_1016,GHGAI16112486326612,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_1017,GHGAI33831087735444,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_1018,GHGAI32442759278185,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_1019,GHGAI76138805414122,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_1020,GHGAI67162981956239,Malignant neoplasm of accessory sinuses,MALE,ICD-10:C31
+ReMaster_PID_1021,GHGAI82339176219414,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_1022,GHGAI40051449071997,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_1023,GHGAI69598242272871,Malignant neoplasm of other and unspecified male genital organs,MALE,ICD-10:C63
+ReMaster_PID_1024,GHGAI73403019918571,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_1025,GHGAI51448298174806,Malignant neoplasm of other endocrine glands and related structures,FEMALE,ICD-10:C75
+ReMaster_PID_1026,GHGAI39586238695173,Malignant neoplasm of cervix uteri,FEMALE,ICD-10:C53
+ReMaster_PID_1027,GHGAI97400015462231,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_1028,GHGAI79120573202285,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_1029,GHGAI83139218530820,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_1030,GHGAI28554216717549,Malignant neoplasm of adrenal gland,FEMALE,ICD-10:C74
+ReMaster_PID_1031,GHGAI88277938600724,Other and unspecified malignant neoplasms of lymphoid - haematopoietic and related tissue,FEMALE,ICD-10:C96
+ReMaster_PID_1032,GHGAI67914611309553,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1033,GHGAI03399553978382,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1034,GHGAI53155387168280,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1035,GHGAI86405974866307,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1036,GHGAI15192707178171,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_1037,GHGAI66117976687062,Secondary malignant neoplasm of respiratory and digestive organs,MALE,ICD-10:C78
+ReMaster_PID_1038,GHGAI29960021546879,Malignant melanoma of skin,MALE,ICD-10:C43
+ReMaster_PID_1039,GHGAI36925619665432,Malignant neoplasm of eye and adnexa,FEMALE,ICD-10:C69
+ReMaster_PID_1040,GHGAI26015866368361,Malignant melanoma of skin,FEMALE,ICD-10:C43
+ReMaster_PID_1041,GHGAI99996158017315,Malignant melanoma of skin,FEMALE,ICD-10:C43
+ReMaster_PID_1042,GHGAI52268927933758,Malignant melanoma of skin,MALE,ICD-10:C43
+ReMaster_PID_1043,GHGAI83159727273135,Malignant melanoma of skin,FEMALE,ICD-10:C43
+ReMaster_PID_1044,GHGAI35693497011573,Malignant melanoma of skin,MALE,ICD-10:C43
+ReMaster_PID_1045,GHGAI16316690991256,Malignant neoplasm of meninges,MALE,ICD-10:C70
+ReMaster_PID_1046,GHGAI01975320047952,Malignant neoplasm of eye and adnexa,MALE,ICD-10:C69
+ReMaster_PID_1047,GHGAI23909044073722,Malignant melanoma of skin,MALE,ICD-10:C43
+ReMaster_PID_1048,GHGAI58205760222334,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1049,GHGAI59526036925599,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1050,GHGAI08420095929981,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1051,GHGAI74576219541198,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_1052,GHGAI79005582429033,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_1053,GHGAI33730745903230,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_1054,GHGAI95923152757618,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_1055,GHGAI52062295507375,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_1056,GHGAI47549492523456,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_1057,GHGAI34114133377672,Malignant neoplasm of rectum,MALE,ICD-10:C20
+ReMaster_PID_1058,GHGAI39538092261361,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_1059,GHGAI52462692125207,Malignant neoplasm of rectum,FEMALE,ICD-10:C20
+ReMaster_PID_1060,GHGAI51406781183405,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_1061,GHGAI62213539539234,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_1062,GHGAI10723814060212,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_1063,GHGAI25440954913257,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_1064,GHGAI03438286279300,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_1065,GHGAI79785585668480,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_1066,GHGAI78877101612424,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_1067,GHGAI36516041026143,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_1068,GHGAI03533756469660,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_1069,GHGAI00212439305355,Malignant neoplasm of colon,MALE,ICD-10:C18
+ReMaster_PID_1070,GHGAI85540964505889,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_1071,GHGAI79088048310562,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_1072,GHGAI01451023273787,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_1073,GHGAI50575547140334,Mesothelioma,MALE,ICD-10:C45
+ReMaster_PID_1074,GHGAI26763829424483,Malignant neoplasm of thymus,MALE,ICD-10:C37
+ReMaster_PID_1075,GHGAI70088370940831,Malignant neoplasm of thyroid gland,MALE,ICD-10:C73
+ReMaster_PID_1076,GHGAI35543736997908,Malignant neoplasm of thyroid gland,FEMALE,ICD-10:C73
+ReMaster_PID_1077,GHGAI18665127899507,Other malignant neoplasms of skin,MALE,ICD-10:C44
+ReMaster_PID_1078,GHGAI89354684988612,Malignant neoplasm of liver and intrahepatic bile ducts,MALE,ICD-10:C22
+ReMaster_PID_1079,GHGAI16064218247141,Malignant neoplasm of other endocrine glands and related structures,MALE,ICD-10:C75
+ReMaster_PID_1080,GHGAI59998721320991,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1081,GHGAI25693175273731,Malignant neoplasm of thyroid gland,MALE,ICD-10:C73
+ReMaster_PID_1082,GHGAI68194585137919,Other malignant neoplasms of skin,FEMALE,ICD-10:C44
+ReMaster_PID_1083,GHGAI21829719640302,Malignant neoplasm of thymus,MALE,ICD-10:C37
+ReMaster_PID_1084,GHGAI98136519656758,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_1085,GHGAI17973919213611,Malignant neoplasm of spinal cord - cranial nerves and other parts of central nervous system,FEMALE,ICD-10:C72
+ReMaster_PID_1086,GHGAI18330527942232,Malignant neoplasm of thyroid gland,FEMALE,ICD-10:C73
+ReMaster_PID_1087,GHGAI55517597294491,Malignant neoplasm of other endocrine glands and related structures,MALE,ICD-10:C75
+ReMaster_PID_1088,GHGAI15171101957900,Malignant neoplasm of anus and anal canal,MALE,ICD-10:C21
+ReMaster_PID_1089,GHGAI04119953652257,Malignant neoplasm of other endocrine glands and related structures,MALE,ICD-10:C75
+ReMaster_PID_1090,GHGAI07409534798155,Malignant neoplasm of meninges,MALE,ICD-10:C70
+ReMaster_PID_1091,GHGAI92022282693303,Malignant neoplasm of anus and anal canal,FEMALE,ICD-10:C21
+ReMaster_PID_1092,GHGAI43228044683939,Mesothelioma,FEMALE,ICD-10:C45
+ReMaster_PID_1093,GHGAI75018239187369,Malignant neoplasm of brain,MALE,ICD-10:C71
+ReMaster_PID_1094,GHGAI19486154197539,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_1095,GHGAI05655198113730,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_1096,GHGAI25925773134386,Myeloid leukaemia,FEMALE,ICD-10:C92
+ReMaster_PID_1097,GHGAI79803774935146,Non-follicular lymphoma,MALE,ICD-10:C83
+ReMaster_PID_1098,GHGAI47739656136131,Lymphoid leukaemia,MALE,ICD-10:C91
+ReMaster_PID_1099,GHGAI53488540776857,Hematopoietic malignancy,MALE,ICD-10:C42
+ReMaster_PID_1100,GHGAI81560938589742,Non-follicular lymphoma,FEMALE,ICD-10:C83
+ReMaster_PID_1101,GHGAI85282526214767,Follicular lymphoma,FEMALE,ICD-10:C82
+ReMaster_PID_1102,GHGAI41605516138520,Lymphoid leukaemia,FEMALE,ICD-10:C91
+ReMaster_PID_1103,GHGAI75238341117787,Hematopoietic malignancy,MALE,ICD-10:C42
+ReMaster_PID_1104,GHGAI47405806783542,Leukaemia of unspecified cell type,MALE,ICD-10:C95
+ReMaster_PID_1105,GHGAI44156143542729,Other and unspecified types of non-Hodgkin lymphoma,FEMALE,ICD-10:C85
+ReMaster_PID_1106,GHGAI74397726490280,Malignant neoplasm of spinal cord - cranial nerves and other parts of central nervous system,MALE,ICD-10:C72
+ReMaster_PID_1107,GHGAI74731251631708,Mature T/NK-cell lymphomas,MALE,ICD-10:C84
+ReMaster_PID_1108,GHGAI83807168137883,Non-follicular lymphoma,FEMALE,ICD-10:C83
+ReMaster_PID_1109,GHGAI99756833873141,Multiple myeloma and malignant plasma cell neoplasms,FEMALE,ICD-10:C90
+ReMaster_PID_1110,GHGAI86310897249924,Lymphoid leukaemia,FEMALE,ICD-10:C91
+ReMaster_PID_1111,GHGAI49115998084998,Malignant neoplasm of thymus,MALE,ICD-10:C37
+ReMaster_PID_1112,GHGAI97111493197398,Malignant neoplasm of thyroid gland,FEMALE,ICD-10:C73
+ReMaster_PID_1113,GHGAI22442640162135,Malignant neoplasm of nasopharynx,MALE,ICD-10:C11
+ReMaster_PID_1114,GHGAI29911770303161,Malignant neoplasm of accessory sinuses,FEMALE,ICD-10:C31
+ReMaster_PID_1115,GHGAI90917137930235,Malignant neoplasm of other and unspecified major salivary glands,MALE,ICD-10:C08
+ReMaster_PID_1116,GHGAI03815685532841,Malignant neoplasm of nasal cavity and middle ear,MALE,ICD-10:C30
+ReMaster_PID_1117,GHGAI12362957053292,Malignant neoplasm of accessory sinuses,MALE,ICD-10:C31
+ReMaster_PID_1118,GHGAI20142176159884,Malignant neoplasm of trachea,FEMALE,ICD-10:C33
+ReMaster_PID_1119,GHGAI53535649488749,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_1120,GHGAI81249875311456,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_1121,GHGAI51580822683150,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_1122,GHGAI78017654612423,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_1123,GHGAI93590012655503,Malignant neoplasm of oesophagus,MALE,ICD-10:C15
+ReMaster_PID_1124,GHGAI70122410094767,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_1125,GHGAI03718235012323,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_1126,GHGAI35697258126566,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_1127,GHGAI69892160050617,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_1128,GHGAI29500688695992,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_1129,GHGAI29232198545144,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_1130,GHGAI28811543291838,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_1131,GHGAI56611814038673,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_1132,GHGAI33920845634603,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_1133,GHGAI75753442645478,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,FEMALE,ICD-10:C41
+ReMaster_PID_1134,GHGAI44241935843200,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_1135,GHGAI53042507641884,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_1136,GHGAI20212373320019,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_1137,GHGAI38705336876296,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_1138,GHGAI39809356225723,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1139,GHGAI34332976549578,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_1140,GHGAI27503561243488,Malignant neoplasm of bone and articular cartilage of limbs,FEMALE,ICD-10:C40
+ReMaster_PID_1141,GHGAI04376710247189,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_1142,GHGAI31789589001131,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_1143,GHGAI36074598198467,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_1144,GHGAI68973687840647,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1145,GHGAI21615275395387,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_1146,GHGAI19761535087778,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_1147,GHGAI62855897397804,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_1148,GHGAI37984732925840,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_1149,GHGAI85901185574471,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_1150,GHGAI73132010682725,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,MALE,ICD-10:C41
+ReMaster_PID_1151,GHGAI68330285114237,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_1152,GHGAI97823424527500,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,FEMALE,ICD-10:C41
+ReMaster_PID_1153,GHGAI95429459006504,Malignant neoplasm of small intestine,MALE,ICD-10:C17
+ReMaster_PID_1154,GHGAI21604168412716,Malignant neoplasm of other and ill-defined digestive organs,MALE,ICD-10:C26
+ReMaster_PID_1155,GHGAI59060454075750,Malignant neoplasm of cervix uteri,FEMALE,ICD-10:C53
+ReMaster_PID_1156,GHGAI07631636788198,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_1157,GHGAI71631108199226,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_1158,GHGAI48956535688563,Malignant neoplasm of other and unspecified parts of biliary tract,FEMALE,ICD-10:C24
+ReMaster_PID_1159,GHGAI19768132681485,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_1160,GHGAI27617983382499,Malignant neoplasm of liver and intrahepatic bile ducts,MALE,ICD-10:C22
+ReMaster_PID_1161,GHGAI73250483537400,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_1162,GHGAI39741236302999,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_1163,GHGAI38575723947725,Secondary malignant neoplasm of respiratory and digestive organs,MALE,ICD-10:C78
+ReMaster_PID_1164,GHGAI57992848087550,Malignant neoplasm of heart - mediastinum and pleura,MALE,ICD-10:C38
+ReMaster_PID_1165,GHGAI01495862097797,Malignant neoplasm of other and ill-defined sites,FEMALE,ICD-10:C76
+ReMaster_PID_1166,GHGAI88644753581229,Secondary malignant neoplasm of respiratory and digestive organs,MALE,ICD-10:C78
+ReMaster_PID_1167,GHGAI40745803097485,Malignant neoplasm without specification of site,FEMALE,ICD-10:C80
+ReMaster_PID_1168,GHGAI43537179342315,Malignant neoplasm without specification of site,FEMALE,ICD-10:C80
+ReMaster_PID_1169,GHGAI68545293436252,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_1170,GHGAI47902758173630,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_1171,GHGAI15787233295761,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_1172,GHGAI06812524618460,Secondary malignant neoplasm of other and unspecified sites,MALE,ICD-10:C79
+ReMaster_PID_1173,GHGAI49707236785160,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_1174,GHGAI92804857301048,Leukaemia of unspecified cell type,FEMALE,ICD-10:C95
+ReMaster_PID_1175,GHGAI08614470159077,Non-follicular lymphoma,MALE,ICD-10:C83
+ReMaster_PID_1176,GHGAI34622868133372,Lymphoid leukaemia,MALE,ICD-10:C91
+ReMaster_PID_1177,GHGAI93206132369582,Malignant neoplasm of testis,MALE,ICD-10:C62
+ReMaster_PID_1178,GHGAI05403918688461,Malignant neoplasm of prostate,MALE,ICD-10:C61
+ReMaster_PID_1179,GHGAI27551069926368,Malignant neoplasm of penis,MALE,ICD-10:C60
+ReMaster_PID_1180,GHGAI66449909483658,Malignant neoplasm of testis,MALE,ICD-10:C62
+ReMaster_PID_1181,GHGAI07188567952067,Malignant neoplasm of prostate,MALE,ICD-10:C61
+ReMaster_PID_1182,GHGAI66456648298622,Malignant neoplasm of testis,MALE,ICD-10:C62
+ReMaster_PID_1183,GHGAI19494574689639,Malignant neoplasm of bladder,MALE,ICD-10:C67
+ReMaster_PID_1184,GHGAI30701090959070,Malignant neoplasm of heart - mediastinum and pleura,MALE,ICD-10:C38
+ReMaster_PID_1185,GHGAI85364785325550,Malignant neoplasm of heart - mediastinum and pleura,MALE,ICD-10:C38
+ReMaster_PID_1186,GHGAI62167660076871,Malignant neoplasm of kidney - except renal pelvis,FEMALE,ICD-10:C64
+ReMaster_PID_1187,GHGAI09653817887060,Malignant neoplasm of kidney - except renal pelvis,FEMALE,ICD-10:C64
+ReMaster_PID_1188,GHGAI18471182503554,Malignant neoplasm of testis,MALE,ICD-10:C62
+ReMaster_PID_1189,GHGAI38499335888003,Malignant neoplasm of prostate,MALE,ICD-10:C61
+ReMaster_PID_1190,GHGAI70402420224431,Malignant neoplasm of kidney - except renal pelvis,MALE,ICD-10:C64
+ReMaster_PID_1191,GHGAI37936417615634,Malignant neoplasm of heart - mediastinum and pleura,MALE,ICD-10:C38
+ReMaster_PID_1192,GHGAI50019177644574,Malignant neoplasm of bladder,MALE,ICD-10:C67
+ReMaster_PID_1193,GHGAI17607132411347,Malignant neoplasm of prostate,MALE,ICD-10:C61
+ReMaster_PID_1194,GHGAI05863066574904,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_1195,GHGAI94284530055654,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_1196,GHGAI86533557908897,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_1197,GHGAI89995111539539,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_1198,GHGAI23717254817279,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1199,GHGAI01279317821961,Malignant neoplasm of bladder,MALE,ICD-10:C67
+ReMaster_PID_1200,GHGAI17169241592855,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1201,GHGAI63595133499366,Malignant neoplasm of corpus uteri,FEMALE,ICD-10:C54
+ReMaster_PID_1202,GHGAI88846958232118,Malignant neoplasm of bronchus and lung,MALE,ICD-10:C34
+ReMaster_PID_1203,GHGAI29072656566118,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_1204,GHGAI79601794578511,Malignant neoplasm of uterus - part unspecified,FEMALE,ICD-10:C55
+ReMaster_PID_1205,GHGAI67678834836306,Malignant neoplasm of uterus - part unspecified,FEMALE,ICD-10:C55
+ReMaster_PID_1206,GHGAI14369594991257,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_1207,GHGAI42931076776440,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_1208,GHGAI44703220172586,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_1209,GHGAI96092068322900,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_1210,GHGAI36788901219415,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_1211,GHGAI48022110858605,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_1212,GHGAI36824893643103,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_1213,GHGAI88427122564055,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_1214,GHGAI47709451900860,Malignant neoplasm of breast,MALE,ICD-10:C50
+ReMaster_PID_1215,GHGAI75578775154932,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_1216,GHGAI60319122638828,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_1217,GHGAI93881654693384,Malignant neoplasm without specification of site,FEMALE,ICD-10:C80
+ReMaster_PID_1218,GHGAI74248362176846,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_1219,GHGAI77222777658714,Malignant neoplasm of other and unspecified parts of biliary tract,MALE,ICD-10:C24
+ReMaster_PID_1220,GHGAI61370284162175,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_1221,GHGAI78193221690804,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_1222,GHGAI11323691473887,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_1223,GHGAI97471890967024,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_1224,GHGAI86769370623319,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_1225,GHGAI07835345208337,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_1226,GHGAI17598203387499,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_1227,GHGAI44773210097325,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_1228,GHGAI07711624895533,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_1229,GHGAI82586818996891,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_1230,GHGAI96647048032822,Malignant neoplasm of gallbladder,FEMALE,ICD-10:C23
+ReMaster_PID_1231,GHGAI56101631166095,Secondary malignant neoplasm of respiratory and digestive organs,FEMALE,ICD-10:C78
+ReMaster_PID_1232,GHGAI69355393888026,Malignant neoplasm of other and unspecified parts of biliary tract,FEMALE,ICD-10:C24
+ReMaster_PID_1233,GHGAI73166320564779,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_1234,GHGAI57441118145318,Malignant neoplasm of liver and intrahepatic bile ducts,MALE,ICD-10:C22
+ReMaster_PID_1235,GHGAI30943161395067,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_1236,GHGAI19114689852608,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_1237,GHGAI60393196340283,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_1238,GHGAI41445369430799,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_1239,GHGAI09139110020766,Malignant neoplasm of liver and intrahepatic bile ducts,MALE,ICD-10:C22
+ReMaster_PID_1240,GHGAI39622276731277,Malignant neoplasm of pancreas,MALE,ICD-10:C25
+ReMaster_PID_1241,GHGAI16866808605760,Malignant neoplasm of pancreas,FEMALE,ICD-10:C25
+ReMaster_PID_1242,GHGAI42693090933514,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1243,GHGAI37346530632121,Malignant neoplasm of uterus - part unspecified,FEMALE,ICD-10:C55
+ReMaster_PID_1244,GHGAI20057058042119,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1245,GHGAI00911256783250,Secondary malignant neoplasm of other and unspecified sites,FEMALE,ICD-10:C79
+ReMaster_PID_1246,GHGAI62672256704244,Malignant neoplasm of other and ill-defined sites,MALE,ICD-10:C76
+ReMaster_PID_1247,GHGAI77850507495487,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1248,GHGAI42520795114727,Malignant neoplasm of bronchus and lung,MALE,ICD-10:C34
+ReMaster_PID_1249,GHGAI16550812188066,Malignant neoplasm of retroperitoneum and peritoneum,FEMALE,ICD-10:C48
+ReMaster_PID_1250,GHGAI99255660193805,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1251,GHGAI66525065492920,Malignant neoplasm of corpus uteri,FEMALE,ICD-10:C54
+ReMaster_PID_1252,GHGAI83964824450979,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1253,GHGAI36046664012344,Malignant neoplasm of base of tongue,MALE,ICD-10:C01
+ReMaster_PID_1254,GHGAI45909744590859,Malignant neoplasm of breast,FEMALE,ICD-10:C50
+ReMaster_PID_1255,GHGAI52689802154131,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1256,GHGAI82962951229397,Malignant neoplasm of heart - mediastinum and pleura,FEMALE,ICD-10:C38
+ReMaster_PID_1257,GHGAI96068933228781,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1258,GHGAI25245290640803,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1259,GHGAI80281787577757,Secondary malignant neoplasm of other and unspecified sites,MALE,ICD-10:C79
+ReMaster_PID_1260,GHGAI85539497621278,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1261,GHGAI78272637331418,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1262,GHGAI47309111835234,Malignant neoplasm of liver and intrahepatic bile ducts,FEMALE,ICD-10:C22
+ReMaster_PID_1263,GHGAI63769283366837,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1264,GHGAI83327416657480,Secondary malignant neoplasm of other and unspecified sites,MALE,ICD-10:C79
+ReMaster_PID_1265,GHGAI11201972297816,Malignant neoplasm of other and unspecified parts of mouth,FEMALE,ICD-10:C06
+ReMaster_PID_1266,GHGAI88728490816961,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_1267,GHGAI12350048865500,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1268,GHGAI77871607675736,Other and unspecified malignant neoplasms of lymphoid - haematopoietic and related tissue,MALE,ICD-10:C96
+ReMaster_PID_1269,GHGAI76980537203636,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1270,GHGAI50844975155620,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,FEMALE,ICD-10:C41
+ReMaster_PID_1271,GHGAI31423454567523,Malignant neoplasm of corpus uteri,FEMALE,ICD-10:C54
+ReMaster_PID_1272,GHGAI25912432831202,Malignant neoplasm of cervix uteri,FEMALE,ICD-10:C53
+ReMaster_PID_1273,GHGAI49196415160748,Malignant neoplasm of cervix uteri,FEMALE,ICD-10:C53
+ReMaster_PID_1274,GHGAI69970118098261,Malignant neoplasm of vulva,FEMALE,ICD-10:C51
+ReMaster_PID_1275,GHGAI13044913512735,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_1276,GHGAI36728566038706,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_1277,GHGAI34329630345287,Malignant neoplasm of cervix uteri,FEMALE,ICD-10:C53
+ReMaster_PID_1278,GHGAI94804725772443,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_1279,GHGAI20443132465483,Malignant neoplasm of ovary,FEMALE,ICD-10:C56
+ReMaster_PID_1280,GHGAI97988905983639,Malignant neoplasm of bronchus and lung,MALE,ICD-10:C34
+ReMaster_PID_1281,GHGAI00836638951700,Malignant neoplasm of bronchus and lung,MALE,ICD-10:C34
+ReMaster_PID_1282,GHGAI86163549938335,Malignant neoplasm of bronchus and lung,MALE,ICD-10:C34
+ReMaster_PID_1283,GHGAI18125344454581,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_1284,GHGAI69224515549728,Malignant neoplasm of bronchus and lung,MALE,ICD-10:C34
+ReMaster_PID_1285,GHGAI78513597030138,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_1286,GHGAI65530239641609,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_1287,GHGAI00737922497097,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1288,GHGAI46993052909582,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1289,GHGAI16466430339078,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1290,GHGAI53607746482129,Malignant neoplasm of bronchus and lung,FEMALE,ICD-10:C34
+ReMaster_PID_1291,GHGAI59379989704020,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1292,GHGAI66774881292460,Malignant neoplasm of small intestine,FEMALE,ICD-10:C17
+ReMaster_PID_1293,GHGAI71512181736584,Malignant neoplasm of small intestine,FEMALE,ICD-10:C17
+ReMaster_PID_1294,GHGAI39642378793462,Malignant neoplasm of stomach,FEMALE,ICD-10:C16
+ReMaster_PID_1295,GHGAI99773262284939,Malignant neoplasm of oesophagus,MALE,ICD-10:C15
+ReMaster_PID_1296,GHGAI03154112461038,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_1297,GHGAI21559277943470,Malignant neoplasm of stomach,MALE,ICD-10:C16
+ReMaster_PID_1298,GHGAI99440378862708,Secondary malignant neoplasm of other and unspecified sites,MALE,ICD-10:C79
+ReMaster_PID_1299,GHGAI57001637149400,Malignant neoplasm of colon,FEMALE,ICD-10:C18
+ReMaster_PID_1300,GHGAI51506699535559,Malignant neoplasm of rectum,FEMALE,ICD-10:C20
+ReMaster_PID_1301,GHGAI99386894787278,Malignant neoplasm of rectosigmoid junction,FEMALE,ICD-10:C19
+ReMaster_PID_1302,GHGAI69534636842713,Malignant neoplasm of other connective and soft tissue,MALE,ICD-10:C49
+ReMaster_PID_1303,GHGAI46238940889640,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1304,GHGAI02632197307483,Malignant neoplasm of other connective and soft tissue,FEMALE,ICD-10:C49
+ReMaster_PID_1305,GHGAI52772198520076,Malignant neoplasm of retroperitoneum and peritoneum,MALE,ICD-10:C48
+ReMaster_PID_1306,GHGAI31627588272594,Malignant neoplasm of bone and articular cartilage of limbs,MALE,ICD-10:C40
+ReMaster_PID_1307,GHGAI22508231453391,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,FEMALE,ICD-10:C41
+ReMaster_PID_1308,GHGAI63828349711027,Lymphoid leukaemia,MALE,ICD-10:C91
+ReMaster_PID_1309,GHGAI44859784689944,Mature T/NK-cell lymphomas,MALE,ICD-10:C84
