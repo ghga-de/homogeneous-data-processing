@@ -1,0 +1,325 @@
+﻿Run;sample;PID;GHGA_F;FileName;FileType;R1_R2;desc;CaseControl;diagnosisID;diagnosisTerm;Biolsex;;;;FilterMe_ID;FilterMe_Name
+EGAR00003031546;EGAN00003410296;ReMaster_PID_1218;GHGAF69769885537490;ReMaster_File_5255;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8550);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF49814560010408;ReMaster_PseudoFile_5255
+EGAR00003024008;EGAN00003409483;ReMaster_PID_88;GHGAF49819319357701;ReMaster_File_5256;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF40486902759059;ReMaster_PseudoFile_5256
+EGAR00003024006;EGAN00003409482;ReMaster_PID_88;GHGAF67025883983841;ReMaster_File_5257;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF81811929554979;ReMaster_PseudoFile_5257
+EGAR00003316640;EGAN00003542983;ReMaster_PID_1219;GHGAF30982356747833;ReMaster_File_5258;FASTQ;2;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C24, ICD-O-3: 8160);CONTROL;ICD-10:C24;Malignant neoplasm of other and unspecified parts of biliary tract;MALE;;;;GHGAF83378402879195;ReMaster_PseudoFile_5262
+EGAR00003316640;EGAN00003542983;ReMaster_PID_1219;GHGAF20206709395642;ReMaster_File_5259;FASTQ;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C24, ICD-O-3: 8160);CONTROL;ICD-10:C24;Malignant neoplasm of other and unspecified parts of biliary tract;MALE;;;;GHGAF47684725589959;ReMaster_PseudoFile_5271
+EGAR00003316648;EGAN00003542983;ReMaster_PID_1219;GHGAF47660250166358;ReMaster_File_5260;FASTQ;2;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C24, ICD-O-3: 8160);CONTROL;ICD-10:C24;Malignant neoplasm of other and unspecified parts of biliary tract;MALE;;;;GHGAF21642208769475;ReMaster_PseudoFile_5272
+EGAR00003316648;EGAN00003542983;ReMaster_PID_1219;GHGAF22898954346987;ReMaster_File_5261;FASTQ;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C24, ICD-O-3: 8160);CONTROL;ICD-10:C24;Malignant neoplasm of other and unspecified parts of biliary tract;MALE;;;;GHGAF23546195080074;ReMaster_PseudoFile_5273
+EGAR00003031480;EGAN00003410272;ReMaster_PID_1220;GHGAF36646765622974;ReMaster_File_5262;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8453);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF79539167117313;ReMaster_PseudoFile_5274
+EGAR00003316633;EGAN00003542972;ReMaster_PID_136;GHGAF73231838968734;ReMaster_File_5263;FASTQ;2;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF16969291094083;ReMaster_PseudoFile_5275
+EGAR00003316633;EGAN00003542972;ReMaster_PID_136;GHGAF27616514646398;ReMaster_File_5264;FASTQ;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF99709241864585;ReMaster_PseudoFile_5276
+EGAR00003316644;EGAN00003542972;ReMaster_PID_136;GHGAF89016932308205;ReMaster_File_5265;FASTQ;2;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF24526927082415;ReMaster_PseudoFile_5277
+EGAR00003316644;EGAN00003542972;ReMaster_PID_136;GHGAF40643796507093;ReMaster_File_5266;FASTQ;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF33631110305719;ReMaster_PseudoFile_5278
+EGAR00003316627;EGAN00003542987;ReMaster_PID_135;GHGAF55626871337287;ReMaster_File_5267;FASTQ;2;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF37936174083936;ReMaster_PseudoFile_5279
+EGAR00003316627;EGAN00003542987;ReMaster_PID_135;GHGAF79195190628867;ReMaster_File_5268;FASTQ;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF83679597145609;ReMaster_PseudoFile_5280
+EGAR00003316630;EGAN00003542987;ReMaster_PID_135;GHGAF82564706355823;ReMaster_File_5269;FASTQ;2;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF69363753292308;ReMaster_PseudoFile_5281
+EGAR00003316630;EGAN00003542987;ReMaster_PID_135;GHGAF80442007026862;ReMaster_File_5270;FASTQ;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF84703257285297;ReMaster_PseudoFile_5284
+EGAR00002311070;EGAN00002593778;ReMaster_PID_1221;GHGAF10974062475757;ReMaster_File_5271;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF16380103543974;ReMaster_PseudoFile_5289
+EGAR00003031924;EGAN00003410235;ReMaster_PID_134;GHGAF17968416159347;ReMaster_File_5272;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF53675036948577;ReMaster_PseudoFile_5290
+EGAR00003024138;EGAN00003410220;ReMaster_PID_133;GHGAF06244584403928;ReMaster_File_5273;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8171);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF82954540831738;ReMaster_PseudoFile_5291
+EGAR00002311071;EGAN00002593777;ReMaster_PID_131;GHGAF03951076976544;ReMaster_File_5274;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF94242717767417;ReMaster_PseudoFile_5292
+EGAR00003031936;EGAN00003410158;ReMaster_PID_130;GHGAF75651500126407;ReMaster_File_5275;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF07754990414896;ReMaster_PseudoFile_5293
+EGAR00002311042;EGAN00002593758;ReMaster_PID_1156;GHGAF13750833685049;ReMaster_File_5276;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF87949832410648;ReMaster_PseudoFile_5294
+EGAR00003024114;EGAN00003410131;ReMaster_PID_1222;GHGAF25161874722364;ReMaster_File_5277;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8140);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF60058984915277;ReMaster_PseudoFile_5295
+EGAR00003032429;EGAN00003410085;ReMaster_PID_127;GHGAF52909123582092;ReMaster_File_5278;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C23, ICD-O-3: 8010);CONTROL;ICD-10:C23;Malignant neoplasm of gallbladder;MALE;;;;GHGAF00173722458354;ReMaster_PseudoFile_5296
+EGAR00003032451;EGAN00003410065;ReMaster_PID_123;GHGAF49106111215594;ReMaster_File_5279;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF55048540123432;ReMaster_PseudoFile_5297
+EGAR00002311923;EGAN00002593776;ReMaster_PID_122;GHGAF52700812752256;ReMaster_File_5280;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF94155582959779;ReMaster_PseudoFile_5298
+EGAR00002312127;EGAN00002593775;ReMaster_PID_119;GHGAF52390397724017;ReMaster_File_5281;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF80930684231133;ReMaster_PseudoFile_5299
+EGAR00003314875;EGAN00003538946;ReMaster_PID_1223;GHGAF56625592689535;ReMaster_File_5282;FASTQ;2;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF93516263463772;ReMaster_PseudoFile_5304
+EGAR00003314875;EGAN00003538946;ReMaster_PID_1223;GHGAF24719595318459;ReMaster_File_5283;FASTQ;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF14343801804296;ReMaster_PseudoFile_5305
+EGAR00002312032;EGAN00002593774;ReMaster_PID_1224;GHGAF62882878087510;ReMaster_File_5284;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8481);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF34061508767572;ReMaster_PseudoFile_5306
+EGAR00003316608;EGAN00003542684;ReMaster_PID_1225;GHGAF60715127607698;ReMaster_File_5285;FASTQ;2;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8021);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF88782276863402;ReMaster_PseudoFile_5307
+EGAR00003316608;EGAN00003542684;ReMaster_PID_1225;GHGAF44160463658015;ReMaster_File_5286;FASTQ;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8021);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF17800882962856;ReMaster_PseudoFile_5308
+EGAR00003316611;EGAN00003542684;ReMaster_PID_1225;GHGAF18600806851924;ReMaster_File_5287;FASTQ;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8021);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF93897963135712;ReMaster_PseudoFile_5309
+EGAR00003316611;EGAN00003542684;ReMaster_PID_1225;GHGAF69869783734111;ReMaster_File_5288;FASTQ;2;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8021);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF49119108442223;ReMaster_PseudoFile_5310
+EGAR00002311025;EGAN00002593773;ReMaster_PID_1226;GHGAF52633409310016;ReMaster_File_5289;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF08943829556222;ReMaster_PseudoFile_5311
+EGAR00003031661;EGAN00003409955;ReMaster_PID_116;GHGAF85609901665196;ReMaster_File_5290;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF72686675549625;ReMaster_PseudoFile_5314
+EGAR00003024148;EGAN00003409919;ReMaster_PID_115;GHGAF44091656379897;ReMaster_File_5291;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;MALE;;;;GHGAF65813328146724;ReMaster_PseudoFile_5315
+EGAR00003031899;EGAN00003409915;ReMaster_PID_114;GHGAF00512550921287;ReMaster_File_5292;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C24, ICD-O-3: 8162);CONTROL;ICD-10:C24;Malignant neoplasm of other and unspecified parts of biliary tract;FEMALE;;;;GHGAF47023961338866;ReMaster_PseudoFile_5316
+EGAR00002311990;EGAN00002593779;ReMaster_PID_112;GHGAF52434848935187;ReMaster_File_5293;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF34402340597411;ReMaster_PseudoFile_5317
+EGAR00003031902;EGAN00003409878;ReMaster_PID_111;GHGAF17561998453415;ReMaster_File_5294;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF37895162053627;ReMaster_PseudoFile_5318
+EGAR00002312023;EGAN00002593771;ReMaster_PID_109;GHGAF07040876198867;ReMaster_File_5295;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF22673304687059;ReMaster_PseudoFile_5319
+EGAR00003032715;EGAN00003410119;ReMaster_PID_1227;GHGAF94943338150664;ReMaster_File_5296;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF80322745421133;ReMaster_PseudoFile_5320
+EGAR00003031796;EGAN00003409843;ReMaster_PID_108;GHGAF45531623247282;ReMaster_File_5297;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;MALE;;;;GHGAF43584586238127;ReMaster_PseudoFile_5325
+EGAR00002311001;EGAN00002593770;ReMaster_PID_1228;GHGAF57871853083189;ReMaster_File_5298;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8154);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF57209796677379;ReMaster_PseudoFile_5326
+EGAR00003032743;EGAN00003409786;ReMaster_PID_1229;GHGAF46900896171186;ReMaster_File_5299;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF40799509509067;ReMaster_PseudoFile_5327
+EGAR00003311742;EGAN00003539024;ReMaster_PID_1230;GHGAF91686866388688;ReMaster_File_5300;FASTQ;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C23, ICD-O-3: 8140);CONTROL;ICD-10:C23;Malignant neoplasm of gallbladder;FEMALE;;;;GHGAF01587570316885;ReMaster_PseudoFile_5328
+EGAR00003311742;EGAN00003539024;ReMaster_PID_1230;GHGAF71295588857468;ReMaster_File_5301;FASTQ;2;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C23, ICD-O-3: 8140);CONTROL;ICD-10:C23;Malignant neoplasm of gallbladder;FEMALE;;;;GHGAF65968638540341;ReMaster_PseudoFile_5329
+EGAR00003311746;EGAN00003539024;ReMaster_PID_1230;GHGAF41790594102850;ReMaster_File_5302;FASTQ;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C23, ICD-O-3: 8140);CONTROL;ICD-10:C23;Malignant neoplasm of gallbladder;FEMALE;;;;GHGAF96402232760792;ReMaster_PseudoFile_5330
+EGAR00003311746;EGAN00003539024;ReMaster_PID_1230;GHGAF07765488238064;ReMaster_File_5303;FASTQ;2;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C23, ICD-O-3: 8140);CONTROL;ICD-10:C23;Malignant neoplasm of gallbladder;FEMALE;;;;GHGAF31990179590032;ReMaster_PseudoFile_5331
+EGAR00003032765;EGAN00003409735;ReMaster_PID_104;GHGAF35861254988672;ReMaster_File_5304;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8010);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF91372046340697;ReMaster_PseudoFile_5332
+EGAR00002310942;EGAN00002593769;ReMaster_PID_101;GHGAF17004940149868;ReMaster_File_5305;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF37222872712894;ReMaster_PseudoFile_5333
+EGAR00002301340;EGAN00002591415;ReMaster_PID_1231;GHGAF75326361416419;ReMaster_File_5306;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C78, ICD-O-3: 8140);CONTROL;ICD-10:C78;Secondary malignant neoplasm of respiratory and digestive organs;FEMALE;;;;GHGAF41680911312310;ReMaster_PseudoFile_5334
+EGAR00003031633;EGAN00003409690;ReMaster_PID_1232;GHGAF84766880826210;ReMaster_File_5307;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C24, ICD-O-3: 8010);CONTROL;ICD-10:C24;Malignant neoplasm of other and unspecified parts of biliary tract;FEMALE;;;;GHGAF12619945347030;ReMaster_PseudoFile_5335
+EGAR00003032791;EGAN00003409667;ReMaster_PID_1233;GHGAF71568469161647;ReMaster_File_5308;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF22520234556749;ReMaster_PseudoFile_5336
+EGAR00003023933;EGAN00003409646;ReMaster_PID_100;GHGAF11766755921192;ReMaster_File_5309;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF38469858328244;ReMaster_PseudoFile_5337
+EGAR00003032818;EGAN00003409637;ReMaster_PID_1234;GHGAF00239368642177;ReMaster_File_5310;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8161);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;MALE;;;;GHGAF77573061656650;ReMaster_PseudoFile_5338
+EGAR00002310779;EGAN00002593768;ReMaster_PID_99;GHGAF54652771088108;ReMaster_File_5311;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF68273620257710;ReMaster_PseudoFile_5339
+EGAR00003311771;EGAN00003539025;ReMaster_PID_1235;GHGAF51188728720819;ReMaster_File_5312;FASTQ;2;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF12834018227102;ReMaster_PseudoFile_5340
+EGAR00003311771;EGAN00003539025;ReMaster_PID_1235;GHGAF71436024654318;ReMaster_File_5313;FASTQ;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF38395726380993;ReMaster_PseudoFile_5341
+EGAR00003032624;EGAN00003409605;ReMaster_PID_98;GHGAF42849062877796;ReMaster_File_5314;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;MALE;;;;GHGAF85902169164807;ReMaster_PseudoFile_5344
+EGAR00002310810;EGAN00002593767;ReMaster_PID_1236;GHGAF65539439437271;ReMaster_File_5315;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF74591304728204;ReMaster_PseudoFile_5345
+EGAR00003031578;EGAN00003409576;ReMaster_PID_1237;GHGAF60609379709614;ReMaster_File_5316;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF36752307091774;ReMaster_PseudoFile_5346
+EGAR00002312131;EGAN00002593766;ReMaster_PID_95;GHGAF65711330754974;ReMaster_File_5317;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF52175723198671;ReMaster_PseudoFile_5347
+EGAR00003324242;EGAN00003553212;ReMaster_PID_92;GHGAF31387929940920;ReMaster_File_5318;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C24, ICD-O-3: 8160);CONTROL;ICD-10:C24;Malignant neoplasm of other and unspecified parts of biliary tract;FEMALE;;;;GHGAF82554192750288;ReMaster_PseudoFile_5348
+EGAR00002310863;EGAN00002593757;ReMaster_PID_91;GHGAF30482715758769;ReMaster_File_5319;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF32464721551129;ReMaster_PseudoFile_5349
+EGAR00003324246;EGAN00003553234;ReMaster_PID_90;GHGAF83350640598009;ReMaster_File_5320;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;MALE;;;;GHGAF97669787829510;ReMaster_PseudoFile_5350
+EGAR00003311752;EGAN00003539022;ReMaster_PID_87;GHGAF58395932790353;ReMaster_File_5321;FASTQ;2;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8971);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF33611545549612;ReMaster_PseudoFile_5351
+EGAR00003311752;EGAN00003539022;ReMaster_PID_87;GHGAF32180075552862;ReMaster_File_5322;FASTQ;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8971);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF91473494914100;ReMaster_PseudoFile_5352
+EGAR00003311757;EGAN00003539022;ReMaster_PID_87;GHGAF83756322994555;ReMaster_File_5323;FASTQ;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8971);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF62188079986122;ReMaster_PseudoFile_5353
+EGAR00003311757;EGAN00003539022;ReMaster_PID_87;GHGAF69970672832210;ReMaster_File_5324;FASTQ;2;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8971);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF28644740626683;ReMaster_PseudoFile_5354
+EGAR00002312008;EGAN00002593765;ReMaster_PID_84;GHGAF27024070610579;ReMaster_File_5325;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF58719987017819;ReMaster_PseudoFile_5355
+EGAR00002301276;EGAN00002591403;ReMaster_PID_83;GHGAF10636165400429;ReMaster_File_5326;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C78, ICD-O-3: 8140);CONTROL;ICD-10:C78;Secondary malignant neoplasm of respiratory and digestive organs;FEMALE;;;;GHGAF87037949354314;ReMaster_PseudoFile_5356
+EGAR00002301320;EGAN00002591401;ReMaster_PID_82;GHGAF84667949375445;ReMaster_File_5327;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C79, ICD-O-3: 8140);CONTROL;ICD-10:C79;Secondary malignant neoplasm of other and unspecified sites;FEMALE;;;;GHGAF78074322854760;ReMaster_PseudoFile_5357
+EGAR00003031600;EGAN00003409425;ReMaster_PID_81;GHGAF13530926955490;ReMaster_File_5328;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF83241109579221;ReMaster_PseudoFile_5360
+EGAR00003324651;EGAN00003409425;ReMaster_PID_81;GHGAF42846018254908;ReMaster_File_5329;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF81931126814631;ReMaster_PseudoFile_5361
+EGAR00002310869;EGAN00002593756;ReMaster_PID_79;GHGAF43003979529061;ReMaster_File_5330;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8480);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF80271030029603;ReMaster_PseudoFile_5362
+EGAR00002312046;EGAN00002593764;ReMaster_PID_78;GHGAF00337905974957;ReMaster_File_5331;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF83466949431360;ReMaster_PseudoFile_5363
+EGAR00003326162;EGAN00003409404;ReMaster_PID_77;GHGAF59411869116899;ReMaster_File_5332;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8171);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF46328778069094;ReMaster_PseudoFile_5364
+EGAR00002310746;EGAN00002593763;ReMaster_PID_76;GHGAF50635563555435;ReMaster_File_5333;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8560);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF34846119155681;ReMaster_PseudoFile_5365
+EGAR00003032706;EGAN00003409386;ReMaster_PID_75;GHGAF59423975377790;ReMaster_File_5334;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;MALE;;;;GHGAF03496732067243;ReMaster_PseudoFile_5366
+EGAR00003032710;EGAN00003409384;ReMaster_PID_74;GHGAF42079888280534;ReMaster_File_5335;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF52085624111309;ReMaster_PseudoFile_5367
+EGAR00002312022;EGAN00002593762;ReMaster_PID_73;GHGAF10882177978525;ReMaster_File_5336;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF55086140434599;ReMaster_PseudoFile_5368
+EGAR00003031530;EGAN00003409358;ReMaster_PID_1238;GHGAF39763938304982;ReMaster_File_5337;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8560);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF89741628754749;ReMaster_PseudoFile_5371
+EGAR00003032468;EGAN00003409349;ReMaster_PID_1239;GHGAF57249114509026;ReMaster_File_5338;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;MALE;;;;GHGAF02939782369495;ReMaster_PseudoFile_5372
+EGAR00003324152;EGAN00003553220;ReMaster_PID_1240;GHGAF60978960689494;ReMaster_File_5339;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF90050015626543;ReMaster_PseudoFile_5373
+EGAR00002301278;EGAN00002591391;ReMaster_PID_71;GHGAF83371094154999;ReMaster_File_5340;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C79, ICD-O-3: 8140);CONTROL;ICD-10:C79;Secondary malignant neoplasm of other and unspecified sites;FEMALE;;;;GHGAF90383940208560;ReMaster_PseudoFile_5374
+EGAR00003032588;EGAN00003409316;ReMaster_PID_70;GHGAF25966727143185;ReMaster_File_5341;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;MALE;;;;GHGAF07092094805037;ReMaster_PseudoFile_5375
+EGAR00003311759;EGAN00003538935;ReMaster_PID_69;GHGAF57461775415283;ReMaster_File_5342;FASTQ;2;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF95819275326241;ReMaster_PseudoFile_5376
+EGAR00003311759;EGAN00003538935;ReMaster_PID_69;GHGAF92380095619083;ReMaster_File_5343;FASTQ;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF85143840970491;ReMaster_PseudoFile_5377
+EGAR00002311982;EGAN00002593760;ReMaster_PID_68;GHGAF94519779286350;ReMaster_File_5344;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF35026511396298;ReMaster_PseudoFile_5378
+EGAR00002311009;EGAN00002593759;ReMaster_PID_66;GHGAF38974562450610;ReMaster_File_5345;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF90520919141566;ReMaster_PseudoFile_5379
+EGAR00003024076;EGAN00003409271;ReMaster_PID_65;GHGAF57740856838065;ReMaster_File_5346;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF03636542302413;ReMaster_PseudoFile_5380
+EGAR00003326164;EGAN00003409264;ReMaster_PID_64;GHGAF15366210490015;ReMaster_File_5347;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8010);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;MALE;;;;GHGAF67167783714132;ReMaster_PseudoFile_5381
+EGAR00003031785;EGAN00003409261;ReMaster_PID_63;GHGAF41226825426817;ReMaster_File_5348;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C23, ICD-O-3: 8560);CONTROL;ICD-10:C23;Malignant neoplasm of gallbladder;MALE;;;;GHGAF68068901290399;ReMaster_PseudoFile_5382
+EGAR00003032614;EGAN00003409657;ReMaster_PID_62;GHGAF51900463336557;ReMaster_File_5349;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CONTROL;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF50981960432581;ReMaster_PseudoFile_5383
+EGAR00002239773;EGAN00002521359;ReMaster_PID_1241;GHGAF43535690651771;ReMaster_File_5350;BAM;1;normal control for biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8971);CONTROL;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF71440203973133;ReMaster_PseudoFile_5384
+EGAR00002239772;EGAN00002521360;ReMaster_PID_1241;GHGAF59094021079056;ReMaster_File_5351;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8971);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF10181794654683;ReMaster_PseudoFile_5385
+EGAR00003032615;EGAN00003409658;ReMaster_PID_62;GHGAF43715274847523;ReMaster_File_5352;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF49002186220571;ReMaster_PseudoFile_5386
+EGAR00003031786;EGAN00003409262;ReMaster_PID_63;GHGAF98104522934725;ReMaster_File_5353;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C23, ICD-O-3: 8560);CASE;ICD-10:C23;Malignant neoplasm of gallbladder;MALE;;;;GHGAF40795802231618;ReMaster_PseudoFile_5387
+EGAR00003326163;EGAN00003409263;ReMaster_PID_64;GHGAF06473647534596;ReMaster_File_5354;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8010);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;MALE;;;;GHGAF62249957687569;ReMaster_PseudoFile_5388
+EGAR00003023922;EGAN00003409272;ReMaster_PID_65;GHGAF92465544843109;ReMaster_File_5355;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF17241899734342;ReMaster_PseudoFile_5391
+EGAR00002311005;EGAN00002593133;ReMaster_PID_66;GHGAF80158787252964;ReMaster_File_5356;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF24380891838293;ReMaster_PseudoFile_5392
+EGAR00002311967;EGAN00002593134;ReMaster_PID_68;GHGAF02132473265033;ReMaster_File_5357;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF75443657381026;ReMaster_PseudoFile_5393
+EGAR00003311765;EGAN00003538936;ReMaster_PID_69;GHGAF09783907560507;ReMaster_File_5358;FASTQ;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF38062623268974;ReMaster_PseudoFile_5394
+EGAR00003311765;EGAN00003538936;ReMaster_PID_69;GHGAF40577428323211;ReMaster_File_5359;FASTQ;2;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF77601839351197;ReMaster_PseudoFile_5395
+EGAR00002310959;EGAN00002593135;ReMaster_PID_69;GHGAF73955511129540;ReMaster_File_5360;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF89697518865951;ReMaster_PseudoFile_5396
+EGAR00003032590;EGAN00003409317;ReMaster_PID_70;GHGAF21893185276251;ReMaster_File_5361;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;MALE;;;;GHGAF03371100011862;ReMaster_PseudoFile_5397
+EGAR00002301277;EGAN00002591390;ReMaster_PID_71;GHGAF35803892388657;ReMaster_File_5362;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C79, ICD-O-3: 8140);CASE;ICD-10:C79;Secondary malignant neoplasm of other and unspecified sites;FEMALE;;;;GHGAF08439471246765;ReMaster_PseudoFile_5398
+EGAR00003324151;EGAN00003553217;ReMaster_PID_1240;GHGAF27845669741464;ReMaster_File_5363;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF80088463444100;ReMaster_PseudoFile_5403
+EGAR00003032467;EGAN00003409350;ReMaster_PID_1239;GHGAF62335997947086;ReMaster_File_5364;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;MALE;;;;GHGAF59893466886021;ReMaster_PseudoFile_5404
+EGAR00003031529;EGAN00003409359;ReMaster_PID_1238;GHGAF61498928320542;ReMaster_File_5365;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8560);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF44988394899550;ReMaster_PseudoFile_5405
+EGAR00002311981;EGAN00002593136;ReMaster_PID_73;GHGAF53111656071589;ReMaster_File_5366;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF04867153130586;ReMaster_PseudoFile_5406
+EGAR00003032709;EGAN00003409385;ReMaster_PID_74;GHGAF12638222494410;ReMaster_File_5367;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF25497894483389;ReMaster_PseudoFile_5407
+EGAR00003032705;EGAN00003409387;ReMaster_PID_75;GHGAF71566703237483;ReMaster_File_5368;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;MALE;;;;GHGAF65324892281269;ReMaster_PseudoFile_5408
+EGAR00003311761;EGAN00003538925;ReMaster_PID_76;GHGAF65952503629204;ReMaster_File_5369;FASTQ;2;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8560);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF28564640462546;ReMaster_PseudoFile_5409
+EGAR00003311761;EGAN00003538925;ReMaster_PID_76;GHGAF75719896196329;ReMaster_File_5370;FASTQ;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8560);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF71101807077222;ReMaster_PseudoFile_5410
+EGAR00002310804;EGAN00002593137;ReMaster_PID_76;GHGAF84566916444925;ReMaster_File_5371;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8560);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF50485115919883;ReMaster_PseudoFile_5411
+EGAR00003326161;EGAN00003409405;ReMaster_PID_77;GHGAF51669508496017;ReMaster_File_5372;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8171);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF65795465533912;ReMaster_PseudoFile_5412
+EGAR00002312106;EGAN00002593138;ReMaster_PID_78;GHGAF20354022774693;ReMaster_File_5373;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF37679458583314;ReMaster_PseudoFile_5413
+EGAR00002310742;EGAN00002593130;ReMaster_PID_79;GHGAF63109651360364;ReMaster_File_5374;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8480);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF62774645460024;ReMaster_PseudoFile_5418
+EGAR00003031593;EGAN00003409426;ReMaster_PID_81;GHGAF71218691150323;ReMaster_File_5375;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF62164503752964;ReMaster_PseudoFile_5421
+EGAR00003324635;EGAN00003409426;ReMaster_PID_81;GHGAF80607516507250;ReMaster_File_5376;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF37862230859455;ReMaster_PseudoFile_5422
+EGAR00002301319;EGAN00002591400;ReMaster_PID_82;GHGAF51548947002923;ReMaster_File_5377;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C79, ICD-O-3: 8140);CASE;ICD-10:C79;Secondary malignant neoplasm of other and unspecified sites;FEMALE;;;;GHGAF30777018659516;ReMaster_PseudoFile_5423
+EGAR00002301275;EGAN00002591402;ReMaster_PID_83;GHGAF63658683149272;ReMaster_File_5378;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C78, ICD-O-3: 8140);CASE;ICD-10:C78;Secondary malignant neoplasm of respiratory and digestive organs;FEMALE;;;;GHGAF51492994050249;ReMaster_PseudoFile_5424
+EGAR00002311907;EGAN00002593139;ReMaster_PID_84;GHGAF24498751141515;ReMaster_File_5379;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF40620380329202;ReMaster_PseudoFile_5425
+EGAR00002239775;EGAN00002521357;ReMaster_PID_87;GHGAF00496344051657;ReMaster_File_5380;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8971);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF99286394957573;ReMaster_PseudoFile_5426
+EGAR00002239771;EGAN00002521358;ReMaster_PID_87;GHGAF90119223699715;ReMaster_File_5381;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8971);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF80838078768173;ReMaster_PseudoFile_5427
+EGAR00003324245;EGAN00003553232;ReMaster_PID_90;GHGAF64740889767286;ReMaster_File_5382;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;MALE;;;;GHGAF96209394478718;ReMaster_PseudoFile_5428
+EGAR00002310860;EGAN00002593131;ReMaster_PID_91;GHGAF84622064928263;ReMaster_File_5383;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;GHGAF05854902020065;ReMaster_PseudoFile_5429
+EGAR00003324241;EGAN00003553211;ReMaster_PID_92;GHGAF35475115073311;ReMaster_File_5384;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C24, ICD-O-3: 8160);CASE;ICD-10:C24;Malignant neoplasm of other and unspecified parts of biliary tract;FEMALE;;;;GHGAF92718561417924;ReMaster_PseudoFile_5430
+EGAR00002311937;EGAN00002593140;ReMaster_PID_95;GHGAF54765795773726;ReMaster_File_5385;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF42380349100036;ReMaster_PseudoFile_5431
+EGAR00003031577;EGAN00003409577;ReMaster_PID_1237;GHGAF00214002207361;ReMaster_File_5386;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;GHGAF98377095265498;ReMaster_PseudoFile_5440
+EGAR00002310774;EGAN00002593141;ReMaster_PID_1236;GHGAF07350793504220;ReMaster_File_5387;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;GHGAF36999204450427;ReMaster_PseudoFile_5445
+EGAR00003032622;EGAN00003409606;ReMaster_PID_98;GHGAF74469207258090;ReMaster_File_5388;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;MALE;;;;;
+EGAR00003311772;EGAN00003539023;ReMaster_PID_1235;GHGAF08727978717908;ReMaster_File_5389;FASTQ;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00003311772;EGAN00003539023;ReMaster_PID_1235;GHGAF56438115191754;ReMaster_File_5390;FASTQ;2;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00002310732;EGAN00002593142;ReMaster_PID_99;GHGAF90875101049690;ReMaster_File_5391;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;;
+EGAR00003032817;EGAN00003409638;ReMaster_PID_1234;GHGAF89256979997381;ReMaster_File_5392;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8161);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;MALE;;;;;
+EGAR00003023934;EGAN00003409647;ReMaster_PID_100;GHGAF93488085211079;ReMaster_File_5393;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;;
+EGAR00003032790;EGAN00003409668;ReMaster_PID_1233;GHGAF49836156305589;ReMaster_File_5394;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00003031632;EGAN00003409692;ReMaster_PID_1232;GHGAF51897505378371;ReMaster_File_5395;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C24, ICD-O-3: 8010);CASE;ICD-10:C24;Malignant neoplasm of other and unspecified parts of biliary tract;FEMALE;;;;;
+EGAR00002301339;EGAN00002591414;ReMaster_PID_1231;GHGAF53337882006593;ReMaster_File_5396;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C78, ICD-O-3: 8140);CASE;ICD-10:C78;Secondary malignant neoplasm of respiratory and digestive organs;FEMALE;;;;;
+EGAR00002310943;EGAN00002593143;ReMaster_PID_101;GHGAF99405912841433;ReMaster_File_5397;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00003032767;EGAN00003409734;ReMaster_PID_104;GHGAF68263080805716;ReMaster_File_5398;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8010);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;;
+EGAR00003311754;EGAN00003539014;ReMaster_PID_1230;GHGAF90896159227064;ReMaster_File_5399;FASTQ;2;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C23, ICD-O-3: 8140);CASE;ICD-10:C23;Malignant neoplasm of gallbladder;FEMALE;;;;;
+EGAR00003311754;EGAN00003539014;ReMaster_PID_1230;GHGAF74543835452241;ReMaster_File_5400;FASTQ;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C23, ICD-O-3: 8140);CASE;ICD-10:C23;Malignant neoplasm of gallbladder;FEMALE;;;;;
+EGAR00003311744;EGAN00003539014;ReMaster_PID_1230;GHGAF30341108923542;ReMaster_File_5401;FASTQ;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C23, ICD-O-3: 8140);CASE;ICD-10:C23;Malignant neoplasm of gallbladder;FEMALE;;;;;
+EGAR00003311744;EGAN00003539014;ReMaster_PID_1230;GHGAF80683991660128;ReMaster_File_5402;FASTQ;2;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C23, ICD-O-3: 8140);CASE;ICD-10:C23;Malignant neoplasm of gallbladder;FEMALE;;;;;
+EGAR00003032742;EGAN00003409788;ReMaster_PID_1229;GHGAF73446297935774;ReMaster_File_5403;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;;
+EGAR00002311031;EGAN00002593144;ReMaster_PID_1228;GHGAF43423054838194;ReMaster_File_5404;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8154);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;;
+EGAR00003031782;EGAN00003409844;ReMaster_PID_108;GHGAF16418495814586;ReMaster_File_5405;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;MALE;;;;;
+EGAR00003032718;EGAN00003410120;ReMaster_PID_1227;GHGAF92629132833839;ReMaster_File_5406;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;;
+EGAR00002312128;EGAN00002593145;ReMaster_PID_109;GHGAF86743046994258;ReMaster_File_5407;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00003031901;EGAN00003409880;ReMaster_PID_111;GHGAF77733173535884;ReMaster_File_5408;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;;
+EGAR00002312019;EGAN00002593153;ReMaster_PID_112;GHGAF15104863921454;ReMaster_File_5409;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00003031900;EGAN00003409916;ReMaster_PID_114;GHGAF63169977919492;ReMaster_File_5410;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C24, ICD-O-3: 8162);CASE;ICD-10:C24;Malignant neoplasm of other and unspecified parts of biliary tract;FEMALE;;;;;
+EGAR00003024147;EGAN00003409920;ReMaster_PID_115;GHGAF28195643522806;ReMaster_File_5411;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;MALE;;;;;
+EGAR00003031662;EGAN00003409956;ReMaster_PID_116;GHGAF30987870397308;ReMaster_File_5412;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;;
+EGAR00002311007;EGAN00002593147;ReMaster_PID_1226;GHGAF13598921548242;ReMaster_File_5413;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00003316609;EGAN00003542682;ReMaster_PID_1225;GHGAF94316727726013;ReMaster_File_5414;FASTQ;2;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8021);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00003316609;EGAN00003542682;ReMaster_PID_1225;GHGAF78396064444360;ReMaster_File_5415;FASTQ;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8021);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00003316610;EGAN00003542682;ReMaster_PID_1225;GHGAF61280051226164;ReMaster_File_5416;FASTQ;2;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8021);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00003316610;EGAN00003542682;ReMaster_PID_1225;GHGAF99497479544653;ReMaster_File_5417;FASTQ;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8021);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00002311933;EGAN00002593148;ReMaster_PID_1224;GHGAF13022500431869;ReMaster_File_5418;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8481);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00003316593;EGAN00003542193;ReMaster_PID_1223;GHGAF07189068353866;ReMaster_File_5419;FASTQ;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00003316593;EGAN00003542193;ReMaster_PID_1223;GHGAF12329320527698;ReMaster_File_5420;FASTQ;2;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00002312086;EGAN00002593149;ReMaster_PID_119;GHGAF29009065516445;ReMaster_File_5421;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00002311955;EGAN00002593150;ReMaster_PID_122;GHGAF03565590818233;ReMaster_File_5422;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;;
+EGAR00003032450;EGAN00003410066;ReMaster_PID_123;GHGAF07838113795982;ReMaster_File_5423;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;;
+EGAR00003032431;EGAN00003410081;ReMaster_PID_127;GHGAF82650684765509;ReMaster_File_5424;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C23, ICD-O-3: 8010);CASE;ICD-10:C23;Malignant neoplasm of gallbladder;MALE;;;;;
+EGAR00003024115;EGAN00003410132;ReMaster_PID_1222;GHGAF83862293053971;ReMaster_File_5425;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8140);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;;
+EGAR00002311035;EGAN00002593132;ReMaster_PID_1156;GHGAF64686527864150;ReMaster_File_5426;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00003031931;EGAN00003410160;ReMaster_PID_130;GHGAF77936505161715;ReMaster_File_5427;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00002311064;EGAN00002593151;ReMaster_PID_131;GHGAF94890977763337;ReMaster_File_5428;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00003024140;EGAN00003410222;ReMaster_PID_133;GHGAF29228418776975;ReMaster_File_5429;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8171);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;;
+EGAR00003031923;EGAN00003410231;ReMaster_PID_134;GHGAF15826137241880;ReMaster_File_5430;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C22, ICD-O-3: 8160);CASE;ICD-10:C22;Malignant neoplasm of liver and intrahepatic bile ducts;FEMALE;;;;;
+EGAR00002311055;EGAN00002593152;ReMaster_PID_1221;GHGAF83396575175470;ReMaster_File_5431;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;;
+EGAR00003316632;EGAN00003542986;ReMaster_PID_135;GHGAF92302846959143;ReMaster_File_5432;FASTQ;2;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;;
+EGAR00003316632;EGAN00003542986;ReMaster_PID_135;GHGAF47507856932437;ReMaster_File_5433;FASTQ;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;;
+EGAR00003316614;EGAN00003542986;ReMaster_PID_135;GHGAF26755451643948;ReMaster_File_5434;FASTQ;2;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;;
+EGAR00003316614;EGAN00003542986;ReMaster_PID_135;GHGAF89669717347425;ReMaster_File_5435;FASTQ;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8500);CASE;ICD-10:C25;Malignant neoplasm of pancreas;FEMALE;;;;;
+EGAR00003316623;EGAN00003542971;ReMaster_PID_136;GHGAF89654302889783;ReMaster_File_5436;FASTQ;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00003316623;EGAN00003542971;ReMaster_PID_136;GHGAF93479508236176;ReMaster_File_5437;FASTQ;2;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00003316622;EGAN00003542971;ReMaster_PID_136;GHGAF82762694638567;ReMaster_File_5438;FASTQ;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00003316622;EGAN00003542971;ReMaster_PID_136;GHGAF92372209794360;ReMaster_File_5439;FASTQ;2;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8140);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00003031490;EGAN00003410273;ReMaster_PID_1220;GHGAF29950016751809;ReMaster_File_5440;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8453);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+EGAR00003316650;EGAN00003542982;ReMaster_PID_1219;GHGAF71035550976569;ReMaster_File_5441;FASTQ;2;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C24, ICD-O-3: 8160);CASE;ICD-10:C24;Malignant neoplasm of other and unspecified parts of biliary tract;MALE;;;;;
+EGAR00003316650;EGAN00003542982;ReMaster_PID_1219;GHGAF39258498834491;ReMaster_File_5442;FASTQ;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C24, ICD-O-3: 8160);CASE;ICD-10:C24;Malignant neoplasm of other and unspecified parts of biliary tract;MALE;;;;;
+EGAR00003316639;EGAN00003542982;ReMaster_PID_1219;GHGAF89403430485245;ReMaster_File_5443;FASTQ;2;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C24, ICD-O-3: 8160);CASE;ICD-10:C24;Malignant neoplasm of other and unspecified parts of biliary tract;MALE;;;;;
+EGAR00003316639;EGAN00003542982;ReMaster_PID_1219;GHGAF88322131984127;ReMaster_File_5444;FASTQ;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C24, ICD-O-3: 8160);CASE;ICD-10:C24;Malignant neoplasm of other and unspecified parts of biliary tract;MALE;;;;;
+EGAR00003031548;EGAN00003410297;ReMaster_PID_1218;GHGAF68868503818039;ReMaster_File_5445;BAM;1;biopsy of hepatopancreaticobiliary malignancy (ICD-10: C25, ICD-O-3: 8550);CASE;ICD-10:C25;Malignant neoplasm of pancreas;MALE;;;;;
+;;;GHGAF49814560010408;ReMaster_PseudoFile_5255;;;;;;;;;;;;
+;;;GHGAF40486902759059;ReMaster_PseudoFile_5256;;;;;;;;;;;;
+;;;GHGAF81811929554979;ReMaster_PseudoFile_5257;;;;;;;;;;;;
+;;;GHGAF83378402879195;ReMaster_PseudoFile_5262;;;;;;;;;;;;
+;;;GHGAF47684725589959;ReMaster_PseudoFile_5271;;;;;;;;;;;;
+;;;GHGAF21642208769475;ReMaster_PseudoFile_5272;;;;;;;;;;;;
+;;;GHGAF23546195080074;ReMaster_PseudoFile_5273;;;;;;;;;;;;
+;;;GHGAF79539167117313;ReMaster_PseudoFile_5274;;;;;;;;;;;;
+;;;GHGAF16969291094083;ReMaster_PseudoFile_5275;;;;;;;;;;;;
+;;;GHGAF99709241864585;ReMaster_PseudoFile_5276;;;;;;;;;;;;
+;;;GHGAF24526927082415;ReMaster_PseudoFile_5277;;;;;;;;;;;;
+;;;GHGAF33631110305719;ReMaster_PseudoFile_5278;;;;;;;;;;;;
+;;;GHGAF37936174083936;ReMaster_PseudoFile_5279;;;;;;;;;;;;
+;;;GHGAF83679597145609;ReMaster_PseudoFile_5280;;;;;;;;;;;;
+;;;GHGAF69363753292308;ReMaster_PseudoFile_5281;;;;;;;;;;;;
+;;;GHGAF84703257285297;ReMaster_PseudoFile_5284;;;;;;;;;;;;
+;;;GHGAF16380103543974;ReMaster_PseudoFile_5289;;;;;;;;;;;;
+;;;GHGAF53675036948577;ReMaster_PseudoFile_5290;;;;;;;;;;;;
+;;;GHGAF82954540831738;ReMaster_PseudoFile_5291;;;;;;;;;;;;
+;;;GHGAF94242717767417;ReMaster_PseudoFile_5292;;;;;;;;;;;;
+;;;GHGAF07754990414896;ReMaster_PseudoFile_5293;;;;;;;;;;;;
+;;;GHGAF87949832410648;ReMaster_PseudoFile_5294;;;;;;;;;;;;
+;;;GHGAF60058984915277;ReMaster_PseudoFile_5295;;;;;;;;;;;;
+;;;GHGAF00173722458354;ReMaster_PseudoFile_5296;;;;;;;;;;;;
+;;;GHGAF55048540123432;ReMaster_PseudoFile_5297;;;;;;;;;;;;
+;;;GHGAF94155582959779;ReMaster_PseudoFile_5298;;;;;;;;;;;;
+;;;GHGAF80930684231133;ReMaster_PseudoFile_5299;;;;;;;;;;;;
+;;;GHGAF93516263463772;ReMaster_PseudoFile_5304;;;;;;;;;;;;
+;;;GHGAF14343801804296;ReMaster_PseudoFile_5305;;;;;;;;;;;;
+;;;GHGAF34061508767572;ReMaster_PseudoFile_5306;;;;;;;;;;;;
+;;;GHGAF88782276863402;ReMaster_PseudoFile_5307;;;;;;;;;;;;
+;;;GHGAF17800882962856;ReMaster_PseudoFile_5308;;;;;;;;;;;;
+;;;GHGAF93897963135712;ReMaster_PseudoFile_5309;;;;;;;;;;;;
+;;;GHGAF49119108442223;ReMaster_PseudoFile_5310;;;;;;;;;;;;
+;;;GHGAF08943829556222;ReMaster_PseudoFile_5311;;;;;;;;;;;;
+;;;GHGAF72686675549625;ReMaster_PseudoFile_5314;;;;;;;;;;;;
+;;;GHGAF65813328146724;ReMaster_PseudoFile_5315;;;;;;;;;;;;
+;;;GHGAF47023961338866;ReMaster_PseudoFile_5316;;;;;;;;;;;;
+;;;GHGAF34402340597411;ReMaster_PseudoFile_5317;;;;;;;;;;;;
+;;;GHGAF37895162053627;ReMaster_PseudoFile_5318;;;;;;;;;;;;
+;;;GHGAF22673304687059;ReMaster_PseudoFile_5319;;;;;;;;;;;;
+;;;GHGAF80322745421133;ReMaster_PseudoFile_5320;;;;;;;;;;;;
+;;;GHGAF43584586238127;ReMaster_PseudoFile_5325;;;;;;;;;;;;
+;;;GHGAF57209796677379;ReMaster_PseudoFile_5326;;;;;;;;;;;;
+;;;GHGAF40799509509067;ReMaster_PseudoFile_5327;;;;;;;;;;;;
+;;;GHGAF01587570316885;ReMaster_PseudoFile_5328;;;;;;;;;;;;
+;;;GHGAF65968638540341;ReMaster_PseudoFile_5329;;;;;;;;;;;;
+;;;GHGAF96402232760792;ReMaster_PseudoFile_5330;;;;;;;;;;;;
+;;;GHGAF31990179590032;ReMaster_PseudoFile_5331;;;;;;;;;;;;
+;;;GHGAF91372046340697;ReMaster_PseudoFile_5332;;;;;;;;;;;;
+;;;GHGAF37222872712894;ReMaster_PseudoFile_5333;;;;;;;;;;;;
+;;;GHGAF41680911312310;ReMaster_PseudoFile_5334;;;;;;;;;;;;
+;;;GHGAF12619945347030;ReMaster_PseudoFile_5335;;;;;;;;;;;;
+;;;GHGAF22520234556749;ReMaster_PseudoFile_5336;;;;;;;;;;;;
+;;;GHGAF38469858328244;ReMaster_PseudoFile_5337;;;;;;;;;;;;
+;;;GHGAF77573061656650;ReMaster_PseudoFile_5338;;;;;;;;;;;;
+;;;GHGAF68273620257710;ReMaster_PseudoFile_5339;;;;;;;;;;;;
+;;;GHGAF12834018227102;ReMaster_PseudoFile_5340;;;;;;;;;;;;
+;;;GHGAF38395726380993;ReMaster_PseudoFile_5341;;;;;;;;;;;;
+;;;GHGAF85902169164807;ReMaster_PseudoFile_5344;;;;;;;;;;;;
+;;;GHGAF74591304728204;ReMaster_PseudoFile_5345;;;;;;;;;;;;
+;;;GHGAF36752307091774;ReMaster_PseudoFile_5346;;;;;;;;;;;;
+;;;GHGAF52175723198671;ReMaster_PseudoFile_5347;;;;;;;;;;;;
+;;;GHGAF82554192750288;ReMaster_PseudoFile_5348;;;;;;;;;;;;
+;;;GHGAF32464721551129;ReMaster_PseudoFile_5349;;;;;;;;;;;;
+;;;GHGAF97669787829510;ReMaster_PseudoFile_5350;;;;;;;;;;;;
+;;;GHGAF33611545549612;ReMaster_PseudoFile_5351;;;;;;;;;;;;
+;;;GHGAF91473494914100;ReMaster_PseudoFile_5352;;;;;;;;;;;;
+;;;GHGAF62188079986122;ReMaster_PseudoFile_5353;;;;;;;;;;;;
+;;;GHGAF28644740626683;ReMaster_PseudoFile_5354;;;;;;;;;;;;
+;;;GHGAF58719987017819;ReMaster_PseudoFile_5355;;;;;;;;;;;;
+;;;GHGAF87037949354314;ReMaster_PseudoFile_5356;;;;;;;;;;;;
+;;;GHGAF78074322854760;ReMaster_PseudoFile_5357;;;;;;;;;;;;
+;;;GHGAF83241109579221;ReMaster_PseudoFile_5360;;;;;;;;;;;;
+;;;GHGAF81931126814631;ReMaster_PseudoFile_5361;;;;;;;;;;;;
+;;;GHGAF80271030029603;ReMaster_PseudoFile_5362;;;;;;;;;;;;
+;;;GHGAF83466949431360;ReMaster_PseudoFile_5363;;;;;;;;;;;;
+;;;GHGAF46328778069094;ReMaster_PseudoFile_5364;;;;;;;;;;;;
+;;;GHGAF34846119155681;ReMaster_PseudoFile_5365;;;;;;;;;;;;
+;;;GHGAF03496732067243;ReMaster_PseudoFile_5366;;;;;;;;;;;;
+;;;GHGAF52085624111309;ReMaster_PseudoFile_5367;;;;;;;;;;;;
+;;;GHGAF55086140434599;ReMaster_PseudoFile_5368;;;;;;;;;;;;
+;;;GHGAF89741628754749;ReMaster_PseudoFile_5371;;;;;;;;;;;;
+;;;GHGAF02939782369495;ReMaster_PseudoFile_5372;;;;;;;;;;;;
+;;;GHGAF90050015626543;ReMaster_PseudoFile_5373;;;;;;;;;;;;
+;;;GHGAF90383940208560;ReMaster_PseudoFile_5374;;;;;;;;;;;;
+;;;GHGAF07092094805037;ReMaster_PseudoFile_5375;;;;;;;;;;;;
+;;;GHGAF95819275326241;ReMaster_PseudoFile_5376;;;;;;;;;;;;
+;;;GHGAF85143840970491;ReMaster_PseudoFile_5377;;;;;;;;;;;;
+;;;GHGAF35026511396298;ReMaster_PseudoFile_5378;;;;;;;;;;;;
+;;;GHGAF90520919141566;ReMaster_PseudoFile_5379;;;;;;;;;;;;
+;;;GHGAF03636542302413;ReMaster_PseudoFile_5380;;;;;;;;;;;;
+;;;GHGAF67167783714132;ReMaster_PseudoFile_5381;;;;;;;;;;;;
+;;;GHGAF68068901290399;ReMaster_PseudoFile_5382;;;;;;;;;;;;
+;;;GHGAF50981960432581;ReMaster_PseudoFile_5383;;;;;;;;;;;;
+;;;GHGAF71440203973133;ReMaster_PseudoFile_5384;;;;;;;;;;;;
+;;;GHGAF10181794654683;ReMaster_PseudoFile_5385;;;;;;;;;;;;
+;;;GHGAF49002186220571;ReMaster_PseudoFile_5386;;;;;;;;;;;;
+;;;GHGAF40795802231618;ReMaster_PseudoFile_5387;;;;;;;;;;;;
+;;;GHGAF62249957687569;ReMaster_PseudoFile_5388;;;;;;;;;;;;
+;;;GHGAF17241899734342;ReMaster_PseudoFile_5391;;;;;;;;;;;;
+;;;GHGAF24380891838293;ReMaster_PseudoFile_5392;;;;;;;;;;;;
+;;;GHGAF75443657381026;ReMaster_PseudoFile_5393;;;;;;;;;;;;
+;;;GHGAF38062623268974;ReMaster_PseudoFile_5394;;;;;;;;;;;;
+;;;GHGAF77601839351197;ReMaster_PseudoFile_5395;;;;;;;;;;;;
+;;;GHGAF89697518865951;ReMaster_PseudoFile_5396;;;;;;;;;;;;
+;;;GHGAF03371100011862;ReMaster_PseudoFile_5397;;;;;;;;;;;;
+;;;GHGAF08439471246765;ReMaster_PseudoFile_5398;;;;;;;;;;;;
+;;;GHGAF80088463444100;ReMaster_PseudoFile_5403;;;;;;;;;;;;
+;;;GHGAF59893466886021;ReMaster_PseudoFile_5404;;;;;;;;;;;;
+;;;GHGAF44988394899550;ReMaster_PseudoFile_5405;;;;;;;;;;;;
+;;;GHGAF04867153130586;ReMaster_PseudoFile_5406;;;;;;;;;;;;
+;;;GHGAF25497894483389;ReMaster_PseudoFile_5407;;;;;;;;;;;;
+;;;GHGAF65324892281269;ReMaster_PseudoFile_5408;;;;;;;;;;;;
+;;;GHGAF28564640462546;ReMaster_PseudoFile_5409;;;;;;;;;;;;
+;;;GHGAF71101807077222;ReMaster_PseudoFile_5410;;;;;;;;;;;;
+;;;GHGAF50485115919883;ReMaster_PseudoFile_5411;;;;;;;;;;;;
+;;;GHGAF65795465533912;ReMaster_PseudoFile_5412;;;;;;;;;;;;
+;;;GHGAF37679458583314;ReMaster_PseudoFile_5413;;;;;;;;;;;;
+;;;GHGAF62774645460024;ReMaster_PseudoFile_5418;;;;;;;;;;;;
+;;;GHGAF62164503752964;ReMaster_PseudoFile_5421;;;;;;;;;;;;
+;;;GHGAF37862230859455;ReMaster_PseudoFile_5422;;;;;;;;;;;;
+;;;GHGAF30777018659516;ReMaster_PseudoFile_5423;;;;;;;;;;;;
+;;;GHGAF51492994050249;ReMaster_PseudoFile_5424;;;;;;;;;;;;
+;;;GHGAF40620380329202;ReMaster_PseudoFile_5425;;;;;;;;;;;;
+;;;GHGAF99286394957573;ReMaster_PseudoFile_5426;;;;;;;;;;;;
+;;;GHGAF80838078768173;ReMaster_PseudoFile_5427;;;;;;;;;;;;
+;;;GHGAF96209394478718;ReMaster_PseudoFile_5428;;;;;;;;;;;;
+;;;GHGAF05854902020065;ReMaster_PseudoFile_5429;;;;;;;;;;;;
+;;;GHGAF92718561417924;ReMaster_PseudoFile_5430;;;;;;;;;;;;
+;;;GHGAF42380349100036;ReMaster_PseudoFile_5431;;;;;;;;;;;;
+;;;GHGAF98377095265498;ReMaster_PseudoFile_5440;;;;;;;;;;;;
+;;;GHGAF36999204450427;ReMaster_PseudoFile_5445;;;;;;;;;;;;
